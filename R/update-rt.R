@@ -30,7 +30,6 @@ regional_epinow(reported_cases = cases, method = "approximate",
                 generation_time = generation_time, 
                 delays = list(incubation_period, reporting_delay),
                 horizon = 7, samples = 2000, burn_in = 14, fixed_future_rt = TRUE, 
-                target_folder = here::here("data", "rt-samples"), 
                 summary_dir = here::here("data", "rt", target_date), 
                 return_estimates = FALSE,  max_execution_time = 60 * 20,
                 all_regions_summary = FALSE)
