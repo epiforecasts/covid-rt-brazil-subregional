@@ -17,7 +17,7 @@ reporting_delay <- readRDS(here::here("data", "delays", "onset_to_report.rds"))
 # Get cases  ---------------------------------------------------------------
 
 cases <- data.table::fread(file.path("data", "cases", paste0(target_date, ".csv")))
-cases <- cases[, .(region = city_ibge_code, date = date, confirm = case_inc)]
+cases <- cases[, .(region = as.character(city_ibge_code), date = date, confirm = case_inc)]
 data.table::setorder(cases, region, date)
 
 # # Set up cores -----------------------------------------------------
@@ -28,8 +28,9 @@ regional_epinow(reported_cases = cases, method = "approximate",
                 generation_time = generation_time, 
                 delays = list(incubation_period, reporting_delay),
                 horizon = 7, samples = 2000, burn_in = 14, fixed_future_rt = TRUE, 
-                target_folder = here::here("data", "rt-samples", target_date), 
-                summary_dir = here::here("data", "rt"), return_estimates = FALSE, 
-                max_execution_time = 60 * 20, all_regions_summary = FALSE)
+                target_folder = here::here("data", "rt-samples"), 
+                summary_dir = here::here("data", "rt", target_date), 
+                return_estimates = FALSE,  max_execution_time = 60 * 20,
+                all_regions_summary = FALSE)
 
 

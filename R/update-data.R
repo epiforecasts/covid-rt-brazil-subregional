@@ -86,7 +86,7 @@ brazil_data <- brazil_data[, city := as.character(city)]
 Encoding(brazil_data$city) <- "UTF-8"
 
 # Filter to use last 3 months of data -------------------------------------
-brazil_data <- brazil_data[date >= (today - lubridate::weeks(time_horizon))]
+brazil_data <- brazil_data[date >= (today - lubridate::weeks(time_horizon))][date != today]
 
 # Filter to only keep places that have had at  14 non-zero points and over 200 cases
 eval_regions <- data.table::copy(brazil_data)[, .(cum_cases = cumsum(case_inc),
