@@ -7,7 +7,6 @@ library(lubridate)
 
 
 # Set filters  ------------------------------------------------------------
-
 days_with_data <- 14
 min_cases_in_horizon <- 200
 time_horizon <- 14 #(weeks)
@@ -16,7 +15,6 @@ time_horizon <- 14 #(weeks)
 today <- Sys.Date()
 
 # Extract data ------------------------------------------------------------
-
 brazil_io_csv <- scan(gzcon(rawConnection(content( GET("https://data.brasil.io/dataset/covid19/caso.csv.gz")))),what="",sep="\n")  
 brazil_io_full <- data.frame(strsplit(brazil_io_csv, ",")) 
 row.names(brazil_io_full) <- brazil_io_full[,1]
@@ -90,11 +88,9 @@ brazil_data <- brazil_data[, city := as.character(city)]
 Encoding(brazil_data$city) <- "UTF-8"
 
 # Filter to use last 3 months of data -------------------------------------
-
 brazil_data <- brazil_data[date >= (today - lubridate::weeks(time_horizon))]
 
 # Filter to only keep places that have had at  14 non-zero points and over 200 cases
-
 eval_regions <- data.table::copy(brazil_data)[, .(cum_cases = cumsum(case_inc),
                                                   non_zero = case_inc > 0,
                                                   date = date), by = city_ibge_code]
@@ -104,4 +100,4 @@ eval_regions <- eval_regions[non_zero >= days_with_data][cum_cases >= min_cases_
 brazil_data <- brazil_data[city_ibge_code %in% unique(eval_regions$city_ibge_code)]
 
 # Save data  --------------------------------------------------------------
-data.table::fwrite(brazil_data, here::here("data", paste0(today, ".csv")))
+data.table::fwrite(brazil_data, here::here("data", "cases", paste0(today, ".csv")))
