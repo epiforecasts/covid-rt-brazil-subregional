@@ -1,0 +1,89 @@
+# packages ----------------------------------------------------------------
+library(httr)
+library(jsonlite)
+library(data.table)
+library(here)
+
+# set dates ---------------------------------------------------------------
+today <- Sys.Date()
+
+# Extract data ------------------------------------------------------------
+
+brazil_io_csv <- scan(gzcon(rawConnection(content( GET("https://data.brasil.io/dataset/covid19/caso.csv.gz")))),what="",sep="\n")  
+brazil_io_full <- data.frame(strsplit(brazil_io_csv, ",")) 
+row.names(brazil_io_full) <- brazil_io_full[,1]
+brazil_data <- data.table::as.data.table(t(brazil_io_full[,-1]))
+
+# Clean data --------------------------------------------------------------
+# keep only city level data, format date and drop cases without a specific city
+brazil_data <- brazil_data[place_type == "city"][city != "Importados/Indefinidos"][,
+                            date := as.Date(date, format = "%Y-%m-%d")]
+
+
+# Clean up reporting issues -----------------------------------------------
+brazil_data <- brazil_data[order(state, city, date)][, `:=`(confirmed = as.numeric(confirmed),
+                                                           deaths = as.numeric(deaths))]
+
+
+## drop zero cases, and remove cumulative data
+brazil_data <- brazil_data[confirmed != 0][, 
+                           `:=`(case_inc = confirmed - data.table::shift(confirmed, 1, type = "lag", fill = confirmed[1]),
+                                death_inc = deaths - data.table::shift(deaths, 1, type = "lag", fill = deaths[1])),
+                           by = .(state, city)]
+
+
+# Fill missing dates with data --------------------------------------------
+all.dates.frame <- data.frame(list(date = seq(min(brazil_data$date), max(brazil_data$date), by="day")))
+all.dates.frame$merge_col <- "A"
+
+# Merge all cities and dates 
+all_cities <- unique(brazil_data[,c("city", "state", "city_ibge_code")])
+all_cities$merge_col <- "A"
+
+all_dates_cities <- merge(all.dates.frame,all_cities,by="merge_col")
+all_dates_cities <- data.table::as.data.table(all_dates_cities[c(2,3,4,5)])
+
+### Merge Municipality data to dates - missing days should be NULL
+brazil_data <- merge(all_dates_cities,brazil_data,by=c("date","city","state","city_ibge_code"),all.x=TRUE)
+brazil_data <- brazil_data[, c("date","city","state","city_ibge_code", "case_inc", "death_inc")]
+brazil_data <- brazil_data[is.na(case_inc), case_inc := 0][is.na(death_inc), death_inc := 0]
+
+
+
+# Fix negatives -----------------------------------------------------------
+spread_negatives <- function(cases) {
+  overflow <- ifelse(cases < 0, abs(cases), 0)
+  cases <- ifelse(cases < 0, 0, cases)
+  for(index in 1:(length(cases) - 1)) {
+    current_overflow <- overflow[index]
+    if (current_overflow > 0) {
+      j <- index + 1
+      while(current_overflow > 0 & j < length(cases)) {
+        cases[j] <- cases[j] - current_overflow
+        if (cases[j] < 0) {
+          current_overflow <- -cases[j]
+          cases[j] <- 0
+        }else{
+          current_overflow <- 0
+        }
+        j <- j + 1
+      }
+    }
+  }
+  return(cases)
+}
+
+brazil_data <- brazil_data[order(city, state, date)][, 
+                          `:=`(case_inc = spread_negatives(case_inc), 
+                               death_inc = spread_negatives(death_inc)),
+                           by = .(city_ibge_code)]
+
+
+# Redo cumulative ---------------------------------------------------------
+brazil_data <- brazil_data[, `:=`(case_cum = cumsum(case_inc), death_cum = cumsum(death_inc)),
+                           by = city_ibge_code][, city := as.character(city)]
+Encoding(brazil_data$city) <- "UTF-8"
+
+
+# Save data  --------------------------------------------------------------
+data.table::fwrite(brazil_data, here::here("data", paste0(today, ".csv")))
