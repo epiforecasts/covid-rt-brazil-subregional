@@ -1,13 +1,14 @@
 # Packages -----------------------------------------------------------------
-library(EpiNow2)
-library(data.table)
-library(future)
+library(EpiNow2, quietly = TRUE)
+library(data.table, quietly = TRUE)
+library(future, quietly = TRUE)
+library(here, quietly = TRUE)
 
 # Set target date ---------------------------------------------------------
 target_date <- as.character(Sys.Date())
 
 # Set up logging ----------------------------------------------------------
-setup_logging("INFO", file = "info.log")
+setup_logging("INFO", file = paste0("logs/", target_date, ".log"))
 
 # Update delays -----------------------------------------------------------
 generation_time <- readRDS(here::here("data", "delays", "generation_time.rds"))
@@ -17,7 +18,8 @@ reporting_delay <- readRDS(here::here("data", "delays", "onset_to_report.rds"))
 # Get cases  ---------------------------------------------------------------
 
 cases <- data.table::fread(file.path("data", "cases", paste0(target_date, ".csv")))
-cases <- cases[, .(region = as.character(city_ibge_code), date = date, confirm = case_inc)]
+cases <- cases[, .(region = as.character(city_ibge_code), date = as.Date(date), 
+                   confirm = case_inc)]
 data.table::setorder(cases, region, date)
 
 # # Set up cores -----------------------------------------------------

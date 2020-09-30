@@ -1,12 +1,12 @@
 # packages ----------------------------------------------------------------
-library(httr)
-library(jsonlite)
-library(data.table)
-library(here)
-library(lubridate)
+library(httr, quietly = TRUE)
+library(jsonlite, quietly = TRUE)
+library(data.table, quietly = TRUE)
+library(here, quietly = TRUE)
+library(lubridate, quietly = TRUE)
 
 # Set filters  ------------------------------------------------------------
-days_with_data <- 14
+days_with_data <- 30
 min_cases_in_horizon <- 200
 time_horizon <- 14 #(weeks)
 
@@ -94,7 +94,6 @@ eval_regions <- data.table::copy(brazil_data)[, .(cum_cases = cumsum(case_inc),
                                                   date = date), by = city_ibge_code]
 eval_regions <- eval_regions[, .(cum_cases = max(cum_cases), non_zero = sum(non_zero)), by = city_ibge_code]
 eval_regions <- eval_regions[non_zero >= days_with_data][cum_cases >= min_cases_in_horizon]
-
 brazil_data <- brazil_data[city_ibge_code %in% unique(eval_regions$city_ibge_code)]
 
 # Save data  --------------------------------------------------------------

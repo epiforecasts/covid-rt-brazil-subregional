@@ -1,0 +1,21 @@
+region,point,lower,upper,mid_lower,mid_upper,central_lower,central_upper,metric,Expected change in daily cases
+1100122,23347,0,492111000,0,23668,0,194,New confirmed cases by infection date,Unsure
+1100049,52,1,186,11,58,16,31,New confirmed cases by infection date,Likely increasing
+1100023,37,15,62,26,42,32,38,New confirmed cases by infection date,Unsure
+1100130,25,0,202,4,26,8,16,New confirmed cases by infection date,Likely increasing
+1100015,13,7,20,10,15,11,13,New confirmed cases by infection date,Increasing
+1100114,10,1,19,6,12,9,11,New confirmed cases by infection date,Likely decreasing
+1100098,9,0,17,6,12,6,8,New confirmed cases by infection date,Likely increasing
+1100056,8,0,17,4,9,6,8,New confirmed cases by infection date,Increasing
+1100080,8,0,60,0,8,1,4,New confirmed cases by infection date,Likely increasing
+1100106,7,1,13,4,9,5,7,New confirmed cases by infection date,Decreasing
+1100122,1.14,0.67,1.61,0.96,1.32,1.1,1.23,Effective reproduction no.,Unsure
+1100080,1.09,0.97,1.23,1.04,1.13,1.07,1.11,Effective reproduction no.,Likely increasing
+1100056,1.08,1.01,1.14,1.06,1.1,1.08,1.09,Effective reproduction no.,Increasing
+1100049,1.07,0.97,1.16,1.04,1.1,1.06,1.09,Effective reproduction no.,Likely increasing
+1100130,1.06,0.98,1.11,1.04,1.08,1.05,1.07,Effective reproduction no.,Likely increasing
+1100015,1.05,1.02,1.07,1.04,1.05,1.04,1.05,Effective reproduction no.,Increasing
+1100098,1.03,0.97,1.08,1.02,1.05,1.03,1.04,Effective reproduction no.,Likely increasing
+1100023,1,0.96,1.02,0.99,1.01,0.99,1,Effective reproduction no.,Unsure
+1100114,0.97,0.91,1.03,0.95,0.99,0.96,0.97,Effective reproduction no.,Likely decreasing
+1100106,0.94,0.88,0.98,0.92,0.95,0.93,0.94,Effective reproduction no.,Decreasing
