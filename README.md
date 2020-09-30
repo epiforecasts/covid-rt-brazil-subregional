@@ -16,7 +16,7 @@ devtools::install_dev_deps()
 
 ## Updating
 
-Run the following bash script to update the data, delay distribution and to estimate Rt for each area.
+Run the following bash script to update the data, delay distributions and to estimate Rt for each area that fits the criteria specified in `R/update-data.R`.
 
 ```bash
 bash bin/update.sh
