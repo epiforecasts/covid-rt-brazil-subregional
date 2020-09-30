@@ -5,7 +5,6 @@ library(data.table)
 library(here)
 library(lubridate)
 
-
 # Set filters  ------------------------------------------------------------
 days_with_data <- 14
 min_cases_in_horizon <- 200
@@ -81,7 +80,6 @@ brazil_data <- brazil_data[order(city, state, date)][,
                           `:=`(case_inc = spread_negatives(case_inc), 
                                death_inc = spread_negatives(death_inc)),
                            by = .(city_ibge_code)]
-
 
 # City encoding -----------------------------------------------------------
 brazil_data <- brazil_data[, city := as.character(city)]

@@ -1,7 +1,7 @@
 # Packages -----------------------------------------------------------------
-require(EpiNow2)
-require(data.table)
-require(future)
+library(EpiNow2)
+library(data.table)
+library(future)
 
 # Set target date ---------------------------------------------------------
 target_date <- as.character(Sys.Date())
@@ -21,7 +21,7 @@ cases <- cases[, .(region = city_ibge_code, date = date, confirm = case_inc)]
 data.table::setorder(cases, region, date)
 
 # # Set up cores -----------------------------------------------------
-plan("multiprocess")
+plan("multiprocess", gc = TRUE, earlySignal = TRUE)
 
 # Run Rt estimation -------------------------------------------------------
 regional_epinow(reported_cases = cases, method = "approximate",
