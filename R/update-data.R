@@ -5,6 +5,9 @@ library(data.table, quietly = TRUE)
 library(here, quietly = TRUE)
 library(lubridate, quietly = TRUE)
 
+# Get utilities -----------------------------------------------------------
+source(here::here("R", "utils.R"))
+
 # Set filters  ------------------------------------------------------------
 days_with_data <- 30
 min_cases_in_horizon <- 200
@@ -54,27 +57,6 @@ brazil_data <- brazil_data[, c("date","city","state","city_ibge_code", "case_inc
 brazil_data <- brazil_data[is.na(case_inc), case_inc := 0][is.na(death_inc), death_inc := 0]
 
 # Fix negatives -----------------------------------------------------------
-spread_negatives <- function(cases) {
-  overflow <- ifelse(cases < 0, abs(cases), 0)
-  cases <- ifelse(cases < 0, 0, cases)
-  for(index in 1:(length(cases) - 1)) {
-    current_overflow <- overflow[index]
-    if (current_overflow > 0) {
-      j <- index + 1
-      while(current_overflow > 0 & j < length(cases)) {
-        cases[j] <- cases[j] - current_overflow
-        if (cases[j] < 0) {
-          current_overflow <- -cases[j]
-          cases[j] <- 0
-        }else{
-          current_overflow <- 0
-        }
-        j <- j + 1
-      }
-    }
-  }
-  return(cases)
-}
 
 brazil_data <- brazil_data[order(city, state, date)][, 
                           `:=`(case_inc = spread_negatives(case_inc), 
