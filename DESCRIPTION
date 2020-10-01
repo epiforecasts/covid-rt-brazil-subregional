@@ -27,7 +27,7 @@ Imports:
   jsonlite,
   lubridate
 Remotes:
-  epiforecasts/EpiNow2,
+  epiforecasts/EpiNow2@more-ram-efficiency,
   epiforecasts/covidregionaldata
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0

@@ -4,3 +4,4 @@
 .Ruserdata
 data/rt-samples
 *.log
+nohup.out
