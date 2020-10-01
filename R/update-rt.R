@@ -16,7 +16,6 @@ incubation_period <- readRDS(here::here("data", "delays", "incubation_period.rds
 reporting_delay <- readRDS(here::here("data", "delays", "onset_to_report.rds"))
 
 # Get cases  ---------------------------------------------------------------
-
 cases <- data.table::fread(file.path("data", "cases", paste0(target_date, ".csv")))
 cases <- cases[, .(region = as.character(city_ibge_code), date = as.Date(date), 
                    confirm = case_inc)]
