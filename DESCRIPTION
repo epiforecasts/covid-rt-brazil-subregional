@@ -29,7 +29,7 @@ Imports:
   lubridate,
   rmarkdown
 Remotes:
-  epiforecasts/EpiNow2@more-ram-efficiency,
+  epiforecasts/EpiNow2,
   epiforecasts/covidregionaldate,
   epiforecasts/RtD3
 Roxygen: list(markdown = TRUE)
