@@ -28,18 +28,15 @@ brazil_data <- data.table::as.data.table(t(brazil_io_full[,-1]))
 brazil_data <- brazil_data[place_type == "city"][city != "Importados/Indefinidos"][,
                             date := as.Date(date, format = "%Y-%m-%d")]
 
-
 # Clean up reporting issues -----------------------------------------------
 brazil_data <- brazil_data[order(state, city, date)][, `:=`(confirmed = as.numeric(confirmed),
                                                            deaths = as.numeric(deaths))]
-
 
 ## drop zero cases, and remove cumulative data
 brazil_data <- brazil_data[confirmed != 0][, 
                            `:=`(case_inc = confirmed - data.table::shift(confirmed, 1, type = "lag", fill = confirmed[1]),
                                 death_inc = deaths - data.table::shift(deaths, 1, type = "lag", fill = deaths[1])),
                            by = .(state, city)]
-
 
 # Fill missing dates with data --------------------------------------------
 all.dates.frame <- data.frame(list(date = seq(min(brazil_data$date), max(brazil_data$date), by="day")))
@@ -58,7 +55,6 @@ brazil_data <- brazil_data[, c("date","city","state","city_ibge_code", "case_inc
 brazil_data <- brazil_data[is.na(case_inc), case_inc := 0][is.na(death_inc), death_inc := 0]
 
 # Fix negatives -----------------------------------------------------------
-
 brazil_data <- brazil_data[order(city, state, date)][, 
                           `:=`(case_inc = spread_negatives(case_inc), 
                                death_inc = spread_negatives(death_inc)),
