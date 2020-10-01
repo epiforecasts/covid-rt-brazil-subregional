@@ -1,6 +1,6 @@
 ---
 title: "Subregional Estimates of Rt for Covid-19 in Brazil"
-author: "EpiForecasts, and the Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine"
+author: "[EpiForecasts](https://epiforecasts.io/), and the [Centre for Mathematical Modelling of Infectious Diseases](https://cmmid.github.io/topics/covid19/), London School of Hygiene & Tropical Medicine"
 date: "`r format(Sys.Date(), format = '%B %d, %Y')`"
 output:
   html_document:
@@ -9,6 +9,7 @@ output:
     toc_float: true
     toc_depth: 4
     includes:
+      before_body: header.html
       after_body: footer.html
 ---
 
@@ -21,6 +22,16 @@ library(RtD3)
 library(here)
 today <- Sys.Date()
 ```
+
+<style>
+#TOC {
+  top: 1%;
+  opacity: 0.5;
+}
+#TOC:hover {
+  opacity: 1;
+}
+</style>
 
 ***
 
