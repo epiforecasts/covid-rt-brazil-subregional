@@ -1,0 +1,20 @@
+---
+title: "Rt summary"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, include = FALSE}
+library(RtD3)
+library(here)
+```
+
+
+```{r, fig.height = 12, out.width = "100%"}
+today <- Sys.Date()
+rtData <- list("Cases" = RtD3::readInEpiNow2(path = here::here("data", "rt", today)))
+RtD3::summaryWidget(rtData = rtData)
+```
