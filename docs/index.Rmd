@@ -1,6 +1,15 @@
 ---
-title: "Rt summary"
-output: html_document
+title: "Subregional Estimates of Rt for Covid-19 in Brazil"
+author: "EpiForecasts, and the Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine"
+date: "`r format(Sys.Date(), format = '%B %d, %Y')`"
+output:
+  html_document:
+    theme: cosmo
+    toc: true
+    toc_float: true
+    toc_depth: 4
+    includes:
+      after_body: footer.html
 ---
 
 ```{r setup, include=FALSE}
@@ -10,11 +19,51 @@ knitr::opts_chunk$set(echo = FALSE)
 ```{r, include = FALSE}
 library(RtD3)
 library(here)
-```
-
-
-```{r, fig.height = 12, out.width = "100%"}
 today <- Sys.Date()
-rtData <- list("Cases" = RtD3::readInEpiNow2(path = here::here("data", "rt", today)))
-RtD3::summaryWidget(rtData = rtData)
 ```
+
+***
+
+## About
+
+City level estimates of the time-varying reproduction number of Covid-19 produced using [EpiNow2](epiforecasts.io/EpiNow2) based on data from [brazil.io](https://brasil.io/home/) and . Regional estimates for Brazil (along with a national estimate) are available [here](https://epiforecasts.io/covid/posts/national/brazil/). Detail of the method used is given [here](https://epiforecasts.io/covid/methods.html), though the estimates shown here were derived using an approximate approach (variational inference) rather than the exact method used on [epiforecasts.io](https://epiforecasts.io) and therefore should only be considered indicative. The code and data supporting these estimates is available [here](https://github.com/epiforecasts/covid-rt-brazil-subregional).
+
+***
+
+## Interactive summary
+
+```{r, fig.height = 16, out.width = "100%"}
+rtData <- list("Cases" = RtD3::readInEpiNow2(path = here::here("data", "rt", today)))
+RtD3::summaryWidget(rtData = rtData,
+                    activeArea = "5300108",
+                    downloadUrl = "https://github.com/epiforecasts/covid-rt-brazil-subregional")
+```
+
+***
+
+## Regional Breakdown
+
+```{r}
+latest_date <- readRDS(here::here("data","rt", today, "latest_date.rds"))
+case_def <- "case"
+region_path <- NULL
+standalone <- TRUE
+interactive <- TRUE
+report_forecast <- TRUE
+summary_path <- file.path("data","rt", today)
+```
+
+```{r,  child = system.file("templates/_regional-summary.Rmd", package = "EpiNow2")}
+```
+
+***
+
+## Data sources
+
+* Case data from the last 8 weeks is extracted from: [brazil.io](https://brasil.io/home/)
+
+* Estimates were only produced for cities with at least 200 cases, and 30 days of data, in the last 8 weeks. All time series were truncated by 3 days to account for delayed reporting (the delay from original report to reporting in this dataset not the adjusted for delay from onset to original report).
+
+* Data on the delay from onset to report were extracted for Brazil from here: [github.com/beoutbreakprepared/nCoV2019](https://github.com/beoutbreakprepared/nCoV2019/)
+
+* Estimates for the incubation period and the generation time were based on those used here: [epiforecasts.io](https://epiforecasts.io/covid/methods.html)
