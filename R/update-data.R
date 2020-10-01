@@ -11,7 +11,7 @@ source(here::here("R", "utils.R"))
 # Set filters  ------------------------------------------------------------
 days_with_data <- 30
 min_cases_in_horizon <- 200
-time_horizon <- 14 #(weeks)
+time_horizon <- 10 #(weeks)
 
 # set dates ---------------------------------------------------------------
 today <- Sys.Date()
