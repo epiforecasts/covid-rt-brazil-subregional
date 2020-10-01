@@ -9,13 +9,11 @@ library(lubridate, quietly = TRUE)
 source(here::here("R", "utils.R"))
 
 # Set filters  ------------------------------------------------------------
+today <- Sys.Date()
 days_with_data <- 30
 min_cases_in_horizon <- 500
 time_horizon <- 8 #(weeks)
 days_to_truncate <- 3
-
-# set dates ---------------------------------------------------------------
-today <- Sys.Date()
 
 # Extract data ------------------------------------------------------------
 brazil_io_csv <- scan(gzcon(rawConnection(content( GET("https://data.brasil.io/dataset/covid19/caso.csv.gz")))),what="",sep="\n")  
