@@ -21,6 +21,8 @@ cases <- cases[, .(region = as.character(city_ibge_code), date = as.Date(date),
                    confirm = case_inc)]
 data.table::setorder(cases, region, date)
 
+
+cases <- cases[region %in% unique(cases$region)[1:20]]
 # # Set up cores -----------------------------------------------------
 plan("multiprocess", gc = TRUE, earlySignal = TRUE)
 
@@ -28,8 +30,9 @@ plan("multiprocess", gc = TRUE, earlySignal = TRUE)
 regional_epinow(reported_cases = cases, method = "approximate",
                 generation_time = generation_time, 
                 delays = list(incubation_period, reporting_delay),
-                horizon = 7, samples = 2000, burn_in = 14, fixed_future_rt = TRUE, 
-                target_folder = here::here("data", "rt-samples"), summary = FALSE,
+                stan_args = list(trials = 5), horizon = 7, samples = 2000, 
+                burn_in = 14, fixed_future_rt = TRUE, summary = FALSE,
+                target_folder = here::here("data", "rt-samples"), 
                 return_estimates = FALSE,  max_execution_time = 60 * 20,
                 keep_samples = FALSE, make_plots = FALSE)
 
