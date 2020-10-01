@@ -21,8 +21,6 @@ cases <- cases[, .(region = as.character(city_ibge_code), date = as.Date(date),
                    confirm = case_inc)]
 data.table::setorder(cases, region, date)
 
-
-cases <- cases[region %in% unique(cases$region)[1:20]]
 # # Set up cores -----------------------------------------------------
 plan("multiprocess", gc = TRUE, earlySignal = TRUE)
 
