@@ -30,9 +30,7 @@ Imports:
   httr,
   jsonlite,
   lubridate,
-  rmarkdown,
-  sf, 
-  dplyr
+  rmarkdown
 Remotes:
   epiforecasts/EpiNow2,
   epiforecasts/covidregionaldate,
