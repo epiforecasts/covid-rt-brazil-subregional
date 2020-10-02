@@ -7,8 +7,11 @@ Authors@R: c(
          role = c("aut", "cre"),
          email = "sam.abbott@lshtm.ac.uk",
          comment = c(ORCID = "0000-0001-8057-8037")),
- person("Paul", "Mee",
+  person("Paul", "Mee",
          email = "paul.mee@lshtm.ac.uk",
+         role = c("aut")),
+  person("Oliver", "Brady",
+         email = "oliver.brady@lshtm.ac.uk",
          role = c("aut")),
   person("Sebastian", "Funk", 
          email = "sebastian.funk@lshtm.ac.uk", 
@@ -27,7 +30,9 @@ Imports:
   httr,
   jsonlite,
   lubridate,
-  rmarkdown
+  rmarkdown,
+  sf, 
+  dplyr
 Remotes:
   epiforecasts/EpiNow2,
   epiforecasts/covidregionaldate,

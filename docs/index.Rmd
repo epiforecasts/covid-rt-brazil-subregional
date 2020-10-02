@@ -20,7 +20,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ```{r, include = FALSE}
 library(RtD3)
 library(here)
-today <- Sys.Date()
 ```
 
 <style>
@@ -55,9 +54,21 @@ City level estimates of the time-varying reproduction number of Covid-19 produce
 
 ## Summary
 
-```{r, fig.height = 16, out.width = "100%"}
+```{r, fig.height = 16, out.width = "100%", message = FALSE, warning = FALSE}
+# Get today
+today <- Sys.Date()
+# Load shapefile
+geoData <- sf::read_sf(here::here("data", "shapefile"))
+# Load case data
+cases <- data.table::fread(here::here("data", "cases", paste0(today, ".csv")))
+cases <- cases[, .(sovereignt = city, code = city_ibge_code)]
+# Link shapefile with case data to get region
+geoData <- dplyr::left_join(geoData, cases, by = c("GAUL_CODE" = "code"))
+# Load estimates
 rtData <- list("Cases" = RtD3::readInEpiNow2(path = here::here("data", "rt", today)))
+# Make interactive widget
 RtD3::summaryWidget(rtData = rtData,
+                    geoData = geoData,
                     activeArea = "São Paulo",
                     downloadUrl = "https://github.com/epiforecasts/covid-rt-brazil-subregional")
 ```
