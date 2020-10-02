@@ -26,7 +26,7 @@ today <- Sys.Date()
 <style>
 #TOC {
   top: 1%;
-  opacity: 0.5;
+  opacity: 0.75;
 }
 #TOC:hover {
   opacity: 1;
@@ -43,9 +43,9 @@ City level estimates of the time-varying reproduction number of Covid-19 produce
 
 ## Data sources
 
-* Case data from the last 8 weeks is extracted from: [brazil.io](https://brasil.io/home/)
+* Case data from the last 10 weeks is extracted from: [brazil.io](https://brasil.io/home/)
 
-* Estimates were only produced for cities with at least 200 cases, and 30 days of data, in the last 8 weeks. All time series were truncated by 3 days to account for delayed reporting (the delay from original report to reporting in this dataset not the adjusted for delay from onset to original report).
+* Estimates were only produced for cities with at least 200 cases, and 30 days of data, in the last 8 weeks. All time series were truncated by 3 days to account for delayed reporting (the delay from original report to reporting in this dataset not the adjusted for delay from onset to original report). Estimates are only shown for the last 8 weeks of data combined with a 2 week indicative forecast.
 
 * Data on the delay from onset to report were extracted for Brazil from here: [github.com/beoutbreakprepared/nCoV2019](https://github.com/beoutbreakprepared/nCoV2019/)
 
