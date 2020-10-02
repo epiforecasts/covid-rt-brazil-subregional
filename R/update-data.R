@@ -12,7 +12,7 @@ source(here::here("R", "utils.R"))
 today <- Sys.Date()
 days_with_data <- 30
 min_cases_in_horizon <- 200
-time_horizon <- 8 #(weeks)
+time_horizon <- 10 #(weeks)
 days_to_truncate <- 3
 
 # Extract data ------------------------------------------------------------

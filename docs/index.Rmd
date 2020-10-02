@@ -41,12 +41,24 @@ City level estimates of the time-varying reproduction number of Covid-19 produce
 
 ***
 
-## Interactive summary
+## Data sources
+
+* Case data from the last 8 weeks is extracted from: [brazil.io](https://brasil.io/home/)
+
+* Estimates were only produced for cities with at least 200 cases, and 30 days of data, in the last 8 weeks. All time series were truncated by 3 days to account for delayed reporting (the delay from original report to reporting in this dataset not the adjusted for delay from onset to original report).
+
+* Data on the delay from onset to report were extracted for Brazil from here: [github.com/beoutbreakprepared/nCoV2019](https://github.com/beoutbreakprepared/nCoV2019/)
+
+* Estimates for the incubation period and the generation time were based on those used here: [epiforecasts.io](https://epiforecasts.io/covid/methods.html)
+
+***
+
+## Summary
 
 ```{r, fig.height = 16, out.width = "100%"}
 rtData <- list("Cases" = RtD3::readInEpiNow2(path = here::here("data", "rt", today)))
 RtD3::summaryWidget(rtData = rtData,
-                    activeArea = "5300108",
+                    activeArea = "São Paulo",
                     downloadUrl = "https://github.com/epiforecasts/covid-rt-brazil-subregional")
 ```
 
@@ -68,13 +80,3 @@ summary_path <- file.path("data","rt", today)
 ```
 
 ***
-
-## Data sources
-
-* Case data from the last 8 weeks is extracted from: [brazil.io](https://brasil.io/home/)
-
-* Estimates were only produced for cities with at least 200 cases, and 30 days of data, in the last 8 weeks. All time series were truncated by 3 days to account for delayed reporting (the delay from original report to reporting in this dataset not the adjusted for delay from onset to original report).
-
-* Data on the delay from onset to report were extracted for Brazil from here: [github.com/beoutbreakprepared/nCoV2019](https://github.com/beoutbreakprepared/nCoV2019/)
-
-* Estimates for the incubation period and the generation time were based on those used here: [epiforecasts.io](https://epiforecasts.io/covid/methods.html)
