@@ -8,9 +8,12 @@ library(here, quietly = TRUE)
 target_date <- as.character(Sys.Date())
 
 # Set up logging ----------------------------------------------------------
-setup_logging("INFO", file = paste0("logs/summary/", target_date, ".log"))
+setup_logging("INFO", file = paste0("logs/summary/", target_date, ".log"),
+              mirror_to_console = TRUE)
 setup_logging("INFO", file = paste0("logs/detailed/", target_date, ".log"),
               name = "EpiNow2.epinow")
+setup_logging("INFO", file = paste0("logs/fit/", target_date, ".log"),
+              name = "EpiNow2.epinow.fit")
 
 # Update delays -----------------------------------------------------------
 generation_time <- readRDS(here::here("data", "delays", "generation_time.rds"))
