@@ -35,5 +35,6 @@ regional_epinow(reported_cases = cases,
                 target_folder = here::here("data", "rt-samples"), 
                 summary_args = list(summary_dir = here::here("data", "rt", target_date),
                                     all_regions = FALSE),
+                logs = "logs",
                 max_execution_time = 60 * 20)
 
