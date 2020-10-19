@@ -32,7 +32,7 @@ Imports:
   lubridate,
   rmarkdown
 Remotes:
-  epiforecasts/EpiNow2@update-output-interface,
+  epiforecasts/EpiNow2,
   epiforecasts/covidregionaldate,
   epiforecasts/RtD3
 Roxygen: list(markdown = TRUE)
