@@ -16,7 +16,7 @@ if (!interactive()) {
   ## If running as a script enable this
   options(future.fork.enable = TRUE)
 }
-plan(multiprocess)
+plan(multisession)
 
 # Fit delay from onset to admission ---------------------------------------
 report_delay <- covidregionaldata::get_linelist(clean = TRUE)

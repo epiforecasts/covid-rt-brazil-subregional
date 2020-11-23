@@ -19,7 +19,7 @@ cases <- cases[, .(region = as.character(city), date = as.Date(date),
 data.table::setorder(cases, region, date)
 
 # # Set up cores -----------------------------------------------------
-plan("multiprocess", gc = TRUE, earlySignal = TRUE)
+plan("multisession", gc = TRUE, earlySignal = TRUE)
 
 # Run Rt estimation -------------------------------------------------------
 regional_epinow(reported_cases = cases,
@@ -30,10 +30,12 @@ regional_epinow(reported_cases = cases,
                                  max_execution_time = 20*60, 
                                  control = list(adapt_delta = 0.95)),
                 horizon = 0,
-                output = c("region", "summary", "timing", "samples"),
+                output = c("region", "summary", "timing"),
                 target_date = target_date,
                 target_folder = here::here("data", "rt", "samples"), 
                 summary_args = list(summary_dir = here::here("data", "rt", 
                                                              target_date),
                                     all_regions = FALSE),
                 logs = "logs/cases")
+
+plan("sequential")
