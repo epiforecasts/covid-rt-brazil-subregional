@@ -72,12 +72,13 @@ brazil_data <- brazil_data[date <= (today - lubridate::days(days_to_truncate))]
 
 # Generate filter summary data --------------------------------------------
 eval_regions <- data.table::copy(brazil_data)[, .(cum_cases = cumsum(case_inc),
+                                                  case_inc,
                                                   non_zero = case_inc > 0,
                                                   date = date), by = city_ibge_code]
 # Identify when each region had at least x cases and set as start  --------
-eval_dates <- data.table::copy(eval_regions)[, .SD[cum_cases >= min_start_cases], by = city_ibge_code]
+eval_dates <- data.table::copy(eval_regions)[, .SD[case_inc >= min_start_cases], by = city_ibge_code]
 eval_dates <- eval_dates[, .(start_date = min(date)), by = city_ibge_code]
-brazil_date <- brazil_data[eval_dates, on = "city_ibge_code"][date >= start_date][, start_date := NULL]
+brazil_data <- brazil_data[eval_dates, on = "city_ibge_code"][date >= start_date][, start_date := NULL]
 
 # Apply minimum case and timepoints filters -------------------------------
 eval_regions <- eval_regions[, .(cum_cases = max(cum_cases), non_zero = sum(non_zero)), by = city_ibge_code]
