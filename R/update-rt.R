@@ -22,19 +22,18 @@ data.table::setorder(cases, region, date)
 plan("multiprocess", gc = TRUE, earlySignal = TRUE)
 
 # Run Rt estimation -------------------------------------------------------
-regional_epinow(reported_cases = cases, 
-                method = "approximate",
+regional_epinow(reported_cases = cases,
                 generation_time = generation_time, 
-                delays = list(incubation_period, reporting_delay),
-                stan_args = list(trials = 5), 
-                samples = 2000, 
-                horizon = 7, 
-                burn_in = 14, 
-                output = c("region", "summary", "timing"),
-                future_rt = "latest",
-                target_folder = here::here("data", "rt-samples"), 
-                summary_args = list(summary_dir = here::here("data", "rt", target_date),
+                delays = delay_opts(incubation_period, reporting_delay),
+                rt = NULL, backcalc = backcalc_opts(rt_window = 3),
+                stan = stan_opts(samples = 2000, warmup = 250, chains = 2,
+                                 max_execution_time = 20*60, 
+                                 control = list(adapt_delta = 0.95)),
+                horizon = 0,
+                output = c("region", "summary", "timing", "samples"),
+                target_date = target_date,
+                target_folder = here::here("data", "rt", "samples"), 
+                summary_args = list(summary_dir = here::here("data", "rt", 
+                                                             target_date),
                                     all_regions = FALSE),
-                logs = "logs",
-                max_execution_time = 60 * 20)
-
+                logs = "logs/cases")

@@ -5,3 +5,4 @@
 data/rt-samples
 *.log
 nohup.out
+data/rt/samples

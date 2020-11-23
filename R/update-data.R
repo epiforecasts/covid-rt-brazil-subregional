@@ -10,13 +10,18 @@ source(here::here("R", "utils.R"))
 
 # Set filters  ------------------------------------------------------------
 today <- Sys.Date()
-days_with_data <- 30
-min_cases_in_horizon <- 200
-time_horizon <- 10 #(weeks)
+days_with_data <- 90
+min_cases_in_horizon <- 1000
+min_start_cases <- 10
+time_horizon <- 52 #(weeks)
 days_to_truncate <- 3
 
 # Extract data ------------------------------------------------------------
-brazil_io_csv <- scan(gzcon(rawConnection(content( GET("https://data.brasil.io/dataset/covid19/caso.csv.gz")))),what="",sep="\n")  
+brazil_io_csv <- 
+  scan(
+    gzcon(rawConnection(content(GET("https://data.brasil.io/dataset/covid19/caso.csv.gz")))), 
+    what="",sep="\n"
+    )  
 brazil_io_full <- data.frame(strsplit(brazil_io_csv, ",")) 
 row.names(brazil_io_full) <- brazil_io_full[,1]
 brazil_data <- data.table::as.data.table(t(brazil_io_full[,-1]))
@@ -29,7 +34,6 @@ brazil_data <- brazil_data[place_type == "city"][city != "Importados/Indefinidos
 # Clean up reporting issues -----------------------------------------------
 brazil_data <- brazil_data[order(state, city, date)][, `:=`(confirmed = as.numeric(confirmed),
                                                            deaths = as.numeric(deaths))]
-
 ## drop zero cases, and remove cumulative data
 brazil_data <- brazil_data[confirmed != 0][, 
                            `:=`(case_inc = confirmed - data.table::shift(confirmed, 1, type = "lag", fill = confirmed[1]),
@@ -62,13 +66,20 @@ brazil_data <- brazil_data[order(city, state, date)][,
 brazil_data <- brazil_data[, city := as.character(city)]
 Encoding(brazil_data$city) <- "UTF-8"
 
-# Filter to use last 3 months of data -------------------------------------
+# Filter to use last x months of data -------------------------------------
 brazil_data <- brazil_data[date >= (today - lubridate::weeks(time_horizon))]
 brazil_data <- brazil_data[date <= (today - lubridate::days(days_to_truncate))]
-# Filter to only keep places that have had at  14 non-zero points and over 200 cases
+
+# Generate filter summary data --------------------------------------------
 eval_regions <- data.table::copy(brazil_data)[, .(cum_cases = cumsum(case_inc),
                                                   non_zero = case_inc > 0,
                                                   date = date), by = city_ibge_code]
+# Identify when each region had at least x cases and set as start  --------
+eval_dates <- data.table::copy(eval_regions)[, .SD[cum_cases >= min_start_cases], by = city_ibge_code]
+eval_dates <- eval_dates[, .(start_date = min(date)), by = city_ibge_code]
+brazil_date <- brazil_data[eval_dates, on = "city_ibge_code"][date >= start_date][, start_date := NULL]
+
+# Apply minimum case and timepoints filters -------------------------------
 eval_regions <- eval_regions[, .(cum_cases = max(cum_cases), non_zero = sum(non_zero)), by = city_ibge_code]
 eval_regions <- eval_regions[non_zero >= days_with_data][cum_cases >= min_cases_in_horizon]
 brazil_data <- brazil_data[city_ibge_code %in% unique(eval_regions$city_ibge_code)]

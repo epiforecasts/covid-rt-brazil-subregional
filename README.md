@@ -4,7 +4,7 @@
 
 ## Data
 
-* Rt estimates: `data/rt/rt.csv`
+* Rt estimates: `data/rt/date/rt.csv`
 
 ## Dependencies
 
