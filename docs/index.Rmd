@@ -38,28 +38,30 @@ library(sf)
 
 ## About
 
-City level estimates of the time-varying reproduction number of Covid-19 produced using [EpiNow2](epiforecasts.io/EpiNow2) based on data from [brazil.io](https://brasil.io/home/). Regional estimates for Brazil (along with a national estimate) are available [here](https://epiforecasts.io/covid/posts/national/brazil/). Detail of the method used is given [here](https://epiforecasts.io/covid/methods.html), though the estimates shown here were derived using an approximate approach (direct de-convolution of observed cases) rather than the exact method used on [epiforecasts.io](https://epiforecasts.io/covid) and therefore should only be considered indicative. The code and data supporting these estimates is available [here](https://github.com/epiforecasts/covid-rt-brazil-subregional).
+City level estimates of the time-varying reproduction number of Covid-19 produced using [EpiNow2](epiforecasts.io/EpiNow2) based on data from [brazil.io](https://brasil.io/home/). Regional estimates for Brazil (along with a national estimate) are available [here](https://epiforecasts.io/covid/posts/national/brazil/). Detail of the method used is given [here](https://epiforecasts.io/covid/methods.html), though the estimates shown here were derived using an approximate approach (direct de-convolution of observed cases) rather than the exact method used on [epiforecasts.io](https://epiforecasts.io/covid) and therefore should be considered indicative. The code and data supporting these estimates is available [here](https://github.com/epiforecasts/covid-rt-brazil-subregional). Estimates are available in a summarised form [here](https://github.com/epiforecasts/covid-rt-brazil-subregional/tree/master/data/rt).
 
 ***
 
 ## Data sources
 
-* Case data from the last 10 weeks is extracted from: [brazil.io](https://brasil.io/home/)
+* Case data is extracted from: [brazil.io](https://brasil.io/home/)
 
 * Estimates were only produced for cities with at least 1000 cases, and 90 days of data, since the start of the data extraction. All time series were truncated by 3 days to account for delayed reporting (the delay from original report to reporting in this dataset not the adjusted for delay from onset to original report). Estimates are only shown from the date
 when a given region reported at least 10 cases on a single day.
 
 * Data on the delay from onset to report were extracted for Brazil from here: [github.com/beoutbreakprepared/nCoV2019](https://github.com/beoutbreakprepared/nCoV2019/)
 
+* The delay from onset to report was assumed to be log normal and fit using a subsampled bootstrap in order 
+to better represent the uncertainty in the distribution at any time point. See [here](https://epiforecasts.io/covid/methods.html) for details.
+
 * Estimates for the incubation period and the generation time were based on those used here: [epiforecasts.io](https://epiforecasts.io/covid/methods.html)
 
-***
-
-## Summary
-
-```{r, fig.height = 16, out.width = "100%", message = FALSE, warning = FALSE}
-# Get today
+```{r control-params} 
 today <- Sys.Date()
+```
+
+```{r, fig.height = 16, out.width = "100%", message = FALSE, warning = FALSE, eval = FALSE}
+# dropped as RtD3 is not functional without a shapefile and with a shapefile makes this to big to add to github.
 # Load shapefile
 geoData <- readRDS(here::here("data", "shapefile", "brazil-admin-2.rds"))
 # Load case data
@@ -72,7 +74,6 @@ geoData <- merge(geoData, cases, by = "sovereignt", all.x = FALSE)
 rtData <- list("Cases" = RtD3::readInEpiNow2(path = here::here("data", "rt", today)))
 # Make interactive widget
 RtD3::summaryWidget(rtData = rtData,
-                    geoData = sf::st_sf(geoData),
                     activeArea = "São Paulo",
                     downloadUrl = "https://github.com/epiforecasts/covid-rt-brazil-subregional")
 ```

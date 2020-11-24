@@ -29,7 +29,7 @@ brazil_data <- data.table::as.data.table(t(brazil_io_full[,-1]))
 # Clean data --------------------------------------------------------------
 # keep only city level data, format date and drop cases without a specific city
 brazil_data <- brazil_data[place_type == "city"][city != "Importados/Indefinidos"][,
-                            date := as.Date(date, format = "%Y-%m-%d")]
+                           date := as.Date(date, format = "%Y-%m-%d")]
 
 # Clean up reporting issues -----------------------------------------------
 brazil_data <- brazil_data[order(state, city, date)][, `:=`(confirmed = as.numeric(confirmed),

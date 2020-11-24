@@ -14,18 +14,18 @@ reporting_delay <- readRDS(here::here("data", "delays", "onset_to_report.rds"))
 
 # Get cases  ---------------------------------------------------------------
 cases <- data.table::fread(file.path("data", "cases", paste0(target_date, ".csv")))
-cases <- cases[, .(region = as.character(city), date = as.Date(date), 
+cases <- cases[, .(region = as.character(city_ibge_code), date = as.Date(date), 
                    confirm = case_inc)]
 data.table::setorder(cases, region, date)
 
-# # Set up cores -----------------------------------------------------
+# Set up cores ------------------------------------------------------------
 plan("multisession", gc = TRUE, earlySignal = TRUE)
 
 # Run Rt estimation -------------------------------------------------------
 regional_epinow(reported_cases = cases,
                 generation_time = generation_time, 
                 delays = delay_opts(incubation_period, reporting_delay),
-                backcalc = backcalc_opts(rt_window = 7, prior_window = 8*7),
+                backcalc = backcalc_opts(rt_window = 3, prior_window = 4*7),
                 rt = NULL,  horizon = 0,
                 obs = obs_opts(scale = list(mean = 0.1, sd = 0.025)),
                 stan = stan_opts(samples = 2000, warmup = 250, chains = 2,
