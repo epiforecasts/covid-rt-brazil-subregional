@@ -16,7 +16,7 @@ if (!interactive()) {
   ## If running as a script enable this
   options(future.fork.enable = TRUE)
 }
-plan(multisession)
+plan("multisession")
 
 # Fit delay from onset to admission ---------------------------------------
 report_delay <- covidregionaldata::get_linelist(clean = TRUE)
@@ -27,4 +27,4 @@ onset_to_report <- estimate_delay(report_delay$delay_onset_report,
 
 saveRDS(onset_to_report, here::here("data", "delays", "onset_to_report.rds"))
 
-plan(sequential)
+plan("sequential")
