@@ -1,0 +1,1791 @@
+region,estimate,median,mean,sd,lower_90,lower_50,lower_20,upper_20,upper_50,upper_90,metric,Expected change in daily cases
+Cuiabá,162890 (49284 -- 571708),162890,217401,191807,49284,101302,135703,197386,269446,571708,New confirmed cases by infection date,Unsure
+Vila Velha,27929 (8656 -- 90646),27929,36437,29393,8656,17327,23376,33798,45498,90646,New confirmed cases by infection date,Unsure
+Rondonópolis,23867 (7910 -- 70619),23867,29532,22873,7910,15151,20158,28000,36133,70619,New confirmed cases by infection date,Unsure
+Vitória,20723 (6055 -- 67627),20723,27063,23157,6055,12642,17687,24678,33992,67627,New confirmed cases by infection date,Unsure
+Várzea Grande,20225 (6573 -- 62932),20225,26360,23149,6573,12725,16585,24328,32655,62932,New confirmed cases by infection date,Unsure
+Serra,19908 (6047 -- 61565),19908,25350,19771,6047,12328,16463,24195,32566,61565,New confirmed cases by infection date,Unsure
+São Paulo,13536 (10917 -- 18864),13536,14095,2549,10917,12569,13076,14079,15228,18864,New confirmed cases by infection date,Unsure
+Cariacica,9998 (3759 -- 29516),9998,12472,9120,3759,6658,8487,11634,15366,29516,New confirmed cases by infection date,Unsure
+Sinop,9901 (3530 -- 31608),9901,12953,10150,3530,6483,8451,11819,15880,31608,New confirmed cases by infection date,Unsure
+Rio de Janeiro,8763 (6627 -- 12679),8763,9133,1967,6627,7888,8424,9207,10021,12679,New confirmed cases by infection date,Unsure
+Tangará da Serra,6045 (2177 -- 18520),6045,7667,5988,2177,3931,5205,7083,9160,18520,New confirmed cases by infection date,Unsure
+Primavera do Leste,4809 (1783 -- 14686),4809,6142,4445,1783,3201,4136,5739,7593,14686,New confirmed cases by infection date,Unsure
+Brasília,4778 (3522 -- 6621),4778,4868,964,3522,4188,4551,4999,5421,6621,New confirmed cases by infection date,Unsure
+Fortaleza,4240 (3147 -- 6100),4240,4404,931,3147,3823,4064,4465,4864,6100,New confirmed cases by infection date,Unsure
+Porto Alegre,4228 (3243 -- 5912),4228,4379,837,3243,3877,4111,4380,4758,5912,New confirmed cases by infection date,Unsure
+Florianópolis,4138 (3042 -- 6030),4138,4291,937,3042,3734,4015,4319,4705,6030,New confirmed cases by infection date,Unsure
+Cachoeiro de Itapemirim,3901 (1510 -- 10466),3901,4631,3093,1510,2714,3385,4494,5669,10466,New confirmed cases by infection date,Unsure
+Campo Grande,3285 (2099 -- 4988),3285,3384,895,2099,2780,3073,3492,3861,4988,New confirmed cases by infection date,Unsure
+Colatina,3161 (1207 -- 8901),3161,3854,2721,1207,2177,2749,3654,4621,8901,New confirmed cases by infection date,Unsure
+Belo Horizonte,2659 (2129 -- 3389),2659,2703,389,2129,2468,2589,2740,2896,3389,New confirmed cases by infection date,Unsure
+Linhares,2612 (964 -- 7154),2612,3113,2012,964,1727,2213,3059,3859,7154,New confirmed cases by infection date,Unsure
+Blumenau,2354 (1827 -- 3414),2354,2474,506,1827,2191,2289,2449,2670,3414,New confirmed cases by infection date,Unsure
+Joinville,2297 (1336 -- 4003),2297,2427,852,1336,1849,2119,2500,2862,4003,New confirmed cases by infection date,Unsure
+Salvador,2228 (1775 -- 3000),2228,2284,370,1775,2049,2153,2315,2482,3000,New confirmed cases by infection date,Unsure
+Manaus,2156 (1788 -- 2604),2156,2169,247,1788,2045,2122,2185,2265,2604,New confirmed cases by infection date,Unsure
+São José,2042 (1348 -- 3239),2042,2143,620,1348,1751,1940,2155,2442,3239,New confirmed cases by infection date,Unsure
+Goiânia,1950 (1707 -- 2240),1950,1960,170,1707,1890,1936,1966,2016,2240,New confirmed cases by infection date,Unsure
+João Pessoa,1931 (1602 -- 2514),1931,1979,290,1602,1807,1871,1995,2115,2514,New confirmed cases by infection date,Unsure
+Porto Velho,1839 (1435 -- 2400),1839,1878,305,1435,1695,1791,1906,2036,2400,New confirmed cases by infection date,Unsure
+Belém,1730 (1501 -- 2042),1730,1745,167,1501,1680,1715,1746,1790,2042,New confirmed cases by infection date,Unsure
+Guarapari,1715 (736 -- 3935),1715,1940,1082,736,1160,1480,1962,2420,3935,New confirmed cases by infection date,Unsure
+Recife,1654 (1018 -- 2778),1654,1724,540,1018,1356,1531,1771,1986,2778,New confirmed cases by infection date,Unsure
+Criciúma,1647 (994 -- 2674),1647,1710,525,994,1344,1528,1764,1978,2674,New confirmed cases by infection date,Unsure
+Foz do Iguaçu,1581 (1116 -- 2344),1581,1647,388,1116,1395,1516,1669,1846,2344,New confirmed cases by infection date,Unsure
+Rio Branco,1549 (1100 -- 2213),1549,1597,352,1100,1368,1475,1640,1798,2213,New confirmed cases by infection date,Unsure
+São José do Rio Preto,1508 (1228 -- 2271),1508,1597,329,1228,1397,1457,1581,1717,2271,New confirmed cases by infection date,Unsure
+Uberlândia,1503 (1251 -- 1718),1503,1493,147,1251,1427,1482,1516,1550,1718,New confirmed cases by infection date,Unsure
+Palhoça,1374 (999 -- 2080),1374,1433,334,999,1224,1309,1443,1594,2080,New confirmed cases by infection date,Unsure
+Maringá,1356 (1133 -- 1793),1356,1403,213,1133,1295,1332,1394,1477,1793,New confirmed cases by infection date,Unsure
+Caxias do Sul,1354 (1118 -- 1745),1354,1386,190,1118,1291,1337,1383,1460,1745,New confirmed cases by infection date,Unsure
+Balneário Camboriú,1332 (984 -- 2093),1332,1413,334,984,1214,1271,1404,1567,2093,New confirmed cases by infection date,Unsure
+Teresina,1321 (1139 -- 1501),1321,1323,111,1139,1271,1306,1336,1375,1501,New confirmed cases by infection date,Unsure
+Macapá,1317 (868 -- 1996),1317,1358,337,868,1142,1254,1382,1530,1996,New confirmed cases by infection date,Unsure
+Santos,1286 (1084 -- 1584),1286,1303,148,1084,1234,1272,1307,1357,1584,New confirmed cases by infection date,Unsure
+São João da Barra,1284 (1031 -- 1523),1284,1277,155,1031,1212,1263,1295,1333,1523,New confirmed cases by infection date,Unsure
+Santo André,1224 (1118 -- 1426),1224,1243,102,1118,1198,1218,1237,1274,1426,New confirmed cases by infection date,Unsure
+Brusque,1129 (769 -- 1842),1129,1195,342,769,956,1056,1203,1357,1842,New confirmed cases by infection date,Unsure
+Feira de Santana,1119 (921 -- 1446),1119,1150,170,921,1056,1099,1149,1221,1446,New confirmed cases by infection date,Unsure
+Niterói,1081 (923 -- 1292),1081,1093,119,923,1040,1071,1094,1135,1292,New confirmed cases by infection date,Unsure
+Aracruz,1036 (398 -- 2775),1036,1249,843,398,681,886,1225,1553,2775,New confirmed cases by infection date,Unsure
+Lages,1032 (522 -- 2078),1032,1119,500,522,770,917,1141,1357,2078,New confirmed cases by infection date,Unsure
+Guarulhos,1026 (915 -- 1250),1026,1047,111,915,995,1017,1042,1079,1250,New confirmed cases by infection date,Unsure
+Boa Vista,1020 (886 -- 1180),1020,1024,89,886,990,1013,1028,1053,1180,New confirmed cases by infection date,Unsure
+Campinas,980 (847 -- 1277),980,1014,134,847,941,962,1008,1064,1277,New confirmed cases by infection date,Unsure
+Canoas,951 (826 -- 1128),951,962,95,826,921,945,961,991,1128,New confirmed cases by infection date,Unsure
+Teresópolis,951 (828 -- 1146),951,966,106,828,917,943,964,999,1146,New confirmed cases by infection date,Unsure
+Campos dos Goytacazes,922 (820 -- 1045),922,929,71,820,899,917,932,954,1045,New confirmed cases by infection date,Unsure
+Londrina,902 (518 -- 1598),902,962,345,518,724,830,989,1131,1598,New confirmed cases by infection date,Unsure
+São Bernardo do Campo,894 (801 -- 1065),894,910,85,801,872,888,906,934,1065,New confirmed cases by infection date,Unsure
+Ribeirão Preto,869 (762 -- 1117),869,900,117,762,839,855,890,940,1117,New confirmed cases by infection date,Unsure
+Umuarama,866 (473 -- 1588),866,931,365,473,674,787,953,1107,1588,New confirmed cases by infection date,Unsure
+Curitiba,831 (547 -- 1236),831,857,222,547,708,784,885,977,1236,New confirmed cases by infection date,Unsure
+Aparecida de Goiânia,816 (610 -- 990),816,808,119,610,744,793,832,865,990,New confirmed cases by infection date,Unsure
+Viana,794 (372 -- 1815),794,905,480,372,584,706,901,1095,1815,New confirmed cases by infection date,Unsure
+Araucária,768 (685 -- 956),768,791,92,685,746,760,783,817,956,New confirmed cases by infection date,Unsure
+Bauru,764 (586 -- 961),764,766,116,586,707,747,775,812,961,New confirmed cases by infection date,Unsure
+São Mateus,756 (328 -- 1793),756,869,500,328,538,671,855,1046,1793,New confirmed cases by infection date,Unsure
+Itajaí,750 (604 -- 1059),750,783,148,604,696,724,782,847,1059,New confirmed cases by infection date,Unsure
+Tubarão,735 (573 -- 1059),735,769,153,573,674,708,770,833,1059,New confirmed cases by infection date,Unsure
+Jaraguá do Sul,715 (615 -- 946),715,742,104,615,688,702,734,779,946,New confirmed cases by infection date,Unsure
+Montes Claros,712 (500 -- 938),712,715,135,500,627,677,743,794,938,New confirmed cases by infection date,Unsure
+Petrolina,703 (578 -- 884),703,715,97,578,671,695,714,749,884,New confirmed cases by infection date,Unsure
+São Luís,701 (459 -- 1065),701,720,191,459,583,653,750,831,1065,New confirmed cases by infection date,Unsure
+Sorocaba,697 (594 -- 886),697,715,93,594,669,688,712,749,886,New confirmed cases by infection date,Unsure
+Erechim,683 (422 -- 1151),683,723,236,422,570,643,733,829,1151,New confirmed cases by infection date,Unsure
+São Gonçalo,679 (571 -- 778),679,678,67,571,653,672,683,701,778,New confirmed cases by infection date,Unsure
+Castelo,678 (299 -- 1671),678,795,462,299,488,600,775,966,1671,New confirmed cases by infection date,Unsure
+Cascavel,677 (573 -- 805),677,681,75,573,650,669,684,703,805,New confirmed cases by infection date,Unsure
+Santana,665 (585 -- 818),665,681,78,585,645,659,676,703,818,New confirmed cases by infection date,Unsure
+Aracaju,655 (398 -- 1116),655,691,227,398,537,606,704,800,1116,New confirmed cases by infection date,Unsure
+Juiz de Fora,652 (562 -- 827),652,668,84,562,630,646,661,691,827,New confirmed cases by infection date,Unsure
+Parauapebas,652 (406 -- 1200),652,704,253,406,537,605,704,807,1200,New confirmed cases by infection date,Unsure
+Gravataí,651 (573 -- 744),651,655,51,573,635,647,656,674,744,New confirmed cases by infection date,Unsure
+São Leopoldo,641 (540 -- 771),641,648,76,540,618,635,647,670,771,New confirmed cases by infection date,Unsure
+Chapecó,640 (498 -- 910),640,670,130,498,604,628,661,719,910,New confirmed cases by infection date,Unsure
+Novo Hamburgo,631 (518 -- 877),631,660,121,518,602,620,650,692,877,New confirmed cases by infection date,Unsure
+Camboriú,627 (441 -- 950),627,655,166,441,543,588,664,736,950,New confirmed cases by infection date,Unsure
+Teófilo Otoni,622 (523 -- 860),622,652,120,523,595,611,638,677,860,New confirmed cases by infection date,Unsure
+Araranguá,620 (395 -- 1031),620,653,202,395,511,578,668,750,1031,New confirmed cases by infection date,Unsure
+São José dos Campos,597 (522 -- 756),597,615,76,522,579,591,608,636,756,New confirmed cases by infection date,Unsure
+Anápolis,587 (494 -- 681),587,585,56,494,562,580,592,607,681,New confirmed cases by infection date,Unsure
+Marataízes,586 (254 -- 1359),586,672,367,254,423,516,664,826,1359,New confirmed cases by infection date,Unsure
+Santa Teresa,581 (287 -- 1376),581,675,377,287,427,519,661,815,1376,New confirmed cases by infection date,Unsure
+Passo Fundo,572 (515 -- 677),572,582,53,515,558,568,579,595,677,New confirmed cases by infection date,Unsure
+Biguaçu,564 (460 -- 715),564,574,76,460,537,556,577,608,715,New confirmed cases by infection date,Unsure
+Guarapuava,559 (487 -- 735),559,581,86,487,540,551,572,606,735,New confirmed cases by infection date,Unsure
+Itapema,552 (364 -- 884),552,579,162,364,468,515,593,664,884,New confirmed cases by infection date,Unsure
+Irati,546 (358 -- 946),546,589,191,358,462,507,592,678,946,New confirmed cases by infection date,Unsure
+Macaé,542 (458 -- 684),542,554,72,458,521,536,551,574,684,New confirmed cases by infection date,Unsure
+Carapicuíba,534 (472 -- 644),534,545,55,472,518,529,543,564,644,New confirmed cases by infection date,Unsure
+Ponta Grossa,533 (458 -- 660),533,545,65,458,516,528,540,564,660,New confirmed cases by infection date,Unsure
+Ipatinga,531 (462 -- 637),531,537,54,462,514,527,537,554,637,New confirmed cases by infection date,Unsure
+Santa Maria,529 (445 -- 627),529,533,56,445,507,524,535,553,627,New confirmed cases by infection date,Unsure
+Indaiatuba,519 (406 -- 667),519,525,81,406,488,511,526,549,667,New confirmed cases by infection date,Unsure
+Osasco,519 (460 -- 670),519,538,69,460,503,511,530,558,670,New confirmed cases by infection date,Unsure
+Vitória da Conquista,509 (450 -- 570),509,509,36,450,494,505,513,523,570,New confirmed cases by infection date,Unsure
+São José dos Pinhais,501 (448 -- 596),501,510,48,448,489,498,507,524,596,New confirmed cases by infection date,Unsure
+Jundiaí,489 (400 -- 696),489,513,96,400,457,475,508,548,696,New confirmed cases by infection date,Unsure
+Pelotas,469 (405 -- 529),469,468,38,405,453,465,471,481,529,New confirmed cases by infection date,Unsure
+Juazeiro,461 (386 -- 616),461,479,71,386,439,451,477,509,616,New confirmed cases by infection date,Unsure
+Duque de Caxias,459 (395 -- 534),459,461,45,395,443,456,463,476,534,New confirmed cases by infection date,Unsure
+Limeira,454 (374 -- 591),454,466,69,374,432,447,465,490,591,New confirmed cases by infection date,Unsure
+Mauá,450 (413 -- 509),450,454,30,413,441,448,454,464,509,New confirmed cases by infection date,Unsure
+Dourados,448 (326 -- 583),448,448,76,326,398,429,465,492,583,New confirmed cases by infection date,Unsure
+Alvorada,440 (386 -- 505),440,442,36,386,428,437,443,456,505,New confirmed cases by infection date,Unsure
+Goianira,438 (303 -- 704),438,464,128,303,389,420,459,512,704,New confirmed cases by infection date,Unsure
+Volta Redonda,430 (386 -- 497),430,435,38,386,419,428,434,445,497,New confirmed cases by infection date,Unsure
+Teixeira de Freitas,410 (244 -- 706),410,435,151,244,330,376,445,512,706,New confirmed cases by infection date,Unsure
+Domingos Martins,406 (202 -- 925),406,462,235,202,300,364,460,556,925,New confirmed cases by infection date,Unsure
+Mossoró,401 (341 -- 503),401,410,53,341,383,396,408,427,503,New confirmed cases by infection date,Unsure
+Paranaguá,401 (351 -- 484),401,407,43,351,389,397,406,418,484,New confirmed cases by infection date,Unsure
+Marília,399 (343 -- 449),399,398,33,343,384,395,401,411,449,New confirmed cases by infection date,Unsure
+Uberaba,397 (322 -- 446),397,392,36,322,379,392,400,407,446,New confirmed cases by infection date,Unsure
+Gaspar,390 (246 -- 688),390,418,138,246,331,367,418,474,688,New confirmed cases by infection date,Unsure
+Francisco Beltrão,382 (340 -- 461),382,389,39,340,372,379,386,399,461,New confirmed cases by infection date,Unsure
+Governador Valadares,380 (330 -- 445),380,384,35,330,370,377,385,397,445,New confirmed cases by infection date,Unsure
+Venda Nova do Imigrante,377 (172 -- 835),377,424,215,172,274,335,418,521,835,New confirmed cases by infection date,Unsure
+Campo Largo,371 (323 -- 503),371,388,59,323,356,363,383,410,503,New confirmed cases by infection date,Unsure
+Barueri,370 (315 -- 438),370,372,38,315,356,366,373,385,438,New confirmed cases by infection date,Unsure
+Taboão da Serra,370 (291 -- 490),370,376,58,291,348,365,377,397,490,New confirmed cases by infection date,Unsure
+Maceió,369 (243 -- 561),369,383,98,243,316,348,393,437,561,New confirmed cases by infection date,Unsure
+Ibirité,363 (294 -- 510),363,379,72,294,347,358,373,397,510,New confirmed cases by infection date,Unsure
+Indaial,363 (277 -- 530),363,378,78,277,334,351,377,410,530,New confirmed cases by infection date,Unsure
+Cachoeirinha,360 (313 -- 416),360,362,33,313,349,357,363,373,416,New confirmed cases by infection date,Unsure
+Mogi das Cruzes,360 (322 -- 415),360,363,29,322,351,358,363,371,415,New confirmed cases by infection date,Unsure
+Nova Iguaçu,359 (312 -- 405),359,360,31,312,348,357,362,370,405,New confirmed cases by infection date,Unsure
+Piracicaba,359 (310 -- 410),359,360,32,310,347,356,362,371,410,New confirmed cases by infection date,Unsure
+Contagem,349 (298 -- 408),349,350,34,298,335,345,352,362,408,New confirmed cases by infection date,Unsure
+Itapemirim,339 (168 -- 741),339,383,192,168,246,303,383,466,741,New confirmed cases by infection date,Unsure
+Pinhais,337 (293 -- 443),337,350,49,293,326,331,345,367,443,New confirmed cases by infection date,Unsure
+Guarujá,336 (229 -- 451),336,334,66,229,298,324,342,362,451,New confirmed cases by infection date,Unsure
+Telêmaco Borba,332 (277 -- 417),332,339,46,277,317,328,339,354,417,New confirmed cases by infection date,Unsure
+Bento Gonçalves,331 (289 -- 396),331,336,35,289,320,328,335,345,396,New confirmed cases by infection date,Unsure
+Marechal Floriano,329 (172 -- 761),329,380,224,172,244,295,366,451,761,New confirmed cases by infection date,Unsure
+Santa Maria de Jetibá,326 (177 -- 738),326,374,186,177,250,293,364,444,738,New confirmed cases by infection date,Unsure
+Natal,321 (269 -- 409),321,330,45,269,309,319,328,343,409,New confirmed cases by infection date,Unsure
+Santa Rosa,321 (276 -- 394),321,326,36,276,310,318,324,336,394,New confirmed cases by infection date,Unsure
+Campo Mourão,320 (267 -- 451),320,336,57,267,304,312,332,359,451,New confirmed cases by infection date,Unsure
+Diadema,320 (284 -- 364),320,322,25,284,312,318,322,330,364,New confirmed cases by infection date,Unsure
+Magé,320 (273 -- 387),320,324,37,273,309,317,323,333,387,New confirmed cases by infection date,Unsure
+Nova Venécia,320 (163 -- 731),320,366,192,163,237,287,358,441,731,New confirmed cases by infection date,Unsure
+Rio Grande,320 (265 -- 397),320,325,43,265,307,317,325,339,397,New confirmed cases by infection date,Unsure
+Conceição do Coité,319 (265 -- 369),319,318,32,265,304,315,321,331,369,New confirmed cases by infection date,Unsure
+Timbó,318 (219 -- 511),318,339,96,219,278,299,341,385,511,New confirmed cases by infection date,Unsure
+Anchieta,311 (145 -- 741),311,354,201,145,221,273,349,431,741,New confirmed cases by infection date,Unsure
+Sapiranga,310 (251 -- 390),310,314,47,251,294,306,314,327,390,New confirmed cases by infection date,Unsure
+Caruaru,309 (275 -- 348),309,310,23,275,301,307,311,317,348,New confirmed cases by infection date,Unsure
+Taubaté,306 (253 -- 437),306,323,62,253,292,300,316,342,437,New confirmed cases by infection date,Unsure
+Içara,305 (214 -- 459),305,317,77,214,265,288,323,355,459,New confirmed cases by infection date,Unsure
+Lauro de Freitas,302 (213 -- 444),302,313,70,213,269,290,316,347,444,New confirmed cases by infection date,Unsure
+Patos,302 (255 -- 386),302,310,46,255,290,298,307,324,386,New confirmed cases by infection date,Unsure
+Campo Bom,300 (239 -- 396),300,307,47,239,286,297,306,321,396,New confirmed cases by infection date,Unsure
+Ijuí,300 (248 -- 360),300,301,35,248,286,296,303,314,360,New confirmed cases by infection date,Unsure
+Piraquara,300 (268 -- 352),300,304,28,268,293,299,303,312,352,New confirmed cases by infection date,Unsure
+São Caetano do Sul,300 (261 -- 344),300,301,26,261,291,297,302,309,344,New confirmed cases by infection date,Unsure
+Fazenda Rio Grande,293 (263 -- 355),293,300,29,263,286,290,298,309,355,New confirmed cases by infection date,Unsure
+Araçatuba,290 (229 -- 370),290,294,42,229,271,285,296,312,370,New confirmed cases by infection date,Unsure
+Braço do Norte,289 (145 -- 562),289,314,136,145,218,260,325,384,562,New confirmed cases by infection date,Unsure
+São Vicente,283 (243 -- 352),283,290,34,243,272,279,288,302,352,New confirmed cases by infection date,Unsure
+Lajeado,282 (232 -- 368),282,289,41,232,267,278,288,304,368,New confirmed cases by infection date,Unsure
+Irecê,280 (249 -- 321),280,283,22,249,274,278,283,290,321,New confirmed cases by infection date,Unsure
+Ananindeua,279 (201 -- 395),279,285,59,201,253,271,285,307,395,New confirmed cases by infection date,Unsure
+Presidente Prudente,271 (230 -- 336),271,277,35,230,260,268,275,287,336,New confirmed cases by infection date,Unsure
+Floriano,268 (206 -- 328),268,266,36,206,248,262,271,282,328,New confirmed cases by infection date,Unsure
+Rio do Sul,262 (199 -- 383),262,274,58,199,238,251,275,300,383,New confirmed cases by infection date,Unsure
+Araraquara,260 (227 -- 314),260,265,28,227,252,258,263,274,314,New confirmed cases by infection date,Unsure
+Carazinho,259 (219 -- 300),259,260,25,219,250,257,261,268,300,New confirmed cases by infection date,Likely increasing
+Medianeira,259 (211 -- 312),259,259,31,211,246,256,262,270,312,New confirmed cases by infection date,Unsure
+Valparaíso de Goiás,259 (224 -- 295),259,259,21,224,249,257,261,267,295,New confirmed cases by infection date,Unsure
+Santarém,257 (155 -- 419),257,267,85,155,210,238,275,305,419,New confirmed cases by infection date,Unsure
+Esteio,251 (204 -- 325),251,257,37,204,238,248,257,272,325,New confirmed cases by infection date,Unsure
+Colombo,250 (223 -- 298),250,255,25,223,243,249,253,261,298,New confirmed cases by infection date,Unsure
+Palmas,250 (217 -- 292),250,252,22,217,242,248,252,260,292,New confirmed cases by infection date,Unsure
+Sapucaia do Sul,250 (221 -- 295),250,253,24,221,243,249,253,261,295,New confirmed cases by infection date,Unsure
+Uruguaiana,250 (208 -- 300),250,252,30,208,239,247,253,262,300,New confirmed cases by infection date,Unsure
+São Gabriel da Palha,248 (116 -- 545),248,281,143,116,185,223,280,343,545,New confirmed cases by infection date,Unsure
+Picos,247 (174 -- 344),247,251,52,174,219,236,257,276,344,New confirmed cases by infection date,Unsure
+Barra de São Francisco,245 (129 -- 546),245,281,149,129,183,220,275,339,546,New confirmed cases by infection date,Unsure
+Presidente Figueiredo,243 (189 -- 317),243,247,38,189,224,236,250,266,317,New confirmed cases by infection date,Unsure
+Angra dos Reis,240 (210 -- 275),240,241,20,210,232,238,242,248,275,New confirmed cases by infection date,Unsure
+Arapiraca,240 (143 -- 415),240,253,83,143,195,222,258,295,415,New confirmed cases by infection date,Unsure
+Rio Verde,240 (193 -- 319),240,247,40,193,228,237,245,259,319,New confirmed cases by infection date,Unsure
+São Carlos,240 (215 -- 277),240,242,19,215,235,239,242,248,277,New confirmed cases by infection date,Unsure
+Itabuna,239 (207 -- 270),239,239,19,207,232,237,241,246,270,New confirmed cases by infection date,Unsure
+Afonso Cláudio,236 (118 -- 498),236,265,131,118,176,210,264,323,498,New confirmed cases by infection date,Unsure
+Trindade,233 (197 -- 309),233,241,35,197,223,230,238,251,309,New confirmed cases by infection date,Unsure
+Ecoporanga,231 (145 -- 487),231,264,115,145,190,212,257,304,487,New confirmed cases by infection date,Unsure
+Toledo,231 (206 -- 288),231,237,26,206,225,229,234,243,288,New confirmed cases by infection date,Unsure
+Barra Mansa,230 (201 -- 262),230,230,20,201,222,228,231,237,262,New confirmed cases by infection date,Unsure
+Bragança Paulista,230 (190 -- 295),230,235,32,190,219,228,233,245,295,New confirmed cases by infection date,Unsure
+Coronel Fabriciano,230 (190 -- 286),230,233,30,190,219,227,233,243,286,New confirmed cases by infection date,Unsure
+Jaboatão dos Guararapes,230 (195 -- 274),230,231,23,195,221,228,232,239,274,New confirmed cases by infection date,Unsure
+Barreiras,229 (195 -- 267),229,230,22,195,220,226,231,238,267,New confirmed cases by infection date,Unsure
+Itumbiara,229 (182 -- 277),229,229,29,182,216,226,231,240,277,New confirmed cases by infection date,Unsure
+Baixo Guandu,222 (124 -- 474),222,250,120,124,170,201,244,297,474,New confirmed cases by infection date,Unsure
+Alegrete,220 (190 -- 257),220,221,20,190,213,218,221,228,257,New confirmed cases by infection date,Unsure
+Fernandópolis,220 (196 -- 254),220,222,18,196,214,218,222,227,254,New confirmed cases by infection date,Unsure
+Olinda,220 (194 -- 251),220,221,18,194,214,218,221,226,251,New confirmed cases by infection date,Unsure
+Suzano,219 (193 -- 242),219,218,15,193,212,217,220,224,242,New confirmed cases by infection date,Unsure
+Franca,218 (169 -- 266),218,218,31,169,202,213,221,230,266,New confirmed cases by infection date,Unsure
+Marabá,214 (147 -- 279),214,212,40,147,190,206,219,229,279,New confirmed cases by infection date,Unsure
+São João Batista,214 (169 -- 315),214,226,49,169,197,206,226,247,315,New confirmed cases by infection date,Unsure
+Tijucas,214 (186 -- 275),214,221,28,186,206,210,219,230,275,New confirmed cases by infection date,Unsure
+Orleans,213 (155 -- 329),213,226,56,155,195,205,224,248,329,New confirmed cases by infection date,Unsure
+Parnamirim,213 (180 -- 282),213,220,32,180,203,209,218,231,282,New confirmed cases by infection date,Unsure
+Xanxerê,213 (175 -- 291),213,221,36,175,203,210,218,232,291,New confirmed cases by infection date,Unsure
+Videira,212 (182 -- 271),212,218,28,182,204,209,215,227,271,New confirmed cases by infection date,Unsure
+Afogados da Ingazeira,211 (168 -- 283),211,217,36,168,201,208,216,229,283,New confirmed cases by infection date,Unsure
+Cubatão,211 (186 -- 263),211,216,25,186,204,209,214,223,263,New confirmed cases by infection date,Unsure
+Imbituba,211 (185 -- 262),211,216,25,185,205,209,213,222,262,New confirmed cases by infection date,Unsure
+Pomerode,211 (184 -- 256),211,215,22,184,205,209,213,222,256,New confirmed cases by infection date,Unsure
+Coari,210 (122 -- 350),210,219,69,122,173,195,225,252,350,New confirmed cases by infection date,Unsure
+Pato Branco,210 (160 -- 385),210,235,76,160,189,199,225,261,385,New confirmed cases by infection date,Unsure
+Itabira,209 (171 -- 257),209,211,27,171,199,207,212,220,257,New confirmed cases by infection date,Unsure
+Santo Ângelo,209 (174 -- 249),209,210,24,174,200,207,211,217,249,New confirmed cases by infection date,Unsure
+Campina Grande,204 (167 -- 291),204,214,37,167,194,200,211,228,291,New confirmed cases by infection date,Unsure
+Jacobina,200 (176 -- 229),200,201,16,176,194,199,202,207,229,New confirmed cases by infection date,Likely increasing
+Nova Friburgo,200 (174 -- 238),200,202,19,174,194,199,202,209,238,New confirmed cases by infection date,Unsure
+Osório,200 (169 -- 239),200,202,22,169,192,198,202,210,239,New confirmed cases by infection date,Unsure
+Três Rios,200 (166 -- 240),200,201,23,166,191,198,202,209,240,New confirmed cases by infection date,Unsure
+Colinas do Tocantins,199 (161 -- 234),199,198,23,161,189,197,201,206,234,New confirmed cases by infection date,Unsure
+Gramado,199 (166 -- 228),199,198,20,166,190,196,200,206,228,New confirmed cases by infection date,Unsure
+Itabirito,199 (161 -- 244),199,200,25,161,189,197,201,209,244,New confirmed cases by infection date,Unsure
+Oriximiná,199 (172 -- 228),199,199,17,172,192,198,201,205,228,New confirmed cases by infection date,Unsure
+Carauari,198 (139 -- 261),198,197,37,139,179,192,201,211,261,New confirmed cases by infection date,Unsure
+Santana de Parnaíba,196 (169 -- 261),196,203,30,169,187,191,201,214,261,New confirmed cases by infection date,Unsure
+Ponte Nova,193 (150 -- 282),193,202,42,150,180,188,200,216,282,New confirmed cases by infection date,Unsure
+Santa Cruz do Sul,191 (145 -- 272),191,198,39,145,177,187,198,212,272,New confirmed cases by infection date,Unsure
+Almirante Tamandaré,190 (171 -- 221),190,192,16,171,185,189,191,196,221,New confirmed cases by infection date,Unsure
+Bagé,190 (168 -- 227),190,193,17,168,185,189,192,198,227,New confirmed cases by infection date,Unsure
+Itu,190 (164 -- 221),190,191,18,164,184,188,192,197,221,New confirmed cases by infection date,Unsure
+Jaú,190 (166 -- 226),190,192,18,166,184,188,192,197,226,New confirmed cases by infection date,Unsure
+Palmeira das Missões,190 (158 -- 240),190,194,25,158,183,189,194,202,240,New confirmed cases by infection date,Unsure
+São João de Meriti,190 (166 -- 219),190,190,16,166,184,188,191,195,219,New confirmed cases by infection date,Unsure
+Timóteo,190 (154 -- 233),190,191,25,154,181,187,192,200,233,New confirmed cases by infection date,Unsure
+Cruz Alta,189 (160 -- 214),189,188,16,160,181,187,190,195,214,New confirmed cases by infection date,Likely increasing
+Senador Canedo,189 (150 -- 223),189,188,22,150,178,186,190,196,223,New confirmed cases by infection date,Unsure
+Belford Roxo,188 (142 -- 237),188,188,30,142,174,183,190,198,237,New confirmed cases by infection date,Unsure
+Capão da Canoa,181 (156 -- 238),181,188,27,156,176,180,185,195,238,New confirmed cases by infection date,Unsure
+Cabo Frio,180 (159 -- 204),180,181,14,159,175,178,181,185,204,New confirmed cases by infection date,Unsure
+Camaquã,180 (157 -- 207),180,181,16,157,174,179,181,186,207,New confirmed cases by infection date,Unsure
+Viamão,180 (160 -- 211),180,182,16,160,175,178,181,186,211,New confirmed cases by infection date,Unsure
+Arapongas,179 (156 -- 204),179,180,15,156,174,178,181,185,204,New confirmed cases by infection date,Unsure
+Birigui,179 (157 -- 202),179,180,14,157,175,178,181,184,202,New confirmed cases by infection date,Unsure
+Brumado,179 (154 -- 204),179,178,15,154,171,177,180,184,204,New confirmed cases by infection date,Unsure
+Mogi Guaçu,179 (156 -- 206),179,180,15,156,173,178,180,185,206,New confirmed cases by infection date,Unsure
+Vacaria,178 (147 -- 270),178,190,40,147,168,172,185,203,270,New confirmed cases by infection date,Unsure
+Itaúna,171 (137 -- 233),171,176,32,137,159,168,175,187,233,New confirmed cases by infection date,Unsure
+Laguna,171 (150 -- 214),171,175,21,150,165,169,173,180,214,New confirmed cases by infection date,Unsure
+Arcoverde,170 (147 -- 206),170,172,18,147,164,169,172,179,206,New confirmed cases by infection date,Unsure
+Cambé,170 (149 -- 203),170,172,17,149,164,169,172,177,203,New confirmed cases by infection date,Unsure
+Itaperuna,170 (149 -- 198),170,171,15,149,164,168,171,176,198,New confirmed cases by infection date,Unsure
+Itapetininga,170 (152 -- 191),170,170,12,152,166,169,171,174,191,New confirmed cases by infection date,Unsure
+Sarandi,170 (151 -- 204),170,173,16,151,166,169,173,179,204,New confirmed cases by infection date,Unsure
+Tatuí,170 (151 -- 199),170,172,15,151,165,169,172,177,199,New confirmed cases by infection date,Unsure
+Ariquemes,169 (146 -- 193),169,169,15,146,163,168,171,175,193,New confirmed cases by infection date,Unsure
+Corumbá,169 (148 -- 190),169,169,12,148,163,168,170,173,190,New confirmed cases by infection date,Unsure
+Iranduba,169 (130 -- 206),169,168,23,130,158,166,171,178,206,New confirmed cases by infection date,Unsure
+Americana,165 (133 -- 231),165,172,31,133,155,161,171,183,231,New confirmed cases by infection date,Unsure
+Capivari de Baixo,164 (138 -- 219),164,170,26,138,156,160,168,179,219,New confirmed cases by infection date,Unsure
+Bom Jesus da Lapa,161 (141 -- 201),161,165,19,141,156,159,163,170,201,New confirmed cases by infection date,Likely increasing
+Santo Amaro da Imperatriz,161 (135 -- 210),161,165,25,135,154,159,164,172,210,New confirmed cases by infection date,Unsure
+Cotia,160 (143 -- 187),160,162,13,143,155,159,161,166,187,New confirmed cases by infection date,Unsure
+Venâncio Aires,160 (127 -- 208),160,163,25,127,150,157,163,171,208,New confirmed cases by infection date,Unsure
+Goianésia,159 (122 -- 204),159,160,23,122,148,156,162,170,204,New confirmed cases by infection date,Unsure
+Petrópolis,159 (138 -- 186),159,160,15,138,154,158,161,166,186,New confirmed cases by infection date,Unsure
+Parintins,156 (127 -- 181),156,155,16,127,146,153,159,163,181,New confirmed cases by infection date,Unsure
+Camaçari,155 (119 -- 209),155,159,27,119,141,150,161,173,209,New confirmed cases by infection date,Unsure
+São Francisco do Sul,155 (115 -- 245),155,165,42,115,138,147,164,184,245,New confirmed cases by infection date,Unsure
+Crato,151 (122 -- 200),151,155,24,122,142,148,154,163,200,New confirmed cases by infection date,Unsure
+Ribeirão Pires,151 (137 -- 182),151,154,14,137,147,150,152,157,182,New confirmed cases by infection date,Unsure
+Cabedelo,150 (127 -- 181),150,152,16,127,145,149,152,158,181,New confirmed cases by infection date,Unsure
+Campina Grande do Sul,150 (136 -- 177),150,153,13,136,147,149,152,157,177,New confirmed cases by infection date,Unsure
+Castro,150 (136 -- 169),150,151,11,136,146,149,151,154,169,New confirmed cases by infection date,Unsure
+Formosa,150 (115 -- 198),150,152,25,115,138,146,153,162,198,New confirmed cases by infection date,Unsure
+Jacareí,150 (130 -- 182),150,152,17,130,145,149,152,157,182,New confirmed cases by infection date,Unsure
+Montenegro,150 (131 -- 179),150,152,15,131,145,149,152,157,179,New confirmed cases by infection date,Unsure
+Sete Lagoas,150 (117 -- 194),150,152,24,117,140,147,152,160,194,New confirmed cases by infection date,Unsure
+Sousa,150 (132 -- 186),150,154,17,132,146,149,152,158,186,New confirmed cases by infection date,Unsure
+Taquara,150 (129 -- 173),150,150,13,129,145,149,151,154,173,New confirmed cases by infection date,Unsure
+Ubá,150 (130 -- 176),150,151,14,130,145,149,151,155,176,New confirmed cases by infection date,Unsure
+Valença,150 (129 -- 174),150,151,13,129,145,149,151,155,174,New confirmed cases by infection date,Unsure
+Valinhos,150 (134 -- 182),150,154,15,134,147,149,153,159,182,New confirmed cases by infection date,Unsure
+Araguaína,149 (122 -- 181),149,150,19,122,141,147,151,156,181,New confirmed cases by infection date,Unsure
+Canela,149 (121 -- 186),149,150,20,121,140,147,152,158,186,New confirmed cases by infection date,Unsure
+Cidade Ocidental,149 (121 -- 179),149,150,20,121,141,147,151,156,179,New confirmed cases by infection date,Unsure
+Garanhuns,149 (127 -- 170),149,149,13,127,143,148,150,154,170,New confirmed cases by infection date,Unsure
+Luziânia,149 (118 -- 181),149,149,18,118,140,147,151,156,181,New confirmed cases by infection date,Unsure
+Tauá,149 (122 -- 177),149,149,16,122,142,147,150,155,177,New confirmed cases by infection date,Unsure
+Votuporanga,149 (131 -- 168),149,149,11,131,145,148,150,153,168,New confirmed cases by infection date,Unsure
+Pedro II,144 (98 -- 176),144,141,23,98,127,138,149,154,176,New confirmed cases by infection date,Unsure
+Concórdia,143 (112 -- 200),143,149,26,112,135,140,149,160,200,New confirmed cases by infection date,Unsure
+Sombrio,143 (118 -- 196),143,149,26,118,135,140,148,160,196,New confirmed cases by infection date,Unsure
+Navegantes,142 (118 -- 196),142,149,24,118,136,140,147,157,196,New confirmed cases by infection date,Unsure
+Mineiros,141 (78 -- 235),141,147,49,78,115,131,152,170,235,New confirmed cases by infection date,Unsure
+Santo Antônio da Patrulha,141 (123 -- 175),141,144,17,123,136,139,143,149,175,New confirmed cases by infection date,Unsure
+Santo Antônio de Jesus,141 (123 -- 179),141,145,18,123,137,139,144,151,179,New confirmed cases by infection date,Unsure
+Betim,140 (119 -- 169),140,142,15,119,136,139,142,146,169,New confirmed cases by infection date,Unsure
+Humaitá,140 (121 -- 168),140,142,14,121,135,139,141,146,168,New confirmed cases by infection date,Unsure
+Rio Branco do Sul,140 (123 -- 160),140,140,12,123,136,139,141,144,160,New confirmed cases by infection date,Unsure
+Serra Talhada,140 (112 -- 177),140,141,21,112,132,138,142,148,177,New confirmed cases by infection date,Unsure
+Sumaré,140 (121 -- 169),140,141,15,121,135,138,141,146,169,New confirmed cases by infection date,Unsure
+Tefé,140 (112 -- 181),140,142,20,112,132,138,143,150,181,New confirmed cases by infection date,Unsure
+Divinópolis,139 (122 -- 160),139,140,12,122,135,139,140,143,160,New confirmed cases by infection date,Unsure
+Farroupilha,139 (117 -- 168),139,140,15,117,134,138,141,145,168,New confirmed cases by infection date,Unsure
+Maracanaú,139 (116 -- 168),139,140,15,116,133,138,141,146,168,New confirmed cases by infection date,Unsure
+Nova Lima,139 (120 -- 164),139,140,14,120,135,138,141,145,164,New confirmed cases by infection date,Unsure
+Tabira,139 (116 -- 162),139,139,14,116,133,137,140,144,162,New confirmed cases by infection date,Unsure
+Unaí,139 (107 -- 177),139,140,22,107,130,137,141,148,177,New confirmed cases by infection date,Unsure
+Três Lagoas,137 (103 -- 158),137,134,16,103,126,133,139,141,158,New confirmed cases by infection date,Unsure
+Jaguaré,134 (73 -- 278),134,150,67,73,104,121,149,178,278,New confirmed cases by infection date,Unsure
+Caucaia,131 (107 -- 172),131,135,21,107,125,129,134,142,172,New confirmed cases by infection date,Unsure
+Morro da Fumaça,131 (109 -- 172),131,135,20,109,126,129,134,142,172,New confirmed cases by infection date,Unsure
+Porto Belo,131 (109 -- 171),131,135,20,109,126,129,134,140,171,New confirmed cases by infection date,Unsure
+Caieiras,130 (116 -- 150),130,131,10,116,127,129,131,134,150,New confirmed cases by infection date,Unsure
+Conselheiro Lafaiete,130 (111 -- 158),130,132,14,111,125,129,132,137,158,New confirmed cases by infection date,Unsure
+Embu das Artes,130 (116 -- 154),130,132,12,116,127,129,132,136,154,New confirmed cases by infection date,Unsure
+Eunápolis,130 (115 -- 159),130,133,13,115,127,129,132,137,159,New confirmed cases by infection date,Unsure
+Extrema,130 (105 -- 159),130,131,17,105,124,128,132,136,159,New confirmed cases by infection date,Unsure
+Franco da Rocha,130 (104 -- 159),130,131,16,104,123,128,131,137,159,New confirmed cases by infection date,Unsure
+Guaíba,130 (110 -- 161),130,132,17,110,125,129,132,138,161,New confirmed cases by infection date,Unsure
+Poços de Caldas,130 (107 -- 161),130,132,16,107,124,128,132,137,161,New confirmed cases by infection date,Unsure
+Araras,129 (107 -- 155),129,130,15,107,123,128,131,134,155,New confirmed cases by infection date,Unsure
+Araxá,129 (108 -- 155),129,130,14,108,123,127,131,135,155,New confirmed cases by infection date,Unsure
+Mogi Mirim,129 (107 -- 150),129,129,13,107,124,128,130,134,150,New confirmed cases by infection date,Unsure
+Resende,129 (111 -- 154),129,131,14,111,125,128,131,135,154,New confirmed cases by infection date,Unsure
+São Miguel do Iguaçu,127 (94 -- 193),127,133,31,94,114,122,133,147,193,New confirmed cases by infection date,Unsure
+Sooretama,125 (70 -- 256),125,142,62,70,99,115,142,171,256,New confirmed cases by infection date,Unsure
+Bombinhas,122 (72 -- 216),122,131,46,72,100,113,132,153,216,New confirmed cases by infection date,Unsure
+Dois Vizinhos,121 (105 -- 158),121,126,17,105,117,120,124,131,158,New confirmed cases by infection date,Unsure
+São Raimundo Nonato,121 (74 -- 194),121,126,39,74,99,112,131,147,194,New confirmed cases by infection date,Unsure
+Governador Celso Ramos,120 (97 -- 161),120,124,19,97,115,119,123,130,161,New confirmed cases by infection date,Unsure
+Guapimirim,120 (104 -- 140),120,120,11,104,116,119,121,124,140,New confirmed cases by infection date,Unsure
+Guaramirim,120 (98 -- 159),120,124,19,98,114,119,123,129,159,New confirmed cases by infection date,Unsure
+Hortolândia,120 (99 -- 148),120,122,14,99,115,119,122,127,148,New confirmed cases by infection date,Unsure
+Ilhabela,120 (104 -- 148),120,122,14,104,116,119,122,126,148,New confirmed cases by infection date,Unsure
+Ilhéus,120 (105 -- 144),120,122,12,105,117,119,121,125,144,New confirmed cases by infection date,Unsure
+Itanhaém,120 (104 -- 151),120,123,15,104,116,119,122,128,151,New confirmed cases by infection date,Unsure
+Ji-Paraná,120 (103 -- 139),120,120,10,103,116,119,121,124,139,New confirmed cases by infection date,Unsure
+Parobé,120 (103 -- 139),120,120,11,103,115,119,121,124,139,New confirmed cases by infection date,Unsure
+Paulista,120 (100 -- 150),120,122,15,100,115,119,122,127,150,New confirmed cases by infection date,Unsure
+Paulínia,120 (104 -- 141),120,121,11,104,116,119,121,125,141,New confirmed cases by infection date,Unsure
+Salgueiro,120 (102 -- 148),120,122,15,102,115,119,122,127,148,New confirmed cases by infection date,Unsure
+Vinhedo,120 (109 -- 144),120,123,12,109,117,119,122,126,144,New confirmed cases by infection date,Unsure
+Bragança,119 (100 -- 142),119,120,14,100,114,118,120,125,142,New confirmed cases by infection date,Unsure
+Caxias,119 (103 -- 135),119,119,9,103,115,118,120,123,135,New confirmed cases by infection date,Unsure
+Ferraz de Vasconcelos,119 (100 -- 132),119,118,9,100,114,118,120,122,132,New confirmed cases by infection date,Unsure
+Guanambi,119 (100 -- 139),119,119,12,100,114,118,121,124,139,New confirmed cases by infection date,Unsure
+Icó,119 (102 -- 138),119,120,11,102,115,118,121,124,138,New confirmed cases by infection date,Unsure
+Imperatriz,119 (80 -- 161),119,119,25,80,103,113,125,133,161,New confirmed cases by infection date,Unsure
+Morrinhos,119 (104 -- 136),119,120,10,104,116,119,120,123,136,New confirmed cases by infection date,Unsure
+Penápolis,119 (103 -- 138),119,120,11,103,115,118,120,124,138,New confirmed cases by infection date,Unsure
+Benevides,113 (63 -- 190),113,117,40,63,91,105,121,136,190,New confirmed cases by infection date,Unsure
+Carlos Barbosa,112 (89 -- 158),112,117,21,89,104,109,117,126,158,New confirmed cases by infection date,Unsure
+Cianorte,112 (94 -- 152),112,116,17,94,106,110,114,121,152,New confirmed cases by infection date,Unsure
+Balneário Piçarras,111 (94 -- 151),111,116,19,94,107,109,114,121,151,New confirmed cases by infection date,Unsure
+Caçador,111 (93 -- 143),111,113,16,93,107,109,113,118,143,New confirmed cases by infection date,Unsure
+Araruama,110 (96 -- 127),110,110,9,96,107,109,111,114,127,New confirmed cases by infection date,Unsure
+Botucatu,110 (99 -- 128),110,111,9,99,107,109,111,113,128,New confirmed cases by infection date,Unsure
+Caldas Novas,110 (97 -- 128),110,111,10,97,106,109,110,113,128,New confirmed cases by infection date,Unsure
+Caraguatatuba,110 (96 -- 128),110,110,9,96,106,109,110,114,128,New confirmed cases by infection date,Unsure
+Guabiruba,110 (97 -- 139),110,113,13,97,107,109,112,117,139,New confirmed cases by infection date,Unsure
+Jales,110 (95 -- 127),110,110,10,95,106,109,110,113,127,New confirmed cases by infection date,Unsure
+Jequié,110 (78 -- 157),110,113,24,78,96,105,115,127,157,New confirmed cases by infection date,Unsure
+Marechal Cândido Rondon,110 (91 -- 143),110,113,16,91,105,109,112,118,143,New confirmed cases by infection date,Unsure
+Porto Seguro,110 (93 -- 133),110,111,12,93,105,109,112,116,133,New confirmed cases by infection date,Unsure
+São Gabriel da Cachoeira,110 (85 -- 142),110,112,18,85,103,108,112,119,142,New confirmed cases by infection date,Unsure
+Ubatuba,110 (94 -- 129),110,110,11,94,106,109,111,114,129,New confirmed cases by infection date,Unsure
+Votorantim,110 (98 -- 125),110,110,8,98,107,109,110,113,125,New confirmed cases by infection date,Unsure
+Atibaia,109 (97 -- 123),109,110,8,97,106,109,110,112,123,New confirmed cases by infection date,Unsure
+Itaguaí,109 (94 -- 130),109,110,11,94,105,108,111,114,130,New confirmed cases by infection date,Unsure
+Lins,109 (85 -- 136),109,110,15,85,102,107,111,116,136,New confirmed cases by infection date,Unsure
+Luís Eduardo Magalhães,109 (91 -- 123),109,108,9,91,103,107,110,112,123,New confirmed cases by infection date,Unsure
+Muriaé,109 (93 -- 129),109,110,11,93,105,108,111,114,129,New confirmed cases by infection date,Unsure
+Breves,106 (71 -- 161),106,110,28,71,91,100,112,125,161,New confirmed cases by infection date,Unsure
+Bonfim,105 (62 -- 139),105,103,23,62,91,100,109,114,139,New confirmed cases by infection date,Unsure
+Palotina,105 (85 -- 153),105,111,22,85,98,101,109,120,153,New confirmed cases by infection date,Unsure
+Joaçaba,102 (85 -- 143),102,107,19,85,97,100,106,113,143,New confirmed cases by infection date,Unsure
+Forquilhinha,101 (77 -- 151),101,106,23,77,90,96,107,118,151,New confirmed cases by infection date,Unsure
+Lábrea,101 (68 -- 154),101,105,26,68,87,96,106,119,154,New confirmed cases by infection date,Unsure
+Urussanga,101 (85 -- 131),101,104,14,85,97,99,103,109,131,New confirmed cases by infection date,Unsure
+Araripina,100 (86 -- 115),100,100,9,86,96,99,100,103,115,New confirmed cases by infection date,Unsure
+Arujá,100 (87 -- 118),100,101,9,87,96,99,101,104,118,New confirmed cases by infection date,Unsure
+Castanhal,100 (85 -- 123),100,101,11,85,96,99,101,105,123,New confirmed cases by infection date,Unsure
+Francisco Morato,100 (89 -- 119),100,102,9,89,97,99,101,104,119,New confirmed cases by infection date,Unsure
+Igrejinha,100 (88 -- 116),100,101,9,88,96,99,100,103,116,New confirmed cases by infection date,Unsure
+Itapecerica da Serra,100 (90 -- 115),100,101,8,90,98,99,101,104,115,New confirmed cases by infection date,Unsure
+Marau,100 (86 -- 118),100,101,10,86,97,99,101,103,118,New confirmed cases by infection date,Unsure
+Maricá,100 (86 -- 114),100,100,8,86,96,99,100,103,114,New confirmed cases by infection date,Unsure
+Naviraí,100 (89 -- 113),100,100,7,89,97,99,101,103,113,New confirmed cases by infection date,Unsure
+Penha,100 (87 -- 129),100,104,13,87,97,99,102,107,129,New confirmed cases by infection date,Unsure
+Ribeirão das Neves,100 (82 -- 120),100,100,12,82,95,98,101,104,120,New confirmed cases by infection date,Unsure
+Rolândia,100 (85 -- 118),100,100,10,85,96,99,100,103,118,New confirmed cases by infection date,Unsure
+Russas,100 (86 -- 118),100,101,10,86,96,99,101,104,118,New confirmed cases by infection date,Unsure
+Torres,100 (89 -- 121),100,102,10,89,97,99,101,105,121,New confirmed cases by infection date,Unsure
+Barretos,99 (78 -- 117),99,98,12,78,93,98,100,103,117,New confirmed cases by infection date,Unsure
+Casimiro de Abreu,99 (81 -- 119),99,99,11,81,94,98,100,103,119,New confirmed cases by infection date,Unsure
+Charqueadas,99 (86 -- 115),99,100,9,86,96,99,100,103,115,New confirmed cases by infection date,Unsure
+Itaquaquecetuba,99 (88 -- 113),99,100,8,88,97,99,100,102,113,New confirmed cases by infection date,Unsure
+Patos de Minas,99 (85 -- 115),99,100,9,85,96,99,100,103,115,New confirmed cases by infection date,Unsure
+Santa Luzia,99 (82 -- 120),99,99,11,82,94,98,101,104,120,New confirmed cases by infection date,Unsure
+Tucumã,99 (81 -- 122),99,100,13,81,94,98,101,105,122,New confirmed cases by infection date,Unsure
+Juquitiba,97 (68 -- 127),97,96,17,68,87,94,99,103,127,New confirmed cases by infection date,Unsure
+Assis,90 (80 -- 102),90,90,7,80,87,89,90,93,102,New confirmed cases by infection date,Unsure
+Bayeux,90 (81 -- 104),90,91,7,81,87,89,90,93,104,New confirmed cases by infection date,Unsure
+Cacoal,90 (79 -- 105),90,91,8,79,87,89,91,93,105,New confirmed cases by infection date,Unsure
+Capinzal,90 (71 -- 119),90,93,16,71,85,89,92,99,119,New confirmed cases by infection date,Unsure
+Careiro,90 (75 -- 106),90,90,9,75,86,89,90,93,106,New confirmed cases by infection date,Unsure
+Eldorado do Sul,90 (73 -- 110),90,91,11,73,86,89,91,95,110,New confirmed cases by infection date,Unsure
+Itacoatiara,90 (76 -- 106),90,90,9,76,86,89,91,93,106,New confirmed cases by infection date,Unsure
+Itapeva,90 (76 -- 107),90,90,9,76,86,89,90,93,107,New confirmed cases by infection date,Unsure
+Itapevi,90 (79 -- 103),90,90,7,79,87,89,90,93,103,New confirmed cases by infection date,Unsure
+Itatiba,90 (75 -- 114),90,92,12,75,87,89,92,96,114,New confirmed cases by infection date,Unsure
+João Monlevade,90 (77 -- 106),90,90,9,77,86,89,91,93,106,New confirmed cases by infection date,Unsure
+Maravilha,90 (61 -- 131),90,93,21,61,80,87,94,102,131,New confirmed cases by infection date,Unsure
+Rio Tinto,90 (78 -- 115),90,93,12,78,87,89,92,96,115,New confirmed cases by infection date,Unsure
+Santa Bárbara d'Oeste,90 (79 -- 104),90,90,7,79,87,89,91,93,104,New confirmed cases by infection date,Unsure
+São Gabriel,90 (77 -- 109),90,91,10,77,87,89,91,95,109,New confirmed cases by infection date,Unsure
+Altamira,89 (62 -- 122),89,89,17,62,79,86,91,97,122,New confirmed cases by infection date,Unsure
+Cajazeiras,89 (73 -- 103),89,88,8,73,84,87,90,92,103,New confirmed cases by infection date,Unsure
+Candeias,89 (78 -- 102),89,90,7,78,87,89,90,92,102,New confirmed cases by infection date,Unsure
+Caratinga,89 (70 -- 115),89,91,13,70,84,88,91,96,115,New confirmed cases by infection date,Unsure
+Juazeiro do Norte,89 (71 -- 113),89,90,12,71,84,88,91,95,113,New confirmed cases by infection date,Unsure
+Laranjal do Jari,89 (63 -- 127),89,92,19,63,80,86,93,100,127,New confirmed cases by infection date,Unsure
+Manhuaçu,89 (70 -- 111),89,89,12,70,83,87,90,94,111,New confirmed cases by infection date,Unsure
+Mesquita,89 (72 -- 100),89,88,8,72,84,88,90,92,100,New confirmed cases by infection date,Unsure
+Peruíbe,89 (74 -- 103),89,89,9,74,85,88,90,93,103,New confirmed cases by infection date,Unsure
+Piripiri,89 (71 -- 100),89,87,9,71,83,87,90,91,100,New confirmed cases by infection date,Unsure
+Ponta Porã,89 (78 -- 101),89,89,7,78,86,89,90,92,101,New confirmed cases by infection date,Unsure
+Praia Grande,89 (73 -- 111),89,90,12,73,85,88,91,94,111,New confirmed cases by infection date,Unsure
+Rio Bonito,89 (74 -- 106),89,89,10,74,85,88,90,93,106,New confirmed cases by infection date,Unsure
+Rio das Ostras,89 (75 -- 103),89,89,9,75,86,89,90,92,103,New confirmed cases by infection date,Unsure
+Salto,89 (76 -- 107),89,90,9,76,86,88,90,93,107,New confirmed cases by infection date,Unsure
+São Miguel do Guamá,89 (76 -- 103),89,89,9,76,86,89,90,93,103,New confirmed cases by infection date,Unsure
+Frutal,87 (61 -- 106),87,85,13,61,79,84,89,92,106,New confirmed cases by infection date,Unsure
+Altos,81 (68 -- 107),81,84,12,68,77,79,84,89,107,New confirmed cases by infection date,Unsure
+Jaguaruna,81 (69 -- 104),81,83,11,69,78,80,82,87,104,New confirmed cases by infection date,Unsure
+Piedade,81 (70 -- 109),81,84,13,70,78,80,83,87,109,New confirmed cases by infection date,Unsure
+Cametá,80 (68 -- 95),80,80,8,68,77,79,81,83,95,New confirmed cases by infection date,Unsure
+Congonhas,80 (67 -- 94),80,80,8,67,77,79,80,83,94,New confirmed cases by infection date,Unsure
+Iguaba Grande,80 (69 -- 91),80,80,6,69,77,79,80,82,91,New confirmed cases by infection date,Unsure
+Jataí,80 (63 -- 103),80,81,12,63,75,78,81,85,103,New confirmed cases by infection date,Unsure
+Mairiporã,80 (69 -- 97),80,81,9,69,77,79,81,84,97,New confirmed cases by infection date,Unsure
+Mariana,80 (63 -- 103),80,81,13,63,75,79,81,86,103,New confirmed cases by infection date,Unsure
+Poá,80 (70 -- 92),80,80,6,70,77,79,80,83,92,New confirmed cases by infection date,Unsure
+Rio Claro,80 (70 -- 92),80,80,6,70,77,79,80,82,92,New confirmed cases by infection date,Unsure
+Sabará,80 (65 -- 100),80,81,11,65,76,79,81,85,100,New confirmed cases by infection date,Unsure
+Santa Isabel,80 (67 -- 102),80,82,11,67,76,79,82,85,102,New confirmed cases by infection date,Unsure
+Senhor do Bonfim,80 (67 -- 96),80,80,9,67,76,79,81,84,96,New confirmed cases by infection date,Unsure
+São Roque,80 (70 -- 94),80,80,7,70,77,79,80,83,94,New confirmed cases by infection date,Unsure
+Óbidos,80 (65 -- 96),80,80,10,65,76,79,80,83,96,New confirmed cases by infection date,Unsure
+Abaetetuba,79 (60 -- 97),79,79,11,60,74,78,80,83,97,New confirmed cases by infection date,Unsure
+Apucarana,79 (67 -- 94),79,80,8,67,76,78,80,83,94,New confirmed cases by infection date,Unsure
+Araguari,79 (59 -- 96),79,78,12,59,73,77,80,83,96,New confirmed cases by infection date,Unsure
+Bariri,79 (68 -- 91),79,80,7,68,77,79,80,82,91,New confirmed cases by infection date,Unsure
+Ipixuna,79 (61 -- 99),79,79,11,61,73,78,80,83,99,New confirmed cases by infection date,Unsure
+Itaboraí,79 (63 -- 90),79,78,8,63,74,78,80,81,90,New confirmed cases by infection date,Unsure
+Itamaraju,79 (70 -- 91),79,80,6,70,77,79,80,82,91,New confirmed cases by infection date,Unsure
+Lençóis Paulista,79 (68 -- 93),79,80,7,68,77,79,80,82,93,New confirmed cases by infection date,Unsure
+Mangaratiba,79 (67 -- 95),79,80,9,67,77,79,80,83,95,New confirmed cases by infection date,Unsure
+Ourinhos,79 (69 -- 94),79,80,7,69,77,79,80,83,94,New confirmed cases by infection date,Unsure
+Pirapora,79 (68 -- 91),79,79,7,68,76,79,80,82,91,New confirmed cases by infection date,Unsure
+Reriutaba,79 (66 -- 90),79,79,7,66,76,78,80,82,90,New confirmed cases by infection date,Unsure
+Sertãozinho,79 (63 -- 100),79,80,11,63,74,78,81,85,100,New confirmed cases by infection date,Unsure
+Tramandaí,79 (68 -- 92),79,79,7,68,77,79,80,82,92,New confirmed cases by infection date,Unsure
+Varginha,79 (68 -- 93),79,80,7,68,76,79,80,83,93,New confirmed cases by infection date,Unsure
+Rio Preto da Eva,77 (34 -- 165),77,84,42,34,55,67,86,104,165,New confirmed cases by infection date,Unsure
+Campos Novos,76 (50 -- 123),76,80,23,50,65,71,80,90,123,New confirmed cases by infection date,Unsure
+Águas Lindas de Goiás,76 (46 -- 116),76,77,22,46,63,71,80,87,116,New confirmed cases by infection date,Unsure
+Barreirinha,74 (57 -- 116),74,79,19,57,67,71,78,86,116,New confirmed cases by infection date,Unsure
+Boca do Acre,73 (60 -- 102),73,76,13,60,68,71,76,82,102,New confirmed cases by infection date,Unsure
+Barra Velha,70 (60 -- 90),70,72,10,60,68,69,71,75,90,New confirmed cases by infection date,Unsure
+Curvelo,70 (56 -- 89),70,71,10,56,66,69,71,74,89,New confirmed cases by infection date,Unsure
+Eusébio,70 (59 -- 90),70,72,10,59,68,69,71,75,90,New confirmed cases by infection date,Unsure
+Iguatu,70 (58 -- 86),70,70,8,58,67,69,70,73,86,New confirmed cases by infection date,Unsure
+Monte Mor,70 (59 -- 81),70,70,7,59,67,69,70,72,81,New confirmed cases by infection date,Unsure
+Morada Nova,70 (61 -- 82),70,70,6,61,68,69,70,73,82,New confirmed cases by infection date,Unsure
+Pacajus,70 (60 -- 83),70,70,7,60,67,69,70,73,83,New confirmed cases by infection date,Unsure
+São Lourenço da Mata,70 (61 -- 87),70,72,8,61,68,69,71,74,87,New confirmed cases by infection date,Unsure
+Tupã,70 (61 -- 87),70,72,8,61,68,69,71,73,87,New confirmed cases by infection date,Unsure
+Alagoinhas,69 (55 -- 88),69,70,10,55,65,68,70,74,88,New confirmed cases by infection date,Unsure
+Alfenas,69 (53 -- 85),69,69,9,53,64,68,70,72,85,New confirmed cases by infection date,Unsure
+Atalaia do Norte,69 (56 -- 81),69,69,7,56,66,68,70,72,81,New confirmed cases by infection date,Unsure
+Barbacena,69 (46 -- 101),69,71,16,46,62,67,72,77,101,New confirmed cases by infection date,Unsure
+Bebedouro,69 (58 -- 81),69,69,7,58,66,69,70,72,81,New confirmed cases by infection date,Unsure
+Boituva,69 (58 -- 84),69,70,8,58,66,69,70,73,84,New confirmed cases by infection date,Unsure
+Cabo de Santo Agostinho,69 (59 -- 82),69,70,7,59,67,69,70,72,82,New confirmed cases by infection date,Unsure
+Demerval Lobão,69 (58 -- 82),69,70,7,58,66,69,70,72,82,New confirmed cases by infection date,Unsure
+Estreito,69 (54 -- 87),69,70,9,54,65,68,70,73,87,New confirmed cases by infection date,Unsure
+Ipu,69 (59 -- 80),69,69,6,59,67,69,70,72,80,New confirmed cases by infection date,Unsure
+Itapetinga,69 (57 -- 79),69,69,7,57,66,68,70,71,79,New confirmed cases by infection date,Unsure
+Itororó,69 (57 -- 84),69,70,8,57,66,69,70,72,84,New confirmed cases by infection date,Unsure
+Maranguape,69 (56 -- 88),69,70,10,56,66,68,70,73,88,New confirmed cases by infection date,Unsure
+Maués,69 (56 -- 81),69,69,7,56,65,68,70,71,81,New confirmed cases by infection date,Unsure
+Mirassol,69 (60 -- 79),69,69,5,60,67,69,70,71,79,New confirmed cases by infection date,Unsure
+Pitangueiras,69 (58 -- 83),69,70,8,58,67,69,70,73,83,New confirmed cases by infection date,Unsure
+Santana do Paraíso,69 (58 -- 83),69,70,7,58,67,69,70,73,83,New confirmed cases by infection date,Unsure
+Serrinha,69 (58 -- 80),69,69,6,58,66,68,70,72,80,New confirmed cases by infection date,Unsure
+Simões Filho,69 (61 -- 78),69,70,5,61,67,69,70,71,78,New confirmed cases by infection date,Unsure
+Tailândia,69 (57 -- 85),69,70,9,57,66,69,70,73,85,New confirmed cases by infection date,Unsure
+Teutônia,69 (60 -- 81),69,70,6,60,67,69,70,72,81,New confirmed cases by infection date,Unsure
+Tucuruí,69 (61 -- 80),69,70,6,61,67,69,70,72,80,New confirmed cases by infection date,Unsure
+Vilhena,69 (60 -- 78),69,69,5,60,67,69,70,71,78,New confirmed cases by infection date,Unsure
+São Bento,62 (49 -- 91),62,65,13,49,58,60,64,70,91,New confirmed cases by infection date,Unsure
+Capim Grosso,61 (51 -- 82),61,63,10,51,58,60,62,67,82,New confirmed cases by infection date,Unsure
+Brejo Santo,60 (53 -- 71),60,61,6,53,58,59,60,62,71,New confirmed cases by infection date,Unsure
+Camaragibe,60 (53 -- 68),60,60,4,53,58,59,60,61,68,New confirmed cases by infection date,Unsure
+Campo Limpo Paulista,60 (48 -- 76),60,61,9,48,57,59,61,64,76,New confirmed cases by infection date,Unsure
+Campos do Jordão,60 (52 -- 68),60,60,5,52,58,59,60,61,68,New confirmed cases by infection date,Unsure
+Chapadão do Sul,60 (48 -- 78),60,61,9,48,57,59,61,65,78,New confirmed cases by infection date,Unsure
+Coroatá,60 (49 -- 76),60,61,8,49,57,59,61,63,76,New confirmed cases by infection date,Unsure
+Garibaldi,60 (51 -- 73),60,61,6,51,58,59,60,63,73,New confirmed cases by infection date,Unsure
+Gurupi,60 (52 -- 73),60,61,6,52,58,59,61,63,73,New confirmed cases by infection date,Unsure
+Janaúba,60 (51 -- 68),60,60,5,51,57,59,60,62,68,New confirmed cases by infection date,Unsure
+Nossa Senhora do Socorro,60 (53 -- 68),60,60,4,53,58,59,60,61,68,New confirmed cases by infection date,Unsure
+Oeiras,60 (49 -- 73),60,60,7,49,57,59,61,64,73,New confirmed cases by infection date,Unsure
+Paraíba do Sul,60 (51 -- 69),60,60,5,51,58,59,60,62,69,New confirmed cases by infection date,Unsure
+Pesqueira,60 (51 -- 70),60,60,5,51,57,59,60,62,70,New confirmed cases by infection date,Unsure
+Santo Antônio do Descoberto,60 (51 -- 70),60,60,6,51,58,59,60,62,70,New confirmed cases by infection date,Unsure
+Andradina,59 (49 -- 69),59,59,6,49,56,59,60,62,69,New confirmed cases by infection date,Unsure
+Catalão,59 (50 -- 68),59,59,5,50,57,59,60,61,68,New confirmed cases by infection date,Unsure
+Crateús,59 (46 -- 70),59,59,7,46,55,58,60,62,70,New confirmed cases by infection date,Unsure
+Feira Nova do Maranhão,59 (51 -- 68),59,60,5,51,57,59,60,61,68,New confirmed cases by infection date,Unsure
+Gandu,59 (48 -- 68),59,59,6,48,56,58,60,61,68,New confirmed cases by infection date,Unsure
+Guaratinguetá,59 (49 -- 73),59,60,7,49,57,59,60,63,73,New confirmed cases by infection date,Unsure
+Horizonte,59 (50 -- 70),59,60,6,50,57,59,60,62,70,New confirmed cases by infection date,Unsure
+Jaguariúna,59 (49 -- 72),59,60,7,49,57,59,60,62,72,New confirmed cases by infection date,Unsure
+Jandira,59 (53 -- 67),59,59,4,53,58,59,60,61,67,New confirmed cases by infection date,Unsure
+Nilópolis,59 (51 -- 68),59,59,5,51,57,59,60,61,68,New confirmed cases by infection date,Unsure
+Novo Gama,59 (47 -- 67),59,58,6,47,56,58,60,61,67,New confirmed cases by infection date,Unsure
+Santa Rita,59 (50 -- 68),59,59,5,50,57,59,60,61,68,New confirmed cases by infection date,Unsure
+São Francisco do Conde,59 (52 -- 67),59,60,5,52,58,59,60,61,67,New confirmed cases by infection date,Unsure
+São Sebastião,59 (49 -- 69),59,59,5,49,57,59,60,61,69,New confirmed cases by infection date,Unsure
+Timon,59 (52 -- 69),59,60,5,52,58,59,60,61,69,New confirmed cases by infection date,Unsure
+Marituba,57 (38 -- 78),57,57,12,38,49,54,59,64,78,New confirmed cases by infection date,Unsure
+Alexânia,50 (44 -- 63),50,52,6,44,49,50,51,53,63,New confirmed cases by infection date,Unsure
+Araquari,50 (41 -- 65),50,51,7,41,48,49,51,53,65,New confirmed cases by infection date,Unsure
+Catanduva,50 (41 -- 62),50,50,7,41,47,49,50,53,62,New confirmed cases by infection date,Unsure
+Dias d'Ávila,50 (43 -- 56),50,50,4,43,48,49,50,51,56,New confirmed cases by infection date,Unsure
+Formiga,50 (38 -- 66),50,51,8,38,47,49,51,54,66,New confirmed cases by infection date,Unsure
+Guarabira,50 (44 -- 61),50,51,5,44,48,49,51,52,61,New confirmed cases by infection date,Unsure
+Ibiporã,50 (43 -- 61),50,51,5,43,48,49,51,53,61,New confirmed cases by infection date,Unsure
+Itabaiana,50 (44 -- 57),50,50,4,44,48,49,50,51,57,New confirmed cases by infection date,Unsure
+Itaperuçu,50 (43 -- 59),50,50,5,43,48,49,50,52,59,New confirmed cases by infection date,Unsure
+Itapira,50 (43 -- 58),50,50,4,43,48,49,50,51,58,New confirmed cases by infection date,Unsure
+Itupeva,50 (43 -- 64),50,51,6,43,48,49,51,53,64,New confirmed cases by infection date,Unsure
+Jaguaruana,50 (43 -- 59),50,50,5,43,48,49,50,51,59,New confirmed cases by infection date,Unsure
+Louveira,50 (43 -- 59),50,50,5,43,48,49,50,52,59,New confirmed cases by infection date,Unsure
+Mazagão,50 (40 -- 63),50,51,7,40,47,49,50,53,63,New confirmed cases by infection date,Unsure
+Morro Agudo,50 (43 -- 59),50,50,4,43,48,49,50,52,59,New confirmed cases by infection date,Unsure
+Nanuque,50 (42 -- 58),50,50,5,42,48,49,50,51,58,New confirmed cases by infection date,Unsure
+Nova Odessa,50 (44 -- 58),50,50,4,44,48,49,50,51,58,New confirmed cases by infection date,Unsure
+Nova Prata,50 (42 -- 61),50,50,6,42,48,49,50,52,61,New confirmed cases by infection date,Unsure
+Novo Horizonte,50 (42 -- 58),50,50,4,42,48,49,50,51,58,New confirmed cases by infection date,Unsure
+Ouro Preto do Oeste,50 (41 -- 63),50,51,6,41,48,49,50,53,63,New confirmed cases by infection date,Unsure
+Promissão,50 (43 -- 59),50,50,5,43,48,49,50,52,59,New confirmed cases by infection date,Unsure
+Queimados,50 (42 -- 58),50,50,5,42,48,49,50,52,58,New confirmed cases by infection date,Unsure
+Registro,50 (44 -- 58),50,50,4,44,48,49,50,51,58,New confirmed cases by infection date,Unsure
+Ribeira do Pombal,50 (44 -- 56),50,50,3,44,48,49,50,51,56,New confirmed cases by infection date,Unsure
+Santana do Ipanema,50 (42 -- 61),50,50,5,42,48,49,50,52,61,New confirmed cases by infection date,Unsure
+São Gabriel do Oeste,50 (44 -- 56),50,50,3,44,48,49,50,51,56,New confirmed cases by infection date,Unsure
+São Gonçalo do Amarante,50 (43 -- 58),50,50,4,43,48,49,50,52,58,New confirmed cases by infection date,Unsure
+Tanguá,50 (42 -- 60),50,50,5,42,48,49,50,52,60,New confirmed cases by infection date,Unsure
+Tianguá,50 (42 -- 60),50,50,5,42,48,49,50,52,60,New confirmed cases by infection date,Unsure
+Artur Nogueira,49 (41 -- 56),49,49,4,41,47,49,50,51,56,New confirmed cases by infection date,Unsure
+Barra do Piraí,49 (44 -- 56),49,50,3,44,48,49,50,51,56,New confirmed cases by infection date,Unsure
+Bertioga,49 (43 -- 59),49,50,4,43,48,49,50,51,59,New confirmed cases by infection date,Unsure
+Candeias do Jamari,49 (42 -- 57),49,50,4,42,48,49,50,51,57,New confirmed cases by infection date,Unsure
+Capivari,49 (40 -- 61),49,50,6,40,47,49,50,52,61,New confirmed cases by infection date,Unsure
+Catu,49 (43 -- 55),49,49,3,43,48,49,50,51,55,New confirmed cases by infection date,Unsure
+Ceres,49 (36 -- 61),49,49,7,36,45,48,50,52,61,New confirmed cases by infection date,Unsure
+Conceição do Araguaia,49 (39 -- 62),49,50,7,39,47,49,50,52,62,New confirmed cases by infection date,Unsure
+Cosmópolis,49 (41 -- 58),49,49,5,41,47,49,50,51,58,New confirmed cases by infection date,Unsure
+Cruzeiro do Sul,49 (41 -- 59),49,50,5,41,47,49,50,52,59,New confirmed cases by infection date,Unsure
+Embu-Guaçu,49 (43 -- 57),49,50,4,43,48,49,50,51,57,New confirmed cases by infection date,Unsure
+Inhumas,49 (41 -- 58),49,49,5,41,47,49,50,51,58,New confirmed cases by infection date,Unsure
+Itaituba,49 (40 -- 59),49,49,6,40,47,49,50,52,59,New confirmed cases by infection date,Unsure
+Itapiranga,49 (38 -- 63),49,50,7,38,46,49,50,53,63,New confirmed cases by infection date,Unsure
+Lapa,49 (40 -- 61),49,50,6,40,47,49,50,52,61,New confirmed cases by infection date,Unsure
+Leme,49 (41 -- 56),49,49,4,41,47,48,50,51,56,New confirmed cases by infection date,Unsure
+Marechal Deodoro,49 (36 -- 64),49,49,8,36,45,48,50,53,64,New confirmed cases by infection date,Unsure
+Mococa,49 (41 -- 59),49,49,5,41,47,49,50,51,59,New confirmed cases by infection date,Unsure
+Monteiro,49 (41 -- 56),49,49,4,41,47,49,50,51,56,New confirmed cases by infection date,Unsure
+Passos,49 (37 -- 63),49,49,7,37,45,48,50,52,63,New confirmed cases by infection date,Unsure
+Pinheiro,49 (39 -- 62),49,50,7,39,46,49,50,52,62,New confirmed cases by infection date,Unsure
+Serafina Corrêa,49 (40 -- 58),49,49,5,40,47,49,50,51,58,New confirmed cases by infection date,Unsure
+São Benedito,49 (42 -- 57),49,49,4,42,48,49,50,51,57,New confirmed cases by infection date,Unsure
+São Borja,49 (44 -- 57),49,50,3,44,48,49,50,51,57,New confirmed cases by infection date,Unsure
+São Gotardo,49 (40 -- 61),49,50,6,40,47,49,50,52,61,New confirmed cases by infection date,Unsure
+São Sebastião do Paraíso,49 (35 -- 63),49,49,8,35,44,48,50,53,63,New confirmed cases by infection date,Unsure
+Taquaritinga,49 (40 -- 57),49,49,5,40,47,49,50,51,57,New confirmed cases by infection date,Unsure
+Timbaúba,49 (40 -- 58),49,49,5,40,47,49,50,51,58,New confirmed cases by infection date,Unsure
+Urucurituba,49 (38 -- 61),49,49,6,38,46,48,50,52,61,New confirmed cases by infection date,Unsure
+Vargem Grande do Sul,49 (41 -- 56),49,49,4,41,47,49,50,51,56,New confirmed cases by infection date,Unsure
+União,48 (31 -- 60),48,47,9,31,43,47,49,51,60,New confirmed cases by infection date,Unsure
+Ibirataia,47 (31 -- 61),47,46,9,31,41,44,49,51,61,New confirmed cases by infection date,Unsure
+Campo Formoso,46 (27 -- 81),46,49,17,27,37,43,50,58,81,New confirmed cases by infection date,Unsure
+Parnaíba,46 (31 -- 69),46,48,11,31,40,44,49,54,69,New confirmed cases by infection date,Unsure
+Barras,44 (30 -- 64),44,45,10,30,38,41,47,51,64,New confirmed cases by infection date,Unsure
+Mamanguape,44 (28 -- 78),44,48,17,28,38,41,47,54,78,New confirmed cases by infection date,Unsure
+Aquiraz,40 (34 -- 49),40,40,4,34,38,39,40,42,49,New confirmed cases by infection date,Unsure
+Bandeirantes,40 (32 -- 48),40,40,5,32,38,39,40,42,48,New confirmed cases by infection date,Unsure
+Boa Viagem,40 (34 -- 49),40,40,5,34,38,39,40,42,49,New confirmed cases by infection date,Unsure
+Cajati,40 (31 -- 52),40,40,6,31,37,39,40,43,52,New confirmed cases by infection date,Unsure
+Campo Maior,40 (33 -- 48),40,40,4,33,38,39,40,42,48,New confirmed cases by infection date,Unsure
+Caçapava,40 (34 -- 47),40,40,4,34,38,39,40,42,47,New confirmed cases by infection date,Unsure
+Dracena,40 (34 -- 47),40,40,3,34,38,39,40,41,47,New confirmed cases by infection date,Unsure
+Goiana,40 (32 -- 57),40,42,8,32,38,39,42,45,57,New confirmed cases by infection date,Unsure
+Guapiaçu,40 (31 -- 52),40,40,6,31,37,39,40,42,52,New confirmed cases by infection date,Unsure
+Ibitinga,40 (34 -- 51),40,41,5,34,38,39,41,43,51,New confirmed cases by infection date,Unsure
+Ipiaú,40 (34 -- 47),40,40,3,34,38,39,40,41,47,New confirmed cases by infection date,Unsure
+Jaguaribe,40 (35 -- 48),40,40,3,35,39,39,40,41,48,New confirmed cases by infection date,Unsure
+Mâncio Lima,40 (33 -- 48),40,40,4,33,38,39,40,41,48,New confirmed cases by infection date,Unsure
+Oiapoque,40 (33 -- 48),40,40,4,33,38,39,40,41,48,New confirmed cases by infection date,Unsure
+Porto Feliz,40 (34 -- 45),40,40,3,34,38,39,40,41,45,New confirmed cases by infection date,Unsure
+Redenção,40 (34 -- 46),40,40,3,34,38,39,40,41,46,New confirmed cases by infection date,Unsure
+Santa Inês,40 (31 -- 52),40,41,6,31,37,39,41,43,52,New confirmed cases by infection date,Unsure
+Sena Madureira,40 (33 -- 48),40,40,4,33,38,39,40,41,48,New confirmed cases by infection date,Unsure
+São José de Ribamar,40 (29 -- 55),40,40,7,29,36,38,41,44,55,New confirmed cases by infection date,Unsure
+Anori,39 (29 -- 50),39,39,6,29,36,39,40,41,50,New confirmed cases by infection date,Unsure
+Apodi,39 (32 -- 44),39,39,3,32,37,39,40,40,44,New confirmed cases by infection date,Unsure
+Araci,39 (32 -- 50),39,40,5,32,37,39,40,42,50,New confirmed cases by infection date,Unsure
+Bacabal,39 (31 -- 48),39,39,5,31,37,39,40,42,48,New confirmed cases by infection date,Unsure
+Balsas,39 (30 -- 49),39,39,5,30,36,38,40,41,49,New confirmed cases by infection date,Unsure
+Barbalha,39 (28 -- 54),39,40,8,28,36,38,40,43,54,New confirmed cases by infection date,Unsure
+Beruri,39 (29 -- 49),39,39,6,29,36,38,40,41,49,New confirmed cases by infection date,Unsure
+Camacan,39 (33 -- 45),39,39,3,33,38,39,40,41,45,New confirmed cases by infection date,Unsure
+Canaã dos Carajás,39 (31 -- 51),39,40,6,31,37,39,40,43,51,New confirmed cases by infection date,Unsure
+Guaratuba,39 (32 -- 49),39,40,5,32,38,39,40,42,49,New confirmed cases by infection date,Unsure
+Guaraí,39 (34 -- 46),39,40,3,34,38,39,40,41,46,New confirmed cases by infection date,Unsure
+Guaxupé,39 (32 -- 48),39,40,4,32,38,39,40,41,48,New confirmed cases by infection date,Unsure
+Ipueiras,39 (27 -- 50),39,38,7,27,34,37,40,41,50,New confirmed cases by infection date,Unsure
+Jaguaquara,39 (29 -- 48),39,38,5,29,35,38,39,41,48,New confirmed cases by infection date,Unsure
+Jaru,39 (33 -- 44),39,39,3,33,38,39,40,40,44,New confirmed cases by infection date,Unsure
+Lagoa da Prata,39 (33 -- 47),39,40,4,33,38,39,40,41,47,New confirmed cases by infection date,Unsure
+Madre de Deus,39 (31 -- 48),39,39,5,31,37,39,40,41,48,New confirmed cases by infection date,Unsure
+Manacapuru,39 (27 -- 53),39,39,7,27,34,37,40,42,53,New confirmed cases by infection date,Unsure
+Mauriti,39 (33 -- 45),39,39,3,33,38,39,40,41,45,New confirmed cases by infection date,Unsure
+Monte Alto,39 (34 -- 46),39,40,3,34,38,39,40,41,46,New confirmed cases by infection date,Unsure
+Pacatuba,39 (33 -- 47),39,40,4,33,38,39,40,41,47,New confirmed cases by infection date,Unsure
+Palmeira dos Índios,39 (34 -- 45),39,39,3,34,38,39,40,41,45,New confirmed cases by infection date,Unsure
+Paragominas,39 (28 -- 56),39,40,8,28,35,38,41,44,56,New confirmed cases by infection date,Unsure
+Patrocínio,39 (31 -- 47),39,39,4,31,37,39,40,41,47,New confirmed cases by infection date,Unsure
+Pires do Rio,39 (33 -- 46),39,39,4,33,38,39,40,41,46,New confirmed cases by infection date,Unsure
+Porto Ferreira,39 (34 -- 46),39,40,4,34,38,39,40,41,46,New confirmed cases by infection date,Unsure
+Queimadas,39 (33 -- 45),39,39,3,33,37,39,40,41,45,New confirmed cases by infection date,Unsure
+Rurópolis,39 (30 -- 47),39,39,5,30,37,38,40,41,47,New confirmed cases by infection date,Unsure
+Serrana,39 (32 -- 46),39,39,4,32,37,39,40,41,46,New confirmed cases by infection date,Unsure
+São Joaquim da Barra,39 (33 -- 45),39,39,3,33,38,39,40,41,45,New confirmed cases by infection date,Unsure
+Tabuleiro do Norte,39 (34 -- 45),39,40,3,34,38,39,40,41,45,New confirmed cases by infection date,Unsure
+Uruaçu,39 (32 -- 45),39,39,4,32,38,39,40,41,45,New confirmed cases by infection date,Unsure
+Vitória do Jari,39 (31 -- 49),39,40,5,31,37,39,40,42,49,New confirmed cases by infection date,Unsure
+Xapuri,39 (33 -- 46),39,39,3,33,38,39,40,41,46,New confirmed cases by infection date,Unsure
+Xinguara,39 (26 -- 52),39,38,8,26,34,37,40,42,52,New confirmed cases by infection date,Unsure
+Sidrolândia,38 (26 -- 51),38,38,7,26,34,36,39,42,51,New confirmed cases by infection date,Unsure
+Barreirinhas,37 (23 -- 51),37,37,8,23,32,35,39,42,51,New confirmed cases by infection date,Unsure
+Bom Jesus,35 (22 -- 52),35,36,9,22,30,33,37,41,52,New confirmed cases by infection date,Unsure
+Nova Olinda do Norte,31 (22 -- 47),31,32,7,22,28,30,32,35,47,New confirmed cases by infection date,Unsure
+Alenquer,30 (25 -- 35),30,30,2,25,28,29,30,31,35,New confirmed cases by infection date,Unsure
+Alvarães,30 (23 -- 37),30,30,4,23,28,29,30,31,37,New confirmed cases by infection date,Unsure
+Brumadinho,30 (25 -- 35),30,30,2,25,28,29,30,31,35,New confirmed cases by infection date,Unsure
+Cabreúva,30 (25 -- 36),30,30,3,25,28,29,30,31,36,New confirmed cases by infection date,Unsure
+Capanema,30 (26 -- 36),30,30,3,26,29,29,30,31,36,New confirmed cases by infection date,Unsure
+Cordeirópolis,30 (26 -- 36),30,30,3,26,29,29,30,31,36,New confirmed cases by infection date,Unsure
+Estância Velha,30 (25 -- 36),30,30,3,25,28,29,30,31,36,New confirmed cases by infection date,Unsure
+Feijó,30 (26 -- 35),30,30,3,26,29,29,30,31,35,New confirmed cases by infection date,Unsure
+Guariba,30 (26 -- 35),30,30,2,26,29,29,30,30,35,New confirmed cases by infection date,Unsure
+Limoeiro,30 (17 -- 57),30,33,12,17,24,27,33,39,57,New confirmed cases by infection date,Unsure
+Palmares,30 (23 -- 40),30,31,5,23,28,29,31,33,40,New confirmed cases by infection date,Unsure
+Palmeiras de Goiás,30 (26 -- 38),30,31,3,26,29,29,30,32,38,New confirmed cases by infection date,Unsure
+Porto Grande,30 (25 -- 36),30,30,3,25,28,29,30,31,36,New confirmed cases by infection date,Unsure
+Salto de Pirapora,30 (26 -- 35),30,30,3,26,29,29,30,31,35,New confirmed cases by infection date,Unsure
+Santo Antônio de Pádua,30 (25 -- 35),30,30,2,25,29,29,30,31,35,New confirmed cases by infection date,Unsure
+Sapé,30 (26 -- 37),30,31,3,26,29,29,30,31,37,New confirmed cases by infection date,Unsure
+Saquarema,30 (26 -- 34),30,30,2,26,29,29,30,31,34,New confirmed cases by infection date,Unsure
+São Félix do Xingu,30 (26 -- 34),30,30,2,26,29,29,30,30,34,New confirmed cases by infection date,Unsure
+São Pedro da Aldeia,30 (25 -- 35),30,30,3,25,28,29,30,31,35,New confirmed cases by infection date,Unsure
+Três Passos,30 (24 -- 36),30,30,3,24,28,29,30,31,36,New confirmed cases by infection date,Unsure
+Várzea Paulista,30 (25 -- 36),30,30,3,25,28,29,30,31,36,New confirmed cases by infection date,Unsure
+Xaxim,30 (24 -- 40),30,31,5,24,28,29,31,33,40,New confirmed cases by infection date,Unsure
+Acopiara,29 (23 -- 35),29,29,3,23,28,29,30,30,35,New confirmed cases by infection date,Unsure
+Amaturá,29 (20 -- 37),29,29,5,20,26,28,30,31,37,New confirmed cases by infection date,Unsure
+Amparo,29 (25 -- 34),29,30,2,25,28,29,30,30,34,New confirmed cases by infection date,Unsure
+Anapu,29 (24 -- 36),29,30,3,24,28,29,30,31,36,New confirmed cases by infection date,Unsure
+Aquidauana,29 (23 -- 35),29,29,3,23,27,29,30,31,35,New confirmed cases by infection date,Unsure
+Autazes,29 (24 -- 35),29,30,3,24,28,29,30,31,35,New confirmed cases by infection date,Unsure
+Açailândia,29 (22 -- 37),29,29,4,22,27,29,30,31,37,New confirmed cases by infection date,Unsure
+Baixa Grande do Ribeiro,29 (24 -- 33),29,29,2,24,28,29,30,30,33,New confirmed cases by infection date,Unsure
+Barra dos Coqueiros,29 (25 -- 34),29,29,3,25,28,29,30,30,34,New confirmed cases by infection date,Unsure
+Bela Vista de Goiás,29 (21 -- 36),29,29,4,21,27,28,30,31,36,New confirmed cases by infection date,Unsure
+Bezerros,29 (25 -- 34),29,29,2,25,28,29,30,30,34,New confirmed cases by infection date,Unsure
+Cajamar,29 (26 -- 34),29,30,2,26,29,29,30,30,34,New confirmed cases by infection date,Unsure
+Calçoene,29 (24 -- 37),29,30,4,24,28,29,30,31,37,New confirmed cases by infection date,Unsure
+Concórdia do Pará,29 (22 -- 36),29,29,4,22,27,29,30,31,36,New confirmed cases by infection date,Unsure
+Coruripe,29 (26 -- 33),29,29,2,26,29,29,30,30,33,New confirmed cases by infection date,Unsure
+Grajaú,29 (25 -- 33),29,29,2,25,28,29,30,30,33,New confirmed cases by infection date,Unsure
+Guajará-Mirim,29 (26 -- 33),29,29,2,26,29,29,30,30,33,New confirmed cases by infection date,Unsure
+Guaporé,29 (25 -- 33),29,29,2,25,28,29,30,30,33,New confirmed cases by infection date,Unsure
+Humberto de Campos,29 (23 -- 36),29,29,4,23,28,29,30,31,36,New confirmed cases by infection date,Unsure
+Ingá,29 (26 -- 34),29,30,2,26,28,29,30,30,34,New confirmed cases by infection date,Unsure
+Itapipoca,29 (19 -- 38),29,28,5,19,25,28,30,31,38,New confirmed cases by infection date,Unsure
+José Bonifácio,29 (25 -- 34),29,29,2,25,28,29,30,30,34,New confirmed cases by infection date,Unsure
+José de Freitas,29 (26 -- 33),29,29,2,26,28,29,30,30,33,New confirmed cases by infection date,Unsure
+Ladário,29 (23 -- 34),29,29,3,23,27,28,29,30,34,New confirmed cases by infection date,Unsure
+Limoeiro do Norte,29 (25 -- 35),29,30,3,25,28,29,30,31,35,New confirmed cases by infection date,Unsure
+Lorena,29 (25 -- 33),29,29,2,25,28,29,30,30,33,New confirmed cases by infection date,Unsure
+Machadinho D'Oeste,29 (25 -- 34),29,30,3,25,29,29,30,30,34,New confirmed cases by infection date,Unsure
+Miranda,29 (21 -- 38),29,30,5,21,26,28,30,32,38,New confirmed cases by infection date,Unsure
+Niquelândia,29 (24 -- 33),29,29,2,24,28,29,30,30,33,New confirmed cases by infection date,Unsure
+Olímpia,29 (22 -- 36),29,29,4,22,27,28,30,31,36,New confirmed cases by infection date,Unsure
+Paracatu,29 (22 -- 37),29,29,4,22,27,28,30,31,37,New confirmed cases by infection date,Unsure
+Pedra Branca do Amapari,29 (21 -- 36),29,29,4,21,26,28,30,31,36,New confirmed cases by infection date,Unsure
+Penedo,29 (24 -- 34),29,29,3,24,28,29,30,30,34,New confirmed cases by infection date,Unsure
+Pindamonhangaba,29 (24 -- 35),29,29,3,24,28,29,30,31,35,New confirmed cases by infection date,Unsure
+Pirassununga,29 (26 -- 34),29,30,2,26,29,29,30,30,34,New confirmed cases by infection date,Unsure
+Poções,29 (22 -- 37),29,29,4,22,27,29,30,31,37,New confirmed cases by infection date,Unsure
+Quirinópolis,29 (22 -- 41),29,30,6,22,27,29,30,32,41,New confirmed cases by infection date,Unsure
+Rancharia,29 (24 -- 35),29,29,3,24,28,29,30,31,35,New confirmed cases by infection date,Unsure
+Rolim de Moura,29 (26 -- 34),29,30,2,26,29,29,30,30,34,New confirmed cases by infection date,Unsure
+Santa Helena de Goiás,29 (20 -- 37),29,29,5,20,26,28,30,31,37,New confirmed cases by infection date,Unsure
+São Cristóvão,29 (24 -- 34),29,29,2,24,28,29,30,30,34,New confirmed cases by infection date,Unsure
+São João dos Patos,29 (17 -- 45),29,30,9,17,24,27,31,34,45,New confirmed cases by infection date,Unsure
+Tarauacá,29 (23 -- 35),29,29,3,23,28,29,30,31,35,New confirmed cases by infection date,Unsure
+Uruçuí,29 (24 -- 33),29,29,2,24,28,29,30,30,33,New confirmed cases by infection date,Unsure
+Ibirubá,28 (18 -- 39),28,28,6,18,24,27,29,31,39,New confirmed cases by infection date,Unsure
+Alagoinha,20 (16 -- 26),20,20,3,16,19,19,20,21,26,New confirmed cases by infection date,Unsure
+Bom Jesus das Selvas,20 (17 -- 22),20,20,1,17,19,19,20,20,22,New confirmed cases by infection date,Unsure
+Caaporã,20 (15 -- 27),20,20,3,15,18,19,20,21,27,New confirmed cases by infection date,Unsure
+Caicó,20 (16 -- 25),20,20,2,16,19,19,20,21,25,New confirmed cases by infection date,Unsure
+Camocim,20 (16 -- 24),20,20,2,16,19,19,20,20,24,New confirmed cases by infection date,Unsure
+Campo Alegre,20 (17 -- 26),20,21,3,17,19,20,20,21,26,New confirmed cases by infection date,Unsure
+Chapadinha,20 (13 -- 33),20,21,6,13,17,19,21,24,33,New confirmed cases by infection date,Unsure
+Estância,20 (16 -- 24),20,20,2,16,19,19,20,21,24,New confirmed cases by infection date,Unsure
+Goiatuba,20 (17 -- 26),20,20,2,17,19,19,20,21,26,New confirmed cases by infection date,Unsure
+Iporá,20 (13 -- 32),20,21,5,13,17,19,21,23,32,New confirmed cases by infection date,Unsure
+Itapajé,20 (17 -- 23),20,20,1,17,19,19,20,20,23,New confirmed cases by infection date,Unsure
+Mari,20 (16 -- 24),20,20,2,16,19,19,20,21,24,New confirmed cases by infection date,Unsure
+Pacaraima,20 (15 -- 25),20,20,3,15,18,19,20,21,25,New confirmed cases by infection date,Unsure
+Paraipaba,20 (16 -- 24),20,20,2,16,19,19,20,20,24,New confirmed cases by infection date,Unsure
+Pedras de Fogo,20 (17 -- 24),20,20,2,17,19,19,20,21,24,New confirmed cases by infection date,Unsure
+Pedreiras,20 (16 -- 23),20,20,2,16,19,19,20,20,23,New confirmed cases by infection date,Unsure
+Pouso Alegre,20 (17 -- 24),20,20,2,17,19,19,20,21,24,New confirmed cases by infection date,Unsure
+Quixadá,20 (17 -- 23),20,20,1,17,19,19,20,20,23,New confirmed cases by infection date,Unsure
+Rio Brilhante,20 (16 -- 28),20,21,3,16,19,20,21,22,28,New confirmed cases by infection date,Unsure
+Santa Cruz do Capibaribe,20 (15 -- 25),20,20,3,15,18,19,20,21,25,New confirmed cases by infection date,Unsure
+Santa Isabel do Rio Negro,20 (16 -- 24),20,20,2,16,19,19,20,21,24,New confirmed cases by infection date,Unsure
+Santana do Acaraú,20 (15 -- 26),20,20,3,15,18,19,20,21,26,New confirmed cases by infection date,Unsure
+Santo Amaro,20 (16 -- 25),20,20,2,16,19,19,20,21,25,New confirmed cases by infection date,Unsure
+São José de Mipibu,20 (17 -- 24),20,20,2,17,19,19,20,21,24,New confirmed cases by infection date,Unsure
+São Miguel dos Campos,20 (17 -- 25),20,20,2,17,19,19,20,21,25,New confirmed cases by infection date,Unsure
+São Sebastião do Passé,20 (16 -- 23),20,20,2,16,19,19,20,20,23,New confirmed cases by infection date,Unsure
+Sítio Novo,20 (15 -- 30),20,21,5,15,19,20,21,23,30,New confirmed cases by infection date,Unsure
+Tomé-Açu,20 (17 -- 23),20,20,2,17,19,19,20,20,23,New confirmed cases by infection date,Unsure
+Afuá,19 (16 -- 24),19,20,2,16,19,19,20,20,24,New confirmed cases by infection date,Unsure
+Amarante do Maranhão,19 (14 -- 24),19,19,2,14,18,19,20,20,24,New confirmed cases by infection date,Unsure
+Aparecida do Taboado,19 (16 -- 22),19,19,2,16,18,19,20,20,22,New confirmed cases by infection date,Unsure
+Aracati,19 (14 -- 24),19,19,2,14,18,19,20,20,24,New confirmed cases by infection date,Unsure
+Augusto Corrêa,19 (16 -- 22),19,19,2,16,19,19,20,20,22,New confirmed cases by infection date,Unsure
+Bady Bassitt,19 (16 -- 23),19,19,2,16,18,19,20,20,23,New confirmed cases by infection date,Unsure
+Barcelos,19 (16 -- 23),19,19,2,16,18,19,20,20,23,New confirmed cases by infection date,Unsure
+Barra do Corda,19 (17 -- 23),19,20,1,17,19,19,20,20,23,New confirmed cases by infection date,Unsure
+Benjamin Constant,19 (14 -- 27),19,20,4,14,18,19,20,21,27,New confirmed cases by infection date,Unsure
+Bom Jesus de Goiás,19 (11 -- 32),19,20,6,11,16,18,21,24,32,New confirmed cases by infection date,Unsure
+Brasiléia,19 (16 -- 24),19,20,2,16,19,19,20,20,24,New confirmed cases by infection date,Unsure
+Brejo da Madre de Deus,19 (16 -- 23),19,19,1,16,19,19,20,20,23,New confirmed cases by infection date,Unsure
+Campo Belo,19 (15 -- 25),19,20,2,15,18,19,20,21,25,New confirmed cases by infection date,Unsure
+Canindé,19 (16 -- 24),19,20,2,16,19,19,20,20,24,New confirmed cases by infection date,Unsure
+Cantá,19 (15 -- 24),19,19,2,15,18,19,20,20,24,New confirmed cases by infection date,Unsure
+Colinas,19 (15 -- 22),19,19,2,15,18,19,20,20,22,New confirmed cases by infection date,Unsure
+Curuçá,19 (15 -- 23),19,19,2,15,18,19,20,20,23,New confirmed cases by infection date,Unsure
+Delmiro Gouveia,19 (12 -- 26),19,19,4,12,16,18,19,21,26,New confirmed cases by infection date,Unsure
+Eirunepé,19 (16 -- 22),19,19,1,16,19,19,20,20,22,New confirmed cases by infection date,Unsure
+Farias Brito,19 (17 -- 23),19,19,1,17,19,19,20,20,23,New confirmed cases by infection date,Unsure
+Guaíra,19 (14 -- 23),19,19,2,14,17,19,19,20,23,New confirmed cases by infection date,Unsure
+Hidrolândia,19 (17 -- 22),19,20,1,17,19,19,20,20,22,New confirmed cases by infection date,Unsure
+Igarapé-Miri,19 (12 -- 26),19,19,3,12,17,18,20,21,26,New confirmed cases by infection date,Unsure
+Iracemápolis,19 (15 -- 23),19,19,2,15,18,19,20,20,23,New confirmed cases by infection date,Unsure
+Itaberaba,19 (15 -- 24),19,19,2,15,18,19,20,20,24,New confirmed cases by infection date,Unsure
+Itaberaí,19 (16 -- 22),19,19,1,16,18,19,20,20,22,New confirmed cases by infection date,Unsure
+Itajubá,19 (14 -- 25),19,19,3,14,18,19,20,21,25,New confirmed cases by infection date,Unsure
+Itajuípe,19 (16 -- 22),19,19,1,16,19,19,20,20,22,New confirmed cases by infection date,Unsure
+Itaporanga,19 (16 -- 25),19,20,2,16,18,19,20,21,25,New confirmed cases by infection date,Unsure
+Itaporanga d'Ajuda,19 (15 -- 23),19,19,2,15,18,19,20,20,23,New confirmed cases by infection date,Unsure
+Itatira,19 (15 -- 24),19,19,2,15,18,19,20,20,24,New confirmed cases by infection date,Unsure
+Ituiutaba,19 (15 -- 25),19,20,3,15,18,19,20,21,25,New confirmed cases by infection date,Unsure
+Lagarto,19 (16 -- 23),19,19,2,16,19,19,20,20,23,New confirmed cases by infection date,Unsure
+Medeiros Neto,19 (16 -- 23),19,20,2,16,19,19,20,20,23,New confirmed cases by infection date,Unsure
+Miguel Alves,19 (15 -- 23),19,19,2,15,18,19,20,20,23,New confirmed cases by infection date,Unsure
+Mombaça,19 (16 -- 23),19,19,2,16,18,19,20,20,23,New confirmed cases by infection date,Unsure
+Nova Serrana,19 (15 -- 23),19,19,2,15,18,19,20,20,23,New confirmed cases by infection date,Unsure
+Orlândia,19 (16 -- 22),19,19,1,16,19,19,20,20,22,New confirmed cases by infection date,Unsure
+Ourilândia do Norte,19 (13 -- 26),19,19,3,13,17,18,20,21,26,New confirmed cases by infection date,Unsure
+Paraty,19 (15 -- 22),19,19,2,15,18,19,20,20,22,New confirmed cases by infection date,Unsure
+Paulo Afonso,19 (14 -- 26),19,19,3,14,17,18,20,21,26,New confirmed cases by infection date,Unsure
+Pilar,19 (16 -- 23),19,19,1,16,19,19,20,20,23,New confirmed cases by infection date,Unsure
+Planaltina,19 (16 -- 22),19,19,1,16,19,19,20,20,22,New confirmed cases by infection date,Unsure
+Pontal,19 (14 -- 26),19,20,3,14,17,19,20,21,26,New confirmed cases by infection date,Unsure
+Porto Nacional,19 (16 -- 23),19,19,2,16,19,19,20,20,23,New confirmed cases by infection date,Unsure
+Presidente Dutra,19 (17 -- 22),19,19,1,17,19,19,20,20,22,New confirmed cases by infection date,Unsure
+Quixeramobim,19 (17 -- 22),19,20,1,17,19,19,20,20,22,New confirmed cases by infection date,Unsure
+Rio Largo,19 (13 -- 26),19,19,4,13,16,18,19,21,26,New confirmed cases by infection date,Unsure
+Rorainópolis,19 (16 -- 22),19,19,2,16,19,19,20,20,22,New confirmed cases by infection date,Unsure
+Santa Cruz das Palmeiras,19 (15 -- 23),19,19,2,15,18,19,20,20,23,New confirmed cases by infection date,Unsure
+Santa Fé do Sul,19 (16 -- 22),19,19,1,16,19,19,20,20,22,New confirmed cases by infection date,Unsure
+Santana do Araguaia,19 (16 -- 22),19,19,1,16,19,19,20,20,22,New confirmed cases by infection date,Unsure
+Simão Dias,19 (15 -- 26),19,20,3,15,18,19,20,21,26,New confirmed cases by infection date,Unsure
+Surubim,19 (15 -- 23),19,19,2,15,18,19,20,20,23,New confirmed cases by infection date,Unsure
+São Luís de Montes Belos,19 (16 -- 23),19,19,1,16,19,19,20,20,23,New confirmed cases by infection date,Unsure
+São Raimundo das Mangabeiras,19 (16 -- 22),19,19,2,16,18,19,20,20,22,New confirmed cases by infection date,Unsure
+Tabatinga,19 (16 -- 22),19,19,1,16,18,19,20,20,22,New confirmed cases by infection date,Unsure
+Tanabi,19 (17 -- 22),19,19,1,17,19,19,20,20,22,New confirmed cases by infection date,Unsure
+Teotônio Vilela,19 (16 -- 23),19,19,1,16,19,19,20,20,23,New confirmed cases by infection date,Unsure
+Vitória de Santo Antão,19 (16 -- 23),19,19,2,16,19,19,20,20,23,New confirmed cases by infection date,Unsure
+Zé Doca,19 (15 -- 23),19,19,2,15,18,19,20,20,23,New confirmed cases by infection date,Unsure
+Sobral,16 (9 -- 27),16,17,5,9,13,15,18,20,27,New confirmed cases by infection date,Unsure
+Girau do Ponciano,10 (8 -- 11),10,10,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Itarema,10 (8 -- 11),10,10,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Mucajaí,10 (6 -- 15),10,10,2,6,8,9,10,11,15,New confirmed cases by infection date,Unsure
+São Mateus do Maranhão,10 (8 -- 11),10,10,0,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Acarape,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Acaraú,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Alagoa Grande,9 (8 -- 11),9,10,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Araguatins,9 (8 -- 11),9,9,0,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Açu,9 (6 -- 12),9,9,1,6,8,9,10,10,12,New confirmed cases by infection date,Unsure
+Barcarena,9 (7 -- 13),9,10,1,7,9,9,10,10,13,New confirmed cases by infection date,Unsure
+Barra Bonita,9 (8 -- 11),9,9,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Bela Cruz,9 (7 -- 12),9,10,1,7,9,9,10,10,12,New confirmed cases by infection date,Unsure
+Belo Jardim,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Boca da Mata,9 (6 -- 12),9,9,1,6,8,9,9,10,12,New confirmed cases by infection date,Unsure
+Buriticupu,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Caracaraí,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Caroebe,9 (8 -- 11),9,10,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Conceição das Alagoas,9 (6 -- 12),9,9,1,6,8,9,10,10,12,New confirmed cases by infection date,Unsure
+Coreaú,9 (8 -- 11),9,9,0,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Curionópolis,9 (6 -- 11),9,9,1,6,8,9,9,10,11,New confirmed cases by infection date,Unsure
+Dom Eliseu,9 (6 -- 12),9,9,1,6,8,9,9,10,12,New confirmed cases by infection date,Unsure
+Esperantina,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Espírito Santo do Pinhal,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Formoso do Araguaia,9 (8 -- 11),9,9,0,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Frecheirinha,9 (8 -- 11),9,9,0,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Granja,9 (7 -- 12),9,10,1,7,9,9,10,10,12,New confirmed cases by infection date,Unsure
+Itabaianinha,9 (8 -- 12),9,10,1,8,9,9,10,10,12,New confirmed cases by infection date,Unsure
+Itapecuru Mirim,9 (7 -- 13),9,10,1,7,9,9,10,10,13,New confirmed cases by infection date,Unsure
+Jaraguá,9 (7 -- 12),9,9,1,7,9,9,10,10,12,New confirmed cases by infection date,Unsure
+Juruti,9 (8 -- 11),9,9,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Lago da Pedra,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Luzilândia,9 (7 -- 12),9,9,1,7,9,9,10,10,12,New confirmed cases by infection date,Unsure
+Manicoré,9 (8 -- 11),9,9,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Matriz de Camaragibe,9 (8 -- 11),9,9,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Medicilândia,9 (8 -- 11),9,9,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Monte Alegre,9 (7 -- 12),9,9,1,7,9,9,10,10,12,New confirmed cases by infection date,Unsure
+Nossa Senhora da Glória,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Nova Mamoré,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Olho d'Água das Flores,9 (8 -- 11),9,9,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Orós,9 (7 -- 12),9,9,1,7,9,9,10,10,12,New confirmed cases by infection date,Unsure
+Paracuru,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Paraíso do Tocantins,9 (7 -- 12),9,9,1,7,9,9,10,10,12,New confirmed cases by infection date,Unsure
+Pindobaçu,9 (5 -- 13),9,9,2,5,7,8,9,10,13,New confirmed cases by infection date,Unsure
+Ponta de Pedras,9 (8 -- 11),9,9,0,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Portel,9 (6 -- 12),9,9,1,6,8,9,9,10,12,New confirmed cases by infection date,Unsure
+Poção de Pedras,9 (8 -- 11),9,10,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Propriá,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Quixelô,9 (8 -- 11),9,9,0,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Rio Maria,9 (8 -- 11),9,9,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Santa Gertrudes,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Santa Helena,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Santa Quitéria,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+São Benedito do Rio Preto,9 (8 -- 11),9,9,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+São Domingos do Araguaia,9 (8 -- 11),9,9,0,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+São Domingos do Maranhão,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+São Paulo de Olivença,9 (8 -- 12),9,10,1,8,9,9,10,10,12,New confirmed cases by infection date,Unsure
+Tobias Barreto,9 (7 -- 13),9,10,1,7,9,9,10,10,13,New confirmed cases by infection date,Unsure
+Tuntum,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Tutóia,9 (6 -- 12),9,9,1,6,8,9,9,10,12,New confirmed cases by infection date,Unsure
+Ubajara,9 (8 -- 11),9,10,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Ubatã,9 (7 -- 13),9,10,1,7,9,9,10,10,13,New confirmed cases by infection date,Unsure
+Uruará,9 (7 -- 12),9,9,1,7,9,9,10,10,12,New confirmed cases by infection date,Unsure
+Varjota,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Vitorino Freire,9 (8 -- 12),9,9,1,8,9,9,10,10,12,New confirmed cases by infection date,Unsure
+Vitória do Xingu,9 (8 -- 11),9,9,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Viçosa do Ceará,9 (8 -- 11),9,10,1,8,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Água Branca,9 (7 -- 11),9,9,1,7,9,9,10,10,11,New confirmed cases by infection date,Unsure
+Água Preta,9 (6 -- 13),9,9,2,6,8,9,10,10,13,New confirmed cases by infection date,Unsure
+Coelho Neto,8 (5 -- 12),8,8,2,5,7,8,9,10,12,New confirmed cases by infection date,Unsure
+Guareí,8 (3 -- 19),8,9,5,3,6,8,10,12,19,New confirmed cases by infection date,Unsure
+Cuiabá,2.1 (1.5 -- 2.9),2.1,2.1,0.5,1.5,1.8,2,2.2,2.4,2.9,Effective reproduction no.,Unsure
+Rondonópolis,1.7 (1.2 -- 2.3),1.7,1.7,0.3,1.2,1.5,1.6,1.8,1.9,2.3,Effective reproduction no.,Unsure
+Várzea Grande,1.7 (1.2 -- 2.3),1.7,1.7,0.3,1.2,1.5,1.6,1.8,1.9,2.3,Effective reproduction no.,Unsure
+Sinop,1.6 (1.2 -- 2.1),1.6,1.6,0.3,1.2,1.4,1.5,1.6,1.7,2.1,Effective reproduction no.,Unsure
+São José de Mipibu,1.6 (1.4 -- 1.6),1.6,1.6,0.1,1.4,1.5,1.5,1.6,1.6,1.6,Effective reproduction no.,Unsure
+Camocim,1.5 (1.4 -- 1.6),1.5,1.5,0.1,1.4,1.5,1.5,1.5,1.5,1.6,Effective reproduction no.,Unsure
+Pedras de Fogo,1.5 (1.4 -- 1.6),1.5,1.5,0.1,1.4,1.5,1.5,1.5,1.5,1.6,Effective reproduction no.,Unsure
+Primavera do Leste,1.5 (1.2 -- 2),1.5,1.6,0.3,1.2,1.4,1.5,1.6,1.7,2,Effective reproduction no.,Unsure
+Tangará da Serra,1.5 (1.1 -- 2.1),1.5,1.6,0.3,1.1,1.4,1.5,1.6,1.7,2.1,Effective reproduction no.,Unsure
+Alagoinha,1.4 (1.2 -- 1.5),1.4,1.4,0.1,1.2,1.3,1.3,1.4,1.4,1.5,Effective reproduction no.,Unsure
+Mari,1.4 (1.2 -- 1.5),1.4,1.4,0.1,1.2,1.3,1.3,1.4,1.4,1.5,Effective reproduction no.,Unsure
+São Miguel dos Campos,1.4 (1.2 -- 1.5),1.4,1.4,0.1,1.2,1.3,1.3,1.4,1.4,1.5,Effective reproduction no.,Unsure
+Cariacica,1.3 (0.9 -- 1.7),1.3,1.3,0.3,0.9,1.1,1.2,1.3,1.4,1.7,Effective reproduction no.,Unsure
+Guarapari,1.3 (1 -- 1.6),1.3,1.3,0.2,1,1.1,1.2,1.3,1.4,1.6,Effective reproduction no.,Unsure
+Barra de São Francisco,1.2 (0.9 -- 1.4),1.2,1.2,0.2,0.9,1.1,1.1,1.2,1.2,1.4,Effective reproduction no.,Unsure
+Cachoeiro de Itapemirim,1.2 (0.9 -- 1.6),1.2,1.2,0.2,0.9,1.1,1.2,1.3,1.4,1.6,Effective reproduction no.,Unsure
+Camacan,1.2 (1.2 -- 1.3),1.2,1.2,0,1.2,1.2,1.2,1.2,1.2,1.3,Effective reproduction no.,Unsure
+Castelo,1.2 (0.8 -- 1.5),1.2,1.2,0.2,0.8,1,1.1,1.2,1.3,1.5,Effective reproduction no.,Unsure
+Colatina,1.2 (0.8 -- 1.6),1.2,1.2,0.2,0.8,1,1.1,1.2,1.3,1.6,Effective reproduction no.,Unsure
+Domingos Martins,1.2 (0.9 -- 1.5),1.2,1.2,0.2,0.9,1.1,1.1,1.2,1.3,1.5,Effective reproduction no.,Unsure
+Estância Velha,1.2 (1.1 -- 1.3),1.2,1.2,0,1.1,1.2,1.2,1.2,1.2,1.3,Effective reproduction no.,Unsure
+Feijó,1.2 (1.1 -- 1.3),1.2,1.2,0,1.1,1.2,1.2,1.2,1.2,1.3,Effective reproduction no.,Unsure
+Itapemirim,1.2 (0.9 -- 1.4),1.2,1.2,0.2,0.9,1,1.1,1.2,1.3,1.4,Effective reproduction no.,Unsure
+Linhares,1.2 (0.8 -- 1.6),1.2,1.2,0.2,0.8,1,1.1,1.2,1.3,1.6,Effective reproduction no.,Unsure
+Nova Venécia,1.2 (0.9 -- 1.4),1.2,1.2,0.2,0.9,1.1,1.1,1.2,1.3,1.4,Effective reproduction no.,Unsure
+Queimadas,1.2 (1.1 -- 1.3),1.2,1.2,0,1.1,1.2,1.2,1.2,1.2,1.3,Effective reproduction no.,Unsure
+Serra,1.2 (0.7 -- 1.7),1.2,1.2,0.3,0.7,1,1.1,1.3,1.4,1.7,Effective reproduction no.,Unsure
+São Gabriel da Palha,1.2 (0.9 -- 1.5),1.2,1.2,0.2,0.9,1,1.1,1.2,1.3,1.5,Effective reproduction no.,Unsure
+Tarauacá,1.2 (1.1 -- 1.3),1.2,1.2,0.1,1.1,1.1,1.1,1.2,1.2,1.3,Effective reproduction no.,Unsure
+Uruaçu,1.2 (1.1 -- 1.2),1.2,1.2,0,1.1,1.1,1.1,1.2,1.2,1.2,Effective reproduction no.,Unsure
+Viana,1.2 (0.9 -- 1.5),1.2,1.2,0.2,0.9,1.1,1.1,1.2,1.3,1.5,Effective reproduction no.,Unsure
+Vila Velha,1.2 (0.8 -- 1.7),1.2,1.2,0.3,0.8,1.1,1.2,1.3,1.4,1.7,Effective reproduction no.,Unsure
+Xinguara,1.2 (1.1 -- 1.4),1.2,1.2,0.1,1.1,1.1,1.2,1.2,1.2,1.4,Effective reproduction no.,Unsure
+Afogados da Ingazeira,1.1 (0.9 -- 1.1),1.1,1.1,0.1,0.9,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Afonso Cláudio,1.1 (0.9 -- 1.4),1.1,1.1,0.2,0.9,1,1.1,1.2,1.2,1.4,Effective reproduction no.,Unsure
+Alexânia,1.1 (1 -- 1.2),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Americana,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Anapu,1.1 (1.1 -- 1.2),1.1,1.1,0.1,1.1,1.1,1.1,1.2,1.2,1.2,Effective reproduction no.,Unsure
+Anchieta,1.1 (0.8 -- 1.4),1.1,1.1,0.2,0.8,1,1.1,1.2,1.2,1.4,Effective reproduction no.,Unsure
+Aracruz,1.1 (0.8 -- 1.5),1.1,1.1,0.2,0.8,1,1.1,1.2,1.3,1.5,Effective reproduction no.,Unsure
+Araquari,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Araruama,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Baixo Guandu,1.1 (0.9 -- 1.3),1.1,1.1,0.1,0.9,1,1.1,1.1,1.2,1.3,Effective reproduction no.,Unsure
+Balneário Piçarras,1.1 (1 -- 1.1),1.1,1.1,0.1,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Bandeirantes,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Barra Velha,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Benevides,1.1 (0.9 -- 1.4),1.1,1.1,0.1,0.9,1,1.1,1.1,1.2,1.4,Effective reproduction no.,Unsure
+Bento Gonçalves,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Boca do Acre,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Bom Jesus da Lapa,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Likely increasing
+Breves,1.1 (0.9 -- 1.2),1.1,1.1,0.1,0.9,1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Campina Grande do Sul,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Campo Largo,1.1 (1 -- 1.1),1.1,1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Campo Limpo Paulista,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Campo Mourão,1.1 (1 -- 1.1),1.1,1.1,0.1,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Capinzal,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Capivari de Baixo,1.1 (1 -- 1.1),1.1,1.1,0.1,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Capão da Canoa,1.1 (1 -- 1.1),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Carlos Barbosa,1.1 (1 -- 1.1),1.1,1.1,0.1,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Cascavel,1.1 (1 -- 1.1),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Casimiro de Abreu,1.1 (1 -- 1.2),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Caucaia,1.1 (0.9 -- 1.1),1.1,1,0.1,0.9,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Caxias do Sul,1.1 (1 -- 1.1),1.1,1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Caçador,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Chapadinha,1.1 (0.9 -- 1.3),1.1,1.1,0.1,0.9,1,1.1,1.1,1.2,1.3,Effective reproduction no.,Unsure
+Charqueadas,1.1 (1 -- 1.1),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Cianorte,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Duque de Caxias,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Ecoporanga,1.1 (0.9 -- 1.3),1.1,1.1,0.1,0.9,1.1,1.1,1.2,1.2,1.3,Effective reproduction no.,Unsure
+Erechim,1.1 (0.9 -- 1.3),1.1,1.1,0.1,0.9,1,1,1.1,1.1,1.3,Effective reproduction no.,Unsure
+Estreito,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Forquilhinha,1.1 (0.9 -- 1.2),1.1,1.1,0.1,0.9,1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Francisco Morato,1.1 (1 -- 1.1),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Gandu,1.1 (1.1 -- 1.2),1.1,1.1,0,1.1,1.1,1.1,1.1,1.2,1.2,Effective reproduction no.,Unsure
+Goiana,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Governador Celso Ramos,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Gravataí,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Guanambi,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Guapiaçu,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Guapimirim,1.1 (1 -- 1.1),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Guaramirim,1.1 (1 -- 1.1),1.1,1.1,0.1,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Guarapuava,1.1 (1 -- 1.1),1.1,1.1,0.1,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Guareí,1.1 (0.7 -- 1.5),1.1,1.1,0.2,0.7,0.9,1,1.1,1.2,1.5,Effective reproduction no.,Unsure
+Guaíba,1.1 (1 -- 1.1),1.1,1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Ibirité,1.1 (0.9 -- 1.1),1.1,1.1,0.1,0.9,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Ilhabela,1.1 (1 -- 1.1),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Itabaiana,1.1 (1.1 -- 1.2),1.1,1.1,0,1.1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Itabirito,1.1 (1.1 -- 1.2),1.1,1.1,0.1,1.1,1.1,1.1,1.1,1.2,1.2,Effective reproduction no.,Unsure
+Itaguaí,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Itamaraju,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Itaperuna,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Itapeva,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Jaguaribe,1.1 (1.1 -- 1.2),1.1,1.1,0,1.1,1.1,1.1,1.2,1.2,1.2,Effective reproduction no.,Unsure
+Jaguaré,1.1 (0.9 -- 1.4),1.1,1.1,0.1,0.9,1.1,1.1,1.2,1.2,1.4,Effective reproduction no.,Unsure
+Jales,1.1 (1 -- 1.1),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Jaraguá do Sul,1.1 (1 -- 1.1),1.1,1.1,0.1,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Joaçaba,1.1 (1 -- 1.1),1.1,1.1,0.1,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Jundiaí,1.1 (0.9 -- 1.1),1.1,1,0.1,0.9,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Laranjal do Jari,1.1 (0.9 -- 1.2),1.1,1.1,0.1,0.9,1,1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Limoeiro,1.1 (0.9 -- 1.3),1.1,1.1,0.1,0.9,1,1,1.1,1.1,1.3,Effective reproduction no.,Unsure
+Louveira,1.1 (1.1 -- 1.2),1.1,1.1,0,1.1,1.1,1.1,1.1,1.2,1.2,Effective reproduction no.,Unsure
+Magé,1.1 (1 -- 1.2),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Mamanguape,1.1 (0.8 -- 1.2),1.1,1.1,0.1,0.8,1,1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Marataízes,1.1 (0.8 -- 1.4),1.1,1.1,0.2,0.8,1,1.1,1.2,1.2,1.4,Effective reproduction no.,Unsure
+Marechal Floriano,1.1 (0.9 -- 1.4),1.1,1.1,0.2,0.9,1,1.1,1.2,1.2,1.4,Effective reproduction no.,Unsure
+Mazagão,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Montenegro,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Morro Agudo,1.1 (1 -- 1.1),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Morro da Fumaça,1.1 (0.9 -- 1.1),1.1,1,0.1,0.9,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Oriximiná,1.1 (1.1 -- 1.2),1.1,1.1,0,1.1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Palmeira das Missões,1.1 (1 -- 1.1),1.1,1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Palotina,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Parauapebas,1.1 (0.9 -- 1.3),1.1,1.1,0.1,0.9,1,1,1.1,1.1,1.3,Effective reproduction no.,Unsure
+Pato Branco,1.1 (0.9 -- 1.2),1.1,1.1,0.1,0.9,1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Patos,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Paulista,1.1 (1 -- 1.1),1.1,1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Penha,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Pinheiro,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Pomerode,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Ponte Nova,1.1 (0.9 -- 1.1),1.1,1,0.1,0.9,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Porto Ferreira,1.1 (1 -- 1.1),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Reriutaba,1.1 (1 -- 1.2),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Rio Bonito,1.1 (1 -- 1.2),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Rio Tinto,1.1 (1 -- 1.2),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Rolândia,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Sabará,1.1 (1 -- 1.2),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Santa Isabel,1.1 (1 -- 1.2),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Santa Maria de Jetibá,1.1 (0.9 -- 1.4),1.1,1.1,0.2,0.9,1,1.1,1.2,1.2,1.4,Effective reproduction no.,Unsure
+Santa Teresa,1.1 (0.8 -- 1.4),1.1,1.1,0.2,0.8,1,1.1,1.2,1.3,1.4,Effective reproduction no.,Unsure
+Santana do Ipanema,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Santo Antônio da Patrulha,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Santo Antônio do Descoberto,1.1 (1.1 -- 1.2),1.1,1.1,0,1.1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Santo Ângelo,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Sombrio,1.1 (0.9 -- 1.1),1.1,1.1,0.1,0.9,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Sooretama,1.1 (0.9 -- 1.4),1.1,1.1,0.1,0.9,1.1,1.1,1.2,1.2,1.4,Effective reproduction no.,Unsure
+Sousa,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+São Gonçalo do Amarante,1.1 (1.1 -- 1.2),1.1,1.1,0,1.1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+São João Batista,1.1 (0.9 -- 1.2),1.1,1.1,0.1,0.9,1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+São João da Barra,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+São Mateus,1.1 (0.8 -- 1.4),1.1,1.1,0.2,0.8,1,1.1,1.2,1.3,1.4,Effective reproduction no.,Unsure
+São Miguel do Guamá,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+São Miguel do Iguaçu,1.1 (0.9 -- 1.2),1.1,1.1,0.1,0.9,1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Taquara,1.1 (1.1 -- 1.2),1.1,1.1,0,1.1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Teresópolis,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Teófilo Otoni,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Tijucas,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Timbaúba,1.1 (1.1 -- 1.2),1.1,1.1,0,1.1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Tucumã,1.1 (1 -- 1.2),1.1,1.1,0.1,1,1.1,1.1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Urussanga,1.1 (1 -- 1.1),1.1,1.1,0.1,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Vacaria,1.1 (0.9 -- 1.1),1.1,1.1,0.1,0.9,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Valença,1.1 (1 -- 1.1),1.1,1.1,0,1,1.1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Venda Nova do Imigrante,1.1 (0.8 -- 1.4),1.1,1.1,0.2,0.8,1,1.1,1.2,1.3,1.4,Effective reproduction no.,Unsure
+Videira,1.1 (1 -- 1.1),1.1,1.1,0,1,1,1.1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Vitória,1.1 (0.7 -- 1.6),1.1,1.2,0.3,0.7,1,1.1,1.2,1.3,1.6,Effective reproduction no.,Unsure
+Xanxerê,1.1 (0.9 -- 1.1),1.1,1,0.1,0.9,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Abaetetuba,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Acarape,1 (1 -- 1.1),1,1,0.1,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Acaraú,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Afuá,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Alagoa Grande,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Alegrete,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Alenquer,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Almirante Tamandaré,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Altos,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Alvarães,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Alvorada,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Amarante do Maranhão,1 (1 -- 1.2),1,1,0.1,1,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Amaturá,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Andradina,1 (0.9 -- 1),1,1,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Angra dos Reis,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Anápolis,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Apucarana,1 (0.9 -- 1),1,1,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Aquiraz,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Aracati,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Araci,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Arapiraca,1 (0.8 -- 1.2),1,1,0.1,0.8,0.9,0.9,1,1,1.2,Effective reproduction no.,Unsure
+Arapongas,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Araranguá,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Araraquara,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Araripina,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Araucária,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Arcoverde,1 (1 -- 1.1),1,1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Ariquemes,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Artur Nogueira,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Arujá,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Assis,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Augusto Corrêa,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Autazes,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Açu,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Bacabal,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Bagé,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Balneário Camboriú,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Barbacena,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Barbalha,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1,1,1.2,Effective reproduction no.,Unsure
+Bariri,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Barra Mansa,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Barra do Piraí,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Barras,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Barreiras,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Barreirinha,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Barueri,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Bauru,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Bayeux,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Bebedouro,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Bela Cruz,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Bela Vista de Goiás,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Belo Horizonte,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Belo Jardim,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Belém,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Benjamin Constant,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Beruri,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Bezerros,1 (0.9 -- 1),1,1,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Biguaçu,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Birigui,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Blumenau,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Boca da Mata,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Boituva,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Bom Jesus de Goiás,1 (0.8 -- 1.2),1,1,0.1,0.8,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Bombinhas,1 (0.8 -- 1.2),1,1,0.1,0.8,0.9,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Botucatu,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Bragança,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Bragança Paulista,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Brasiléia,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Brasília,1 (0.9 -- 1.1),1,1,0.1,0.9,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Braço do Norte,1 (0.7 -- 1.2),1,1,0.2,0.7,0.9,0.9,1,1.1,1.2,Effective reproduction no.,Unsure
+Brejo Santo,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Brejo da Madre de Deus,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Brumadinho,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Brumado,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Brusque,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Caaporã,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Cabedelo,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Cabo Frio,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Cabo de Santo Agostinho,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Cabreúva,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Cachoeirinha,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Cacoal,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Caieiras,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Cajamar,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Caldas Novas,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Calçoene,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Camaquã,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Camaragibe,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Camaçari,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Camboriú,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Cambé,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Cametá,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Campina Grande,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Campinas,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Campo Alegre,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Campo Bom,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Campo Formoso,1 (0.8 -- 1.2),1,1,0.1,0.8,0.9,1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Campo Grande,1 (0.8 -- 1.1),1,1,0.1,0.8,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Campos Novos,1 (0.8 -- 1.2),1,1,0.1,0.8,0.9,1,1,1,1.2,Effective reproduction no.,Unsure
+Campos do Jordão,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Campos dos Goytacazes,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Candeias,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Candeias do Jamari,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Canela,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Canoas,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Capanema,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Capim Grosso,1 (1 -- 1.1),1,1,0.1,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Capivari,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Caraguatatuba,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Carapicuíba,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Caratinga,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Carauari,1 (0.9 -- 1.1),1,1,0.1,0.9,0.9,0.9,1,1,1.1,Effective reproduction no.,Unsure
+Carazinho,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Likely increasing
+Careiro,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Caroebe,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Caruaru,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Castanhal,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Castro,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Catanduva,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Catu,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Caçapava,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Ceres,1 (0.9 -- 1),1,1,0.1,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Chapadão do Sul,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Chapecó,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Cidade Ocidental,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Coari,1 (0.8 -- 1.2),1,1,0.1,0.8,0.9,0.9,1,1,1.2,Effective reproduction no.,Unsure
+Coelho Neto,1 (0.9 -- 1.2),1,1.1,0.1,0.9,1,1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Colombo,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Conceição do Araguaia,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Conceição do Coité,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Concórdia do Pará,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Congonhas,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Conselheiro Lafaiete,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Contagem,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Cordeirópolis,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Coreaú,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Coroatá,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Coronel Fabriciano,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Corumbá,1 (0.9 -- 1),1,1,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Cotia,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Crato,1 (0.9 -- 1),1,1,0.1,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Criciúma,1 (0.8 -- 1.2),1,1,0.1,0.8,0.9,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Cruzeiro do Sul,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Cubatão,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Curitiba,1 (0.8 -- 1.1),1,1,0.1,0.8,0.9,0.9,1,1,1.1,Effective reproduction no.,Unsure
+Curuçá,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Curvelo,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Delmiro Gouveia,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Demerval Lobão,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Diadema,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Dias d'Ávila,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Dois Vizinhos,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Dom Eliseu,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Dourados,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Eldorado do Sul,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Embu das Artes,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Embu-Guaçu,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Esteio,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Estância,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Eunápolis,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Eusébio,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Extrema,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Farias Brito,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Farroupilha,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Fazenda Rio Grande,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Feira Nova do Maranhão,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Feira de Santana,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Fernandópolis,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Floriano,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Florianópolis,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Formiga,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Fortaleza,1 (0.8 -- 1.1),1,1,0.1,0.8,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Foz do Iguaçu,1 (0.9 -- 1.1),1,1,0.1,0.9,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Francisco Beltrão,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Frecheirinha,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Frutal,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Garibaldi,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Gaspar,1 (0.8 -- 1.1),1,1,0.1,0.8,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Girau do Ponciano,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Goianira,1 (0.8 -- 1.1),1,1,0.1,0.8,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Governador Valadares,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Gramado,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Granja,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Guabiruba,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Guajará-Mirim,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Guariba,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Guarujá,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Guarulhos,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Guaxupé,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Hidrolândia,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Horizonte,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Hortolândia,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Humaitá,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Ibiporã,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Ibirataia,1 (0.9 -- 1.1),1,1,0.1,0.9,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Ibitinga,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Igarapé-Miri,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1,1,1.2,Effective reproduction no.,Unsure
+Igrejinha,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Iguaba Grande,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Ijuí,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Imbituba,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Indaial,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Indaiatuba,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Ingá,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Ipatinga,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Ipiaú,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Ipixuna,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Ipu,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Iracemápolis,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Iranduba,1 (0.9 -- 1),1,1,0.1,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Irati,1 (0.8 -- 1.2),1,1,0.1,0.8,1,1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Irecê,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itabaianinha,1 (0.9 -- 1),1,1,0.1,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Itaberaba,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itabira,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Itaboraí,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itabuna,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Itacoatiara,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itajaí,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itajuípe,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itanhaém,1 (1 -- 1.1),1,1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Itapajé,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itapecerica da Serra,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itapecuru Mirim,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itapema,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Itaperuçu,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itapetinga,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itapetininga,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Itapevi,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itapira,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Itapiranga,1 (0.9 -- 1.1),1,1,0.1,0.9,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Itaporanga,1 (0.9 -- 1.1),1,1,0,0.9,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Itaquaquecetuba,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Itarema,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itatiba,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itaúna,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itu,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itumbiara,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Itupeva,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Içara,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Jaboatão dos Guararapes,1 (0.9 -- 1),1,1,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Jacareí,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Jacobina,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Likely increasing
+Jaguaquara,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Jaguariúna,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Jaguaruana,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Jaguaruna,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Jandira,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Jaru,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Jaú,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Jequié,1 (0.8 -- 1.1),1,1,0.1,0.8,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Ji-Paraná,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Joinville,1 (0.7 -- 1.2),1,1,0.1,0.7,0.9,0.9,1,1.1,1.2,Effective reproduction no.,Unsure
+João Monlevade,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+João Pessoa,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Juazeiro,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Juiz de Fora,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Lago da Pedra,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Lagoa da Prata,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Laguna,1 (1 -- 1.1),1,1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Lajeado,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Lauro de Freitas,1 (0.8 -- 1.1),1,1,0.1,0.8,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Lençóis Paulista,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Limeira,1 (0.9 -- 1),1,1,0.1,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Limoeiro do Norte,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Lins,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Luzilândia,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Macapá,1 (0.8 -- 1.2),1,1,0.1,0.8,0.9,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Macaé,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Maceió,1 (0.8 -- 1.2),1,1,0.1,0.8,0.9,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Machadinho D'Oeste,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Madre de Deus,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Mairiporã,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Manhuaçu,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Manicoré,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Maracanaú,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Maranguape,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Marau,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Maravilha,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Marechal Cândido Rondon,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Marechal Deodoro,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Mariana,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Maricá,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Maringá,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Marituba,1 (0.9 -- 1.1),1,1,0.1,0.9,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Marília,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Matriz de Camaragibe,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Mauá,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Medeiros Neto,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Medianeira,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Mesquita,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Miguel Alves,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Miranda,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Mogi Guaçu,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Mogi Mirim,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Mogi das Cruzes,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Monte Alto,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Monte Mor,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Monteiro,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Morada Nova,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Morrinhos,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Mossoró,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Mucajaí,1 (0.8 -- 1.2),1,1,0.1,0.8,0.9,1,1,1,1.2,Effective reproduction no.,Unsure
+Nanuque,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Navegantes,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Naviraí,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Nilópolis,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Niterói,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Nossa Senhora da Glória,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Nova Friburgo,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Nova Iguaçu,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Nova Mamoré,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Nova Olinda do Norte,1 (0.8 -- 1.1),1,1,0.1,0.8,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Nova Prata,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Novo Hamburgo,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Novo Horizonte,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Olinda,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Orleans,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Osasco,1 (1 -- 1.1),1,1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Osório,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Ourilândia do Norte,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Ourinhos,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Ouro Preto do Oeste,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Pacatuba,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Palhoça,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Palmares,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Palmeira dos Índios,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Palmeiras de Goiás,1 (0.9 -- 1),1,1,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Paraipaba,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Paranaguá,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Paraíba do Sul,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Parnamirim,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Parnaíba,1 (0.8 -- 1.1),1,1,0.1,0.8,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Parobé,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Passo Fundo,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Paulínia,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Pedra Branca do Amapari,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Pedreiras,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Pedro II,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Pelotas,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Penedo,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Peruíbe,1 (1 -- 1.1),1,1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Pesqueira,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Petrolina,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Petrópolis,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Picos,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Piedade,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Pilar,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Pinhais,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Pirapora,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Piraquara,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Pires do Rio,1 (0.9 -- 1),1,1,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Ponta Grossa,1 (0.9 -- 1),1,0.9,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Ponta Porã,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Pontal,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Portel,1 (0.9 -- 1.1),1,1,0.1,0.9,0.9,0.9,1,1,1.1,Effective reproduction no.,Unsure
+Porto Alegre,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Porto Belo,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Porto Feliz,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Porto Grande,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Porto Seguro,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Porto Velho,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Poços de Caldas,1 (1 -- 1.1),1,1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Poção de Pedras,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Poções,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Presidente Dutra,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Presidente Figueiredo,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Promissão,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Queimados,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Quirinópolis,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Quixadá,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Quixelô,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Quixeramobim,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Rancharia,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Recife,1 (0.8 -- 1.1),1,1,0.1,0.8,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Redenção,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Registro,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Resende,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Ribeira do Pombal,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Ribeirão Pires,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Ribeirão Preto,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Ribeirão das Neves,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Rio Branco,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Rio Branco do Sul,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Rio Brilhante,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Rio Claro,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Rio Grande,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Rio Largo,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Rio Maria,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Rio Preto da Eva,1 (0.7 -- 1.3),1,1,0.2,0.7,0.9,1,1,1.1,1.3,Effective reproduction no.,Unsure
+Rio das Ostras,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Rio de Janeiro,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Rio do Sul,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Rolim de Moura,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Russas,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Salgueiro,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Salto,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Salto de Pirapora,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Salvador,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Santa Cruz das Palmeiras,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Santa Cruz do Sul,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Santa Helena,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Santa Inês,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Santa Luzia,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Santa Maria,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Santa Quitéria,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Santa Rosa,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Santana,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Santana de Parnaíba,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Santana do Acaraú,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Santana do Araguaia,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Santana do Paraíso,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Santarém,1 (0.8 -- 1.2),1,1,0.1,0.8,0.9,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Santo Amaro,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Santo Amaro da Imperatriz,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Santo André,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Santo Antônio de Pádua,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Santos,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Sapiranga,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Sapucaia do Sul,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Sarandi,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Senhor do Bonfim,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Serafina Corrêa,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Serra Talhada,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Serrana,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Serrinha,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Sete Lagoas,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Sidrolândia,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Simão Dias,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Simões Filho,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Sorocaba,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Surubim,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Suzano,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+São Benedito do Rio Preto,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+São Bento,1 (0.8 -- 1.1),1,1,0.1,0.8,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+São Bernardo do Campo,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+São Borja,1 (0.9 -- 1),1,1,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+São Caetano do Sul,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+São Carlos,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+São Domingos do Maranhão,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+São Francisco do Conde,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+São Francisco do Sul,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+São Gabriel,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+São Gabriel da Cachoeira,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+São Gabriel do Oeste,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+São Gotardo,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+São José,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+São José de Ribamar,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+São José do Rio Preto,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+São José dos Campos,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+São João de Meriti,1 (1 -- 1.1),1,1.1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+São Leopoldo,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+São Lourenço da Mata,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+São Mateus do Maranhão,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+São Paulo,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+São Raimundo Nonato,1 (0.8 -- 1.2),1,1,0.1,0.8,0.9,0.9,1,1,1.2,Effective reproduction no.,Unsure
+São Raimundo das Mangabeiras,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+São Roque,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+São Sebastião do Passé,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+São Vicente,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Sítio Novo,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Tabatinga,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Tabira,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Taboão da Serra,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Tabuleiro do Norte,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Tailândia,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Tanguá,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Tatuí,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Taubaté,1 (0.9 -- 1.1),1,1,0.1,0.9,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Tauá,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Tefé,1 (0.9 -- 1),1,1,0.1,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Telêmaco Borba,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Teotônio Vilela,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Teresina,1 (0.9 -- 1),1,1,0,0.9,0.9,1,1,1,1,Effective reproduction no.,Unsure
+Teutônia,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Tianguá,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Timbó,1 (0.9 -- 1.2),1,1,0.1,0.9,1,1,1.1,1.1,1.2,Effective reproduction no.,Unsure
+Timóteo,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Tobias Barreto,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Toledo,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Tomé-Açu,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Torres,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Trindade,1 (1 -- 1.1),1,1,0.1,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Três Passos,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Três Rios,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Tubarão,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Tuntum,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Tupã,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Tutóia,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Ubatuba,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Ubatã,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Uberlândia,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Ubá,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Umuarama,1 (0.8 -- 1.2),1,1,0.1,0.8,0.9,0.9,1,1.1,1.2,Effective reproduction no.,Unsure
+Unaí,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Uruará,1 (0.9 -- 1.1),1,1,0.1,0.9,0.9,1,1,1,1.1,Effective reproduction no.,Unsure
+Urucurituba,1 (1 -- 1.1),1,1,0.1,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Uruguaiana,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Uruçuí,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Valinhos,1 (1 -- 1.1),1,1,0,1,1,1,1.1,1.1,1.1,Effective reproduction no.,Unsure
+Varginha,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Varjota,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Venâncio Aires,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Viamão,1 (1 -- 1),1,1,0,1,1,1,1,1,1,Effective reproduction no.,Unsure
+Vilhena,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Vinhedo,1 (1 -- 1.1),1,1,0,1,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Vitória da Conquista,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Vitória de Santo Antão,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Vitória do Jari,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Vitória do Xingu,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Viçosa do Ceará,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Volta Redonda,1 (1 -- 1.1),1,1,0,1,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Votorantim,1 (0.9 -- 1),1,1,0,0.9,1,1,1,1,1,Effective reproduction no.,Unsure
+Zé Doca,1 (0.9 -- 1.1),1,1,0,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Água Branca,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1,1.1,Effective reproduction no.,Unsure
+Água Preta,1 (0.9 -- 1.1),1,1,0.1,0.9,1,1,1,1.1,1.1,Effective reproduction no.,Unsure
+Águas Lindas de Goiás,1 (0.8 -- 1.2),1,1,0.1,0.8,1,1,1,1.1,1.2,Effective reproduction no.,Unsure
+Acopiara,0.9 (0.9 -- 1),0.9,1,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Alagoinhas,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Altamira,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Amparo,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Ananindeua,0.9 (0.7 -- 1),0.9,0.9,0.1,0.7,0.8,0.8,0.9,0.9,1,Effective reproduction no.,Unsure
+Aparecida de Goiânia,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Aparecida do Taboado,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Araxá,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Araçatuba,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Atalaia do Norte,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Atibaia,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Baixa Grande do Ribeiro,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Balsas,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Barcelos,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Barra do Corda,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Barra dos Coqueiros,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Barreirinhas,0.9 (0.8 -- 1.1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,1,1.1,Effective reproduction no.,Unsure
+Barretos,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Belford Roxo,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Bertioga,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Betim,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Bom Jesus,0.9 (0.8 -- 1.1),0.9,0.9,0.1,0.8,0.8,0.9,0.9,0.9,1.1,Effective reproduction no.,Unsure
+Bonfim,0.9 (0.9 -- 1.1),0.9,1,0.1,0.9,0.9,0.9,1,1,1.1,Effective reproduction no.,Unsure
+Buriticupu,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.8,0.8,0.9,0.9,1,Effective reproduction no.,Unsure
+Cajati,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Cajazeiras,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Campo Belo,0.9 (0.9 -- 1),0.9,0.9,0.1,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Campo Maior,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Canaã dos Carajás,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Caxias,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Conceição das Alagoas,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Concórdia,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Coruripe,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Cosmópolis,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Crateús,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.8,0.8,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Cruz Alta,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Likely increasing
+Divinópolis,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Dracena,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Esperantina,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Ferraz de Vasconcelos,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.8,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Formosa,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Formoso do Araguaia,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Franca,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Franco da Rocha,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Garanhuns,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Goianésia,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Goiatuba,0.9 (0.8 -- 0.9),0.9,0.9,0.1,0.8,0.8,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Goiânia,0.9 (0.9 -- 0.9),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Grajaú,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Guaporé,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Guarabira,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Guaratinguetá,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Guaratuba,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Guaraí,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Humberto de Campos,0.9 (0.9 -- 1),0.9,0.9,0.1,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Ibirubá,0.9 (0.8 -- 1.1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,1,1.1,Effective reproduction no.,Unsure
+Icó,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Iguatu,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Ilhéus,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Inhumas,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Ipueiras,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Itajubá,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Itapipoca,0.9 (0.8 -- 1.1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,1,1.1,Effective reproduction no.,Unsure
+Itaporanga d'Ajuda,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.8,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Itororó,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Janaúba,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Jataí,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+José Bonifácio,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.8,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Juazeiro do Norte,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Juquitiba,0.9 (0.8 -- 1.1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,1,1.1,Effective reproduction no.,Unsure
+Lagarto,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Lages,0.9 (0.6 -- 1.2),0.9,0.9,0.2,0.6,0.8,0.9,0.9,1,1.2,Effective reproduction no.,Unsure
+Lapa,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Leme,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Londrina,0.9 (0.8 -- 1.1),0.9,0.9,0.1,0.8,0.9,0.9,1,1,1.1,Effective reproduction no.,Unsure
+Lorena,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Luziânia,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Luís Eduardo Magalhães,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Lábrea,0.9 (0.8 -- 1.1),0.9,0.9,0.1,0.8,0.9,0.9,1,1,1.1,Effective reproduction no.,Unsure
+Manacapuru,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.8,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Manaus,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Mangaratiba,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Marabá,0.9 (0.8 -- 1.1),0.9,0.9,0.1,0.8,0.9,0.9,1,1,1.1,Effective reproduction no.,Unsure
+Maués,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Medicilândia,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Mineiros,0.9 (0.8 -- 1.2),0.9,0.9,0.1,0.8,0.9,0.9,1,1,1.2,Effective reproduction no.,Unsure
+Mirassol,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Mococa,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Mombaça,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Monte Alegre,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.8,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Montes Claros,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Muriaé,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Mâncio Lima,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Niquelândia,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Nossa Senhora do Socorro,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Nova Odessa,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Oeiras,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Oiapoque,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Olho d'Água das Flores,0.9 (0.9 -- 1),0.9,1,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Olímpia,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Pacajus,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Parintins,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Passos,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Patos de Minas,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Patrocínio,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.8,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Paulo Afonso,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Penápolis,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Piracicaba,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Pirassununga,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Piripiri,0.9 (0.9 -- 1),0.9,1,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Pitangueiras,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Planaltina,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Pouso Alegre,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Poá,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Praia Grande,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Presidente Prudente,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Propriá,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Rio Verde,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Santa Bárbara d'Oeste,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Santa Cruz do Capibaribe,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Santa Fé do Sul,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Santa Gertrudes,0.9 (0.9 -- 1),0.9,0.9,0.1,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Santa Helena de Goiás,0.9 (0.8 -- 1.1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,1,1.1,Effective reproduction no.,Unsure
+Santa Rita,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Santo Antônio de Jesus,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Sapé,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,1,1,1,Effective reproduction no.,Unsure
+Saquarema,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Sena Madureira,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Sertãozinho,0.9 (0.9 -- 1),0.9,0.9,0.1,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Sobral,0.9 (0.7 -- 1.1),0.9,0.9,0.1,0.7,0.8,0.8,0.9,1,1.1,Effective reproduction no.,Unsure
+Sumaré,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+São Benedito,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+São Cristóvão,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+São Gonçalo,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+São Joaquim da Barra,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+São José dos Pinhais,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+São João dos Patos,0.9 (0.7 -- 1),0.9,0.9,0.1,0.7,0.8,0.8,0.9,0.9,1,Effective reproduction no.,Unsure
+São Luís,0.9 (0.8 -- 1.1),0.9,1,0.1,0.8,0.9,0.9,1,1,1.1,Effective reproduction no.,Unsure
+São Luís de Montes Belos,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+São Paulo de Olivença,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+São Pedro da Aldeia,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+São Sebastião do Paraíso,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Tanabi,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Taquaritinga,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Teixeira de Freitas,0.9 (0.7 -- 1.2),0.9,0.9,0.1,0.7,0.9,0.9,1,1,1.2,Effective reproduction no.,Unsure
+Timon,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Tramandaí,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Três Lagoas,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Tucuruí,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Uberaba,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+União,0.9 (0.8 -- 1),0.9,0.9,0.1,0.8,0.8,0.8,0.9,0.9,1,Effective reproduction no.,Unsure
+Valparaíso de Goiás,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Vargem Grande do Sul,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Vitorino Freire,0.9 (0.9 -- 1),0.9,0.9,0.1,0.9,0.9,0.9,0.9,1,1,Effective reproduction no.,Unsure
+Votuporanga,0.9 (0.9 -- 1),0.9,0.9,0,0.9,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Várzea Paulista,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Xapuri,0.9 (0.8 -- 0.9),0.9,0.9,0,0.8,0.8,0.8,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Xaxim,0.9 (0.8 -- 0.9),0.9,0.9,0.1,0.8,0.8,0.8,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Óbidos,0.9 (0.8 -- 1),0.9,0.9,0,0.8,0.9,0.9,0.9,0.9,1,Effective reproduction no.,Unsure
+Alfenas,0.8 (0.7 -- 0.9),0.8,0.8,0,0.7,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Anori,0.8 (0.8 -- 0.9),0.8,0.8,0.1,0.8,0.8,0.8,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Apodi,0.8 (0.7 -- 0.9),0.8,0.8,0,0.7,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Aquidauana,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Aracaju,0.8 (0.6 -- 1),0.8,0.8,0.1,0.6,0.7,0.8,0.8,0.9,1,Effective reproduction no.,Unsure
+Araguari,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.9,0.9,Effective reproduction no.,Unsure
+Araguaína,0.8 (0.7 -- 0.9),0.8,0.8,0,0.7,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Araras,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Açailândia,0.8 (0.8 -- 0.9),0.8,0.8,0.1,0.8,0.8,0.8,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Bady Bassitt,0.8 (0.7 -- 0.9),0.8,0.8,0,0.7,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Boa Viagem,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.9,0.9,Effective reproduction no.,Unsure
+Boa Vista,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Bom Jesus das Selvas,0.8 (0.8 -- 0.8),0.8,0.8,0,0.8,0.8,0.8,0.8,0.8,0.8,Effective reproduction no.,Unsure
+Canindé,0.8 (0.7 -- 0.8),0.8,0.8,0,0.7,0.7,0.7,0.8,0.8,0.8,Effective reproduction no.,Unsure
+Cantá,0.8 (0.7 -- 0.8),0.8,0.8,0,0.7,0.7,0.7,0.8,0.8,0.8,Effective reproduction no.,Unsure
+Catalão,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.9,0.9,Effective reproduction no.,Unsure
+Colinas,0.8 (0.7 -- 0.9),0.8,0.8,0,0.7,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Colinas do Tocantins,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Eirunepé,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.9,0.9,Effective reproduction no.,Unsure
+Guaíra,0.8 (0.7 -- 0.9),0.8,0.8,0,0.7,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Imperatriz,0.8 (0.7 -- 1),0.8,0.8,0.1,0.7,0.8,0.8,0.8,0.9,1,Effective reproduction no.,Unsure
+Iporá,0.8 (0.7 -- 1),0.8,0.8,0.1,0.7,0.8,0.8,0.8,0.9,1,Effective reproduction no.,Unsure
+Itaberaí,0.8 (0.7 -- 0.8),0.8,0.8,0,0.7,0.8,0.8,0.8,0.8,0.8,Effective reproduction no.,Unsure
+Itaituba,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Itatira,0.8 (0.7 -- 0.9),0.8,0.8,0,0.7,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Ituiutaba,0.8 (0.7 -- 0.9),0.8,0.8,0.1,0.7,0.8,0.8,0.8,0.9,0.9,Effective reproduction no.,Unsure
+José de Freitas,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Ladário,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Mauriti,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Natal,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.9,0.9,Effective reproduction no.,Unsure
+Nova Lima,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.9,0.9,Effective reproduction no.,Unsure
+Novo Gama,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Orlândia,0.8 (0.7 -- 0.9),0.8,0.8,0,0.7,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Pacaraima,0.8 (0.7 -- 0.9),0.8,0.8,0.1,0.7,0.8,0.8,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Palmas,0.8 (0.7 -- 0.8),0.8,0.8,0,0.7,0.8,0.8,0.8,0.8,0.8,Effective reproduction no.,Unsure
+Paracatu,0.8 (0.8 -- 0.9),0.8,0.8,0.1,0.8,0.8,0.8,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Paracuru,0.8 (0.7 -- 0.9),0.8,0.8,0.1,0.7,0.8,0.8,0.8,0.9,0.9,Effective reproduction no.,Unsure
+Paragominas,0.8 (0.7 -- 0.9),0.8,0.8,0.1,0.7,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Paraty,0.8 (0.7 -- 0.8),0.8,0.8,0,0.7,0.8,0.8,0.8,0.8,0.8,Effective reproduction no.,Unsure
+Pindamonhangaba,0.8 (0.7 -- 0.9),0.8,0.8,0,0.7,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Ponta de Pedras,0.8 (0.8 -- 0.9),0.8,0.8,0.1,0.8,0.8,0.8,0.8,0.9,0.9,Effective reproduction no.,Unsure
+Porto Nacional,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Rorainópolis,0.8 (0.7 -- 0.9),0.8,0.8,0.1,0.7,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Rurópolis,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.9,0.9,Effective reproduction no.,Unsure
+Santa Isabel do Rio Negro,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.9,0.9,0.9,Effective reproduction no.,Unsure
+Senador Canedo,0.8 (0.7 -- 0.9),0.8,0.8,0,0.7,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+São Félix do Xingu,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.9,0.9,Effective reproduction no.,Unsure
+São Sebastião,0.8 (0.8 -- 0.9),0.8,0.8,0,0.8,0.8,0.8,0.8,0.8,0.9,Effective reproduction no.,Unsure
+Ubajara,0.8 (0.8 -- 0.9),0.8,0.8,0.1,0.8,0.8,0.8,0.8,0.9,0.9,Effective reproduction no.,Unsure
+Araguatins,0.7 (0.6 -- 0.8),0.7,0.7,0,0.6,0.7,0.7,0.7,0.7,0.8,Effective reproduction no.,Unsure
+Caicó,0.7 (0.7 -- 0.8),0.7,0.7,0.1,0.7,0.7,0.7,0.7,0.8,0.8,Effective reproduction no.,Unsure
+Caracaraí,0.7 (0.6 -- 0.8),0.7,0.7,0.1,0.6,0.7,0.7,0.7,0.8,0.8,Effective reproduction no.,Unsure
+Curionópolis,0.7 (0.6 -- 0.8),0.7,0.7,0.1,0.6,0.7,0.7,0.7,0.7,0.8,Effective reproduction no.,Unsure
+Gurupi,0.7 (0.7 -- 0.8),0.7,0.7,0,0.7,0.7,0.7,0.8,0.8,0.8,Effective reproduction no.,Unsure
+Jaraguá,0.7 (0.6 -- 0.8),0.7,0.7,0.1,0.6,0.6,0.7,0.7,0.7,0.8,Effective reproduction no.,Unsure
+Nova Serrana,0.7 (0.6 -- 0.8),0.7,0.7,0,0.6,0.7,0.7,0.7,0.7,0.8,Effective reproduction no.,Unsure
+Pindobaçu,0.7 (0.6 -- 0.8),0.7,0.7,0.1,0.6,0.7,0.7,0.7,0.7,0.8,Effective reproduction no.,Unsure
+Barcarena,0.6 (0.5 -- 0.7),0.6,0.6,0,0.5,0.6,0.6,0.6,0.6,0.7,Effective reproduction no.,Unsure
+Espírito Santo do Pinhal,0.6 (0.6 -- 0.7),0.6,0.6,0,0.6,0.6,0.6,0.6,0.6,0.7,Effective reproduction no.,Unsure
+Orós,0.6 (0.6 -- 0.7),0.6,0.6,0,0.6,0.6,0.6,0.6,0.6,0.7,Effective reproduction no.,Unsure
+Paraíso do Tocantins,0.6 (0.6 -- 0.8),0.6,0.7,0.1,0.6,0.6,0.6,0.7,0.7,0.8,Effective reproduction no.,Unsure
+São Domingos do Araguaia,0.6 (0.6 -- 0.7),0.6,0.6,0,0.6,0.6,0.6,0.7,0.7,0.7,Effective reproduction no.,Unsure
+Barra Bonita,0.5 (0.5 -- 0.6),0.5,0.6,0,0.5,0.5,0.5,0.6,0.6,0.6,Effective reproduction no.,Unsure
+Juruti,0.5 (0.5 -- 0.7),0.5,0.6,0.1,0.5,0.5,0.5,0.6,0.6,0.7,Effective reproduction no.,Unsure

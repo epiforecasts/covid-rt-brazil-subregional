@@ -27,3 +27,4 @@ onset_to_report <- estimate_delay(report_delay$delay_onset_report,
 
 saveRDS(onset_to_report, here::here("data", "delays", "onset_to_report.rds"))
 
+plan(sequential)
