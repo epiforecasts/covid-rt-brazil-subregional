@@ -25,7 +25,7 @@ plan("multisession", gc = TRUE, earlySignal = TRUE)
 regional_epinow(reported_cases = cases,
                 generation_time = generation_time, 
                 delays = delay_opts(incubation_period, reporting_delay),
-                backcalc = backcalc_opts(rt_window = 3, prior_window = 4*7),
+                backcalc = backcalc_opts(rt_window = 3, prior_window = 8*7),
                 rt = NULL,  horizon = 7,
                 obs = obs_opts(scale = list(mean = 0.1, sd = 0.025)),
                 stan = stan_opts(samples = 2000, warmup = 250, chains = 2,
